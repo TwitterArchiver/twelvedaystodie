@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1865068894316302852",
+    "created_at": "2024-12-07T06:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T07:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865284917455917241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865026386756579328",
+          "start": 0,
+          "username": "fXhUsHz9Tw77925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865284917455917241",
+    "in_reply_to_user_id": "1865026386756579328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865068894316302852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fXhUsHz9Tw77925 寶寶這裡也是香港的！！可以互fol嗎&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1865068894316302852",
+        "created_at": "2024-12-07T06:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T07:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865284917455917241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865026386756579328",
+              "start": 0,
+              "username": "fXhUsHz9Tw77925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865284917455917241",
+        "in_reply_to_user_id": "1865026386756579328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865068894316302852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fXhUsHz9Tw77925 寶寶這裡也是香港的！！可以互fol嗎&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865068889069223936",
+            "3_1865068889148919810",
+            "3_1865068889652224000",
+            "3_1865068889794916352"
+          ]
+        },
+        "author_id": "1865026386756579328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1865068894316302852",
+        "created_at": "2024-12-06T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865068894316302852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "hk地雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lxHktYm1H",
+              "end": 60,
+              "expanded_url": "https://x.com/fXhUsHz9Tw77925/status/1865068894316302852/photo/1",
+              "media_key": "3_1865068889069223936",
+              "start": 37,
+              "url": "https://t.co/8lxHktYm1H"
+            },
+            {
+              "display_url": "pic.x.com/8lxHktYm1H",
+              "end": 60,
+              "expanded_url": "https://x.com/fXhUsHz9Tw77925/status/1865068894316302852/photo/1",
+              "media_key": "3_1865068889148919810",
+              "start": 37,
+              "url": "https://t.co/8lxHktYm1H"
+            },
+            {
+              "display_url": "pic.x.com/8lxHktYm1H",
+              "end": 60,
+              "expanded_url": "https://x.com/fXhUsHz9Tw77925/status/1865068894316302852/photo/1",
+              "media_key": "3_1865068889652224000",
+              "start": 37,
+              "url": "https://t.co/8lxHktYm1H"
+            },
+            {
+              "display_url": "pic.x.com/8lxHktYm1H",
+              "end": 60,
+              "expanded_url": "https://x.com/fXhUsHz9Tw77925/status/1865068894316302852/photo/1",
+              "media_key": "3_1865068889794916352",
+              "start": 37,
+              "url": "https://t.co/8lxHktYm1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865068894316302852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 867,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n夜永繪夢/咩咩\n香港 06 地雷\n想和大家一齊出去玩\n\n#hk地雷 https://t.co/8lxHktYm1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 240,
+          "like_count": 6733,
+          "listed_count": 15,
+          "media_count": 757,
+          "tweet_count": 10131
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T13:32:26.000Z",
+        "description": "",
+        "id": "1865026386756579328",
+        "name": "夜永絵夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865026947954413570/8ebYBr8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "fXhUsHz9Tw77925",
+        "verified": false
+      }
+    ]
+  }
+}

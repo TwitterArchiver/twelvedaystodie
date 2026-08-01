@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1922274623908958574",
+    "created_at": "2025-05-14T07:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922547659673338259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922547659673338259",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922418018753106077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 啊我兩個也有，完了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922418018753106077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922418018753106077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922418018753106077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1922274623908958574",
+        "created_at": "2025-05-14T07:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922547659673338259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922547659673338259",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922418018753106077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 啊我兩個也有，完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8159,
+          "following_count": 237,
+          "like_count": 7030,
+          "listed_count": 15,
+          "media_count": 808,
+          "tweet_count": 10588
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n\n我的女友@nagaseruna7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nagaseruna7777"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3280,
+          "following_count": 252,
+          "like_count": 45455,
+          "listed_count": 8,
+          "media_count": 876,
+          "tweet_count": 11495
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

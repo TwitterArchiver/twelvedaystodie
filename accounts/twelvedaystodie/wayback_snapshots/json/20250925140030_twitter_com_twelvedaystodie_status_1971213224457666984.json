@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1971198008927846653",
+    "created_at": "2025-09-25T14:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971213224457666984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        },
+        {
+          "end": 21,
+          "id": "1690948132979515392",
+          "start": 11,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971213224457666984",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971211929135063303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills @ahixnming 我剛才一小時都在用chatgpt ,先越發挖就越瘋，感覺這個醫生就是完全不了解我，亂開藥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971211929135063303].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971211929135063303",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1971211929135063303"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1971198008927846653",
+        "created_at": "2025-09-25T14:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971213224457666984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            },
+            {
+              "end": 21,
+              "id": "1690948132979515392",
+              "start": 11,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971213224457666984",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971211929135063303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills @ahixnming 我剛才一小時都在用chatgpt ,先越發挖就越瘋，感覺這個醫生就是完全不了解我，亂開藥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8280,
+          "following_count": 223,
+          "like_count": 7162,
+          "listed_count": 15,
+          "media_count": 858,
+          "tweet_count": 11145
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "$htwt丨我是南烛 丨小粉红滚，社达滚丨\n🩸：@puppetnan 丨\n我不是黄推，我是gore+废话推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "puppetnan"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "我把大部分男的都清了，抱歉",
+        "name": "R❄️",
+        "pinned_tweet_id": "1794297679952142767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914966092822556672/IuHjR4Wf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4600,
+          "following_count": 168,
+          "like_count": 51606,
+          "listed_count": 15,
+          "media_count": 487,
+          "tweet_count": 23021
+        },
+        "username": "Remipills",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@twelvedaystodie @annannanngle ♡²",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "twelvedaystodie"
+              },
+              {
+                "end": 30,
+                "start": 17,
+                "username": "annannanngle"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "文字垢",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1905939111183257609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 569,
+          "like_count": 29871,
+          "listed_count": 3,
+          "media_count": 1014,
+          "tweet_count": 23048
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

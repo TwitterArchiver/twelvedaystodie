@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2026522487853609211",
+    "created_at": "2026-02-25T04:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026522487853609211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026522487853609211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天又看醫生了，醫生說我身體整個垮掉了，要在食物上補救，但是我現在精神狀態好差\n每晚都驚恐發作，我根本沒心思理食物的事情\n好痛苦，為什麼精神上和身體都要這樣對我\n他們又不懂精神科那邊我有多糟\n昨晚又嚴重驚恐發作，說不了話，好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2026522487853609211",
+        "created_at": "2026-02-25T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026522487853609211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026522487853609211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天又看醫生了，醫生說我身體整個垮掉了，要在食物上補救，但是我現在精神狀態好差\n每晚都驚恐發作，我根本沒心思理食物的事情\n好痛苦，為什麼精神上和身體都要這樣對我\n他們又不懂精神科那邊我有多糟\n昨晚又嚴重驚恐發作，說不了話，好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8854,
+          "following_count": 223,
+          "like_count": 6975,
+          "listed_count": 15,
+          "media_count": 897,
+          "tweet_count": 11477
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

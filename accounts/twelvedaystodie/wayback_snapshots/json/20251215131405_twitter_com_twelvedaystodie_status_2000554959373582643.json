@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000403280812560384"
+      ],
+      "media_source_tweet_id": [
+        "2000403311242146039"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000554959373582643",
+    "created_at": "2025-12-15T13:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000554959373582643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816499982503231488",
+          "start": 3,
+          "username": "xinbao0x0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmq4bay2QU",
+          "end": 49,
+          "expanded_url": "https://x.com/xinbao0x0/status/2000403311242146039/video/1",
+          "media_key": "7_2000403280812560384",
+          "start": 26,
+          "url": "https://t.co/mmq4bay2QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000554959373582643",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000403311242146039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinbao0x0: Life 2025. https://t.co/mmq4bay2QU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000554959373582643].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000554959373582643",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000554959373582643"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7894,
+        "height": 960,
+        "media_key": "7_2000403280812560384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000403280812560384/pu/img/KLXU2LYEWpHFj87D.jpg",
+        "public_metrics": {
+          "view_count": 569
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000403280812560384/pu/vid/avc1/320x426/JSE3Ls31pejSatOM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000403280812560384/pu/vid/avc1/480x640/LqzhVTm9jpuhSfvW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000403280812560384/pu/vid/avc1/720x960/6zVJBBe71s-r-6Yy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000403280812560384/pu/pl/kr3IW5NPMApz1eoQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000403280812560384"
+          ]
+        },
+        "author_id": "1816499982503231488",
+        "conversation_id": "2000403311242146039",
+        "created_at": "2025-12-15T03:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000403311242146039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmq4bay2QU",
+              "end": 34,
+              "expanded_url": "https://x.com/xinbao0x0/status/2000403311242146039/video/1",
+              "media_key": "7_2000403280812560384",
+              "start": 11,
+              "url": "https://t.co/mmq4bay2QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000403311242146039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 1198,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Life 2025. https://t.co/mmq4bay2QU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 222,
+          "like_count": 7030,
+          "listed_count": 15,
+          "media_count": 876,
+          "tweet_count": 11282
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:45:42.000Z",
+        "description": "sh ｜od ｜ed｜an ｜bpd ｜ mdd",
+        "id": "1816499982503231488",
+        "name": "零魂",
+        "pinned_tweet_id": "1974160067969888306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816503279104495616/xEPeK9t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9789,
+          "following_count": 33,
+          "like_count": 283,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 237
+        },
+        "username": "xinbao0x0",
+        "verified": false
+      }
+    ]
+  }
+}

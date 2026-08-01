@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1876879969902620717",
+    "created_at": "2025-01-11T06:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T07:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877962034240999756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877962034240999756",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877647361742385318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ 喉嚨還沒好，但其他好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1876879969902620717",
+        "created_at": "2025-01-11T06:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T07:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877962034240999756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877962034240999756",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877647361742385318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 喉嚨還沒好，但其他好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1876879969902620717",
+        "created_at": "2025-01-10T09:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T10:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877647361742385318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877647361742385318",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876879969902620717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 歡迎回來！感冒還好嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7916,
+          "following_count": 240,
+          "like_count": 6740,
+          "listed_count": 15,
+          "media_count": 760,
+          "tweet_count": 10171
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4960,
+          "following_count": 360,
+          "like_count": 78617,
+          "listed_count": 21,
+          "media_count": 376,
+          "tweet_count": 8960
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

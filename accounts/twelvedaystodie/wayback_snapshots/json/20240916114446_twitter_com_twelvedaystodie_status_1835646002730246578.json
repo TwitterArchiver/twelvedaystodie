@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1835639398836343142",
+    "created_at": "2024-09-16T11:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T12:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835646002730246578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835646002730246578",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835645122585022663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ 我之前覺得，我現在覺得做以前喜歡的興趣時，會很痛苦，所以慶幸自己還有遊戲是感興趣，但現在卻覺得連遊戲都很無聊了\n這樣我只剩下空殼，不知道為了什麼而醒來的人\n之前看過如果開始對熱衷的東西失去興趣時，那離死不遠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1835639398836343142",
+        "created_at": "2024-09-16T11:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T12:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835646002730246578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835646002730246578",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835645122585022663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 我之前覺得，我現在覺得做以前喜歡的興趣時，會很痛苦，所以慶幸自己還有遊戲是感興趣，但現在卻覺得連遊戲都很無聊了\n這樣我只剩下空殼，不知道為了什麼而醒來的人\n之前看過如果開始對熱衷的東西失去興趣時，那離死不遠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1835639398836343142",
+        "created_at": "2024-09-16T11:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835645122585022663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835645122585022663",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835639398836343142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我也這麼覺得…前天直接把玩3000多小時的遊戲刪了…已經沒有什麼想繼續玩的動力了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 230,
+          "like_count": 6637,
+          "listed_count": 14,
+          "tweet_count": 9767
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 366,
+          "like_count": 77391,
+          "listed_count": 29,
+          "tweet_count": 8590
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

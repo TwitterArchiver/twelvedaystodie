@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1909625588291453165",
+    "created_at": "2025-04-08T15:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909625588291453165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880145046403698688",
+          "start": 3,
+          "username": "tsuk1m0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909625588291453165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908947582237475211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuk1m0110: 香港精神病結論：\n看醫生250 一至兩個禮拜一次 \n藥費不定 不能保證我不自殺 \n而且會被長髮怪醫生捉去住精神科\n\n隊草1000一個月 訓醒就隊 眼訓就訓\n能保證我不自殺 並減少病發機率"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1909625588291453165",
+        "created_at": "2025-04-08T15:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909625588291453165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880145046403698688",
+              "start": 3,
+              "username": "tsuk1m0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909625588291453165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908947582237475211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsuk1m0110: 香港精神病結論：\n看醫生250 一至兩個禮拜一次 \n藥費不定 不能保證我不自殺 \n而且會被長髮怪醫生捉去住精神科\n\n隊草1000一個月 訓醒就隊 眼訓就訓\n能保證我不自殺 並減少病發機率"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880145046403698688",
+        "conversation_id": "1908947582237475211",
+        "created_at": "2025-04-06T18:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T19:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908947582237475211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908947582237475211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1027,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "香港精神病結論：\n看醫生250 一至兩個禮拜一次 \n藥費不定 不能保證我不自殺 \n而且會被長髮怪醫生捉去住精神科\n\n隊草1000一個月 訓醒就隊 眼訓就訓\n能保證我不自殺 並減少病發機率"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\n寶貝︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8027,
+          "following_count": 235,
+          "like_count": 6886,
+          "listed_count": 16,
+          "media_count": 787,
+          "tweet_count": 10403
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:48:13.000Z",
+        "description": "🚪388",
+        "id": "1880145046403698688",
+        "name": "小烟2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880146241679773696/2Ls3rlQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 26,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 65
+        },
+        "username": "tsuk1m0110",
+        "verified": false
+      }
+    ]
+  }
+}

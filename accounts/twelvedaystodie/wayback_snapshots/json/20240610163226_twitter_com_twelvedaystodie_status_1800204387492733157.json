@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1800201834151411922",
+    "created_at": "2024-06-10T16:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T17:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800204387492733157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800204387492733157",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800201834151411922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 愛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1800201834151411922",
+        "created_at": "2024-06-10T16:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800204387492733157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800204387492733157",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800201834151411922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 愛了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800201827121770496"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "conversation_id": "1800201834151411922",
+        "created_at": "2024-06-10T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800201834151411922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qTUimlHfWF",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ahixnming/status/1800201834151411922/photo/1",
+              "media_key": "3_1800201827121770496",
+              "start": 31,
+              "url": "https://t.co/qTUimlHfWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800201834151411922",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你男朋友經常不回你訊息該怎麼辦?\n我建議你換我\n我回得快 https://t.co/qTUimlHfWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7536,
+          "following_count": 227,
+          "like_count": 6409,
+          "listed_count": 15,
+          "tweet_count": 9074
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/2004mnnn?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/2004mnnn?igsh=YmhyNHk2YXppMDJr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xuFCYvackv"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "鬱病",
+        "name": "阿明",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 531,
+          "like_count": 20324,
+          "listed_count": 1,
+          "tweet_count": 16307
+        },
+        "url": "https://t.co/xuFCYvackv",
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

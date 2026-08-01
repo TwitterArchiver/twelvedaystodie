@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2012112749879579027",
+    "created_at": "2026-01-16T10:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012112749879579027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 142,
+          "start": 130,
+          "tag": "panicattack"
+        },
+        {
+          "end": 148,
+          "start": 143,
+          "tag": "驚恐發作"
+        },
+        {
+          "end": 162,
+          "start": 149,
+          "tag": "panic_attack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012112749879579027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只能依然靠藥\n但我現在真的好努力幫自己了\n做很多腹式呼吸，昨天起不斷翻論壇\n不斷祈禱\n真撐不住就吃PROPRANOLOL \n如果你們有什麼方法有可以告訴我\n我是真的很受這個困擾\n我應該算是驚恐發作中嚴重程度比較嚴重那一批了\n第一次用tag，看有沒有人能幫我\n#panicattack #驚恐發作 #panic_attack"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2012112749879579027",
+        "created_at": "2026-01-16T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012112749879579027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 130,
+              "tag": "panicattack"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "驚恐發作"
+            },
+            {
+              "end": 162,
+              "start": 149,
+              "tag": "panic_attack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012112749879579027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只能依然靠藥\n但我現在真的好努力幫自己了\n做很多腹式呼吸，昨天起不斷翻論壇\n不斷祈禱\n真撐不住就吃PROPRANOLOL \n如果你們有什麼方法有可以告訴我\n我是真的很受這個困擾\n我應該算是驚恐發作中嚴重程度比較嚴重那一批了\n第一次用tag，看有沒有人能幫我\n#panicattack #驚恐發作 #panic_attack"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8343,
+          "following_count": 221,
+          "like_count": 6892,
+          "listed_count": 15,
+          "media_count": 889,
+          "tweet_count": 11347
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

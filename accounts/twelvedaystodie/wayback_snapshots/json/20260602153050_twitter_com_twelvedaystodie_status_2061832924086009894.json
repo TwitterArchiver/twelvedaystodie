@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2061832924086009894",
+    "created_at": "2026-06-02T15:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061832924086009894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868510115873353729",
+          "start": 3,
+          "username": "kangaibukai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061832924086009894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061306455542890875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kangaibukai_: いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2061832924086009894",
+        "created_at": "2026-06-02T15:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061832924086009894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868510115873353729",
+              "start": 3,
+              "username": "kangaibukai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061832924086009894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061306455542890875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kangaibukai_: いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868510115873353729",
+        "conversation_id": "2061306455542890875",
+        "created_at": "2026-06-01T04:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061306455542890875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061306455542890875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 127872,
+          "like_count": 10915,
+          "quote_count": 165,
+          "reply_count": 10,
+          "retweet_count": 2858
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8733,
+          "following_count": 222,
+          "like_count": 6985,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 11669
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T04:15:21.000Z",
+        "description": "つまらない夢を見ていたんです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nuigln1v9k6z1o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nuigln1v9k6z1ok?t=BuiwCv&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/1jUAlc3cLw"
+              }
+            ]
+          }
+        },
+        "id": "1868510115873353729",
+        "location": "フリーター‼️精神疾患‼️恥の多い生涯‼️",
+        "name": "感慨深い！",
+        "pinned_tweet_id": "1988637277459779637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029393024581881856/ZuhSsdLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 878,
+          "like_count": 58082,
+          "listed_count": 6,
+          "media_count": 151,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/1jUAlc3cLw",
+        "username": "kangaibukai_",
+        "verified": false
+      }
+    ]
+  }
+}

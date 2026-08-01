@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1959941014874943849",
+    "created_at": "2025-08-26T07:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T08:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960247884424544364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960247884424544364",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960238517331669495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 寶貝你有沒有LINE我平常推特看不到訊息想跟你多聊天😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1959941014874943849",
+        "created_at": "2025-08-26T07:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960247884424544364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960247884424544364",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960238517331669495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 寶貝你有沒有LINE我平常推特看不到訊息想跟你多聊天😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1959941014874943849",
+        "created_at": "2025-08-26T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960238517331669495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960238517331669495",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959941014874943849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我在🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 229,
+          "like_count": 7144,
+          "listed_count": 14,
+          "media_count": 846,
+          "tweet_count": 10966
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@twelvedaystodie ♡²",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "twelvedaystodie"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "文字垢",
+        "name": "阿明有數不清明天",
+        "pinned_tweet_id": "1905939111183257609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 558,
+          "like_count": 29465,
+          "listed_count": 1,
+          "media_count": 1135,
+          "tweet_count": 23281
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

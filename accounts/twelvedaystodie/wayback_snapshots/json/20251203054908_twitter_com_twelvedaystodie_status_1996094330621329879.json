@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994709633781387264"
+      ],
+      "media_source_tweet_id": [
+        "1994709649929441430"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996094330621329879",
+    "created_at": "2025-12-03T05:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T06:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996094330621329879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 76,
+          "tag": "988twt"
+        },
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "shtwt"
+        },
+        {
+          "end": 99,
+          "start": 91,
+          "tag": "slittwt"
+        },
+        {
+          "end": 107,
+          "start": 100,
+          "tag": "cuttwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1991328568597704706",
+          "start": 3,
+          "username": "NotSelfiL0vktwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHTLvKrAmp",
+          "end": 131,
+          "expanded_url": "https://x.com/NotSelfiL0vktwt/status/1994709649929441430/video/1",
+          "media_key": "7_1994709633781387264",
+          "start": 108,
+          "url": "https://t.co/WHTLvKrAmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996094330621329879",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994709649929441430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NotSelfiL0vktwt: Артерия кровоточит очень быстро. (Artery cut on wrist)\n#988twt #shtwt #slittwt #cuttwt https://t.co/WHTLvKrAmp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996094330621329879].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996094330621329879",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996094330621329879"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2026,
+        "height": 1280,
+        "media_key": "7_1994709633781387264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994709633781387264/pu/img/XA-6O5sNeK7oaRdd.jpg",
+        "public_metrics": {
+          "view_count": 11868
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994709633781387264/pu/vid/avc1/320x568/zIfkToVq7fY31Ta9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994709633781387264/pu/vid/avc1/480x852/CQdy35LBhCA2aRhK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994709633781387264/pu/vid/avc1/720x1280/CuUyR4YkNSOilPAk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994709633781387264/pu/pl/D-CxyzAfUtYwtjWC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994709633781387264"
+          ]
+        },
+        "author_id": "1991328568597704706",
+        "conversation_id": "1994709649929441430",
+        "created_at": "2025-11-29T10:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994709649929441430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "988twt"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "shtwt"
+            },
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "slittwt"
+            },
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "cuttwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHTLvKrAmp",
+              "end": 110,
+              "expanded_url": "https://x.com/NotSelfiL0vktwt/status/1994709649929441430/video/1",
+              "media_key": "7_1994709633781387264",
+              "start": 87,
+              "url": "https://t.co/WHTLvKrAmp"
+            },
+            {
+              "display_url": "x.com/nature_droplet…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/nature_droplet/status/1994708695750775018",
+              "start": 111,
+              "url": "https://t.co/OnCHhOdavB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994709649929441430",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 26788,
+          "like_count": 2154,
+          "quote_count": 16,
+          "reply_count": 42,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994708695750775018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Артерия кровоточит очень быстро. (Artery cut on wrist)\n#988twt #shtwt #slittwt #cuttwt https://t.co/WHTLvKrAmp https://t.co/OnCHhOdavB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 217,
+          "like_count": 7126,
+          "listed_count": 15,
+          "media_count": 873,
+          "tweet_count": 11242
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T02:13:29.000Z",
+        "description": "#shtwt content. please block, don't report‼ #988twt i'm a boy. You can dm for me to post you!! •(↺ + ♡)•",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "988twt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "selfl0vk.straw.page",
+                "end": 23,
+                "expanded_url": "https://selfl0vk.straw.page",
+                "start": 0,
+                "url": "https://t.co/eqkP8PwIms"
+              }
+            ]
+          }
+        },
+        "id": "1991328568597704706",
+        "location": "#988twt slittwt #shtwt",
+        "name": "✄SelfL0vktwt☏",
+        "pinned_tweet_id": "1995402267286204884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991329569236811776/JM9eU2da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 185,
+          "like_count": 1548,
+          "listed_count": 9,
+          "media_count": 216,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/eqkP8PwIms",
+        "username": "NotSelfiL0vktwt",
+        "verified": false
+      }
+    ]
+  }
+}

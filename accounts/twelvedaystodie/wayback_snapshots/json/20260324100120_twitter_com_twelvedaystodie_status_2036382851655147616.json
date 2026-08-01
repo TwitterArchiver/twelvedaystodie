@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2036382851655147616",
+    "created_at": "2026-03-24T10:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036382851655147616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414269095416012806",
+          "start": 3,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036382851655147616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036033067689885725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coconut_QuQ: 把自己人生毁掉的第一步就是上学然后坚持不住被欺负跑去休学 第二步就是因为没有朋友开始在网上找朋友抱团 第三步缺爱人格发作开始谈恋爱 走完这三步还是国家栋梁没得精神病算你牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2036382851655147616",
+        "created_at": "2026-03-24T10:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036382851655147616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414269095416012806",
+              "start": 3,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036382851655147616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036033067689885725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coconut_QuQ: 把自己人生毁掉的第一步就是上学然后坚持不住被欺负跑去休学 第二步就是因为没有朋友开始在网上找朋友抱团 第三步缺爱人格发作开始谈恋爱 走完这三步还是国家栋梁没得精神病算你牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2036033067689885725",
+        "created_at": "2026-03-23T10:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036033067689885725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036033067689885725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 51067,
+          "like_count": 1041,
+          "quote_count": 41,
+          "reply_count": 47,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "把自己人生毁掉的第一步就是上学然后坚持不住被欺负跑去休学 第二步就是因为没有朋友开始在网上找朋友抱团 第三步缺爱人格发作开始谈恋爱 走完这三步还是国家栋梁没得精神病算你牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8803,
+          "following_count": 225,
+          "like_count": 7003,
+          "listed_count": 15,
+          "media_count": 903,
+          "tweet_count": 11567
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5349,
+          "following_count": 21,
+          "like_count": 70,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 60
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

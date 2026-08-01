@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1988213762822992020",
+    "created_at": "2025-11-12T09:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988536493577486498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857559547151360000",
+          "start": 0,
+          "username": "yi_ji16412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988536493577486498",
+    "in_reply_to_user_id": "1857559547151360000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988248962340712665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_ji16412 有這樣的父母不覺得能康復"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1988213762822992020",
+        "created_at": "2025-11-12T09:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988536493577486498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857559547151360000",
+              "start": 0,
+              "username": "yi_ji16412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988536493577486498",
+        "in_reply_to_user_id": "1857559547151360000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988248962340712665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_ji16412 有這樣的父母不覺得能康復"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857559547151360000",
+        "conversation_id": "1988213762822992020",
+        "created_at": "2025-11-11T14:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988248962340712665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988248962340712665",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988213762822992020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 没办法，说了你也不听，就跟和厌食症患者说好好吃饭，病就能好一样（废话，这谁不知道）心病还需心药医。\n没人会莫名其妙对另个人好的\n加油，祝你早日康复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8314,
+          "following_count": 218,
+          "like_count": 7127,
+          "listed_count": 15,
+          "media_count": 871,
+          "tweet_count": 11222
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T23:01:32.000Z",
+        "description": "頭像是玩推刷到的，覺得好看就用了/.\n我是男的，別發🐔我自己有，別跟沒見過女的一樣，我是男的，我是男的，我是男的/.\n玩推就是看瑟瑟的，有時候說話如果傷到你了可以私聊讓我道謙/.",
+        "id": "1857559547151360000",
+        "location": "距离你1.3km",
+        "name": "卿卿我我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983960173829091329/qj6dGqOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 153,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "username": "yi_ji16412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1818839592822604247",
+    "created_at": "2024-08-01T06:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T07:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818892389521739993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818892389521739993",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818839592822604247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 你好厲害寶寶……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1818839592822604247].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1818839592822604247",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1818839592822604247"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1818839592822604247",
+        "created_at": "2024-08-01T06:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T07:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818892389521739993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818892389521739993",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818839592822604247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 你好厲害寶寶……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7603,
+          "following_count": 226,
+          "like_count": 6608,
+          "listed_count": 15,
+          "tweet_count": 9534
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛丨recovering ❤️‍🩹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn5.tcity.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cn5.tcity.cc/#/register?code=Tr3p6YXz",
+                "start": 0,
+                "url": "https://t.co/gA9SsnNBFK"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用vpn免费试用👇",
+        "name": "R❄️",
+        "pinned_tweet_id": "1796019280066097305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813132527110074368/33IOM3Yg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 164,
+          "like_count": 47371,
+          "listed_count": 17,
+          "tweet_count": 21081
+        },
+        "url": "https://t.co/gA9SsnNBFK",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

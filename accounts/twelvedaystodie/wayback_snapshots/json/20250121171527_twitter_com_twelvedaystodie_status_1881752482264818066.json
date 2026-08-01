@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1881752482264818066",
+    "created_at": "2025-01-21T17:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T18:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881752482264818066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881752482264818066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想吃宵夜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1881752482264818066",
+        "created_at": "2025-01-21T17:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T18:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881752482264818066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881752482264818066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃宵夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7939,
+          "following_count": 241,
+          "like_count": 6785,
+          "listed_count": 15,
+          "media_count": 763,
+          "tweet_count": 10202
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

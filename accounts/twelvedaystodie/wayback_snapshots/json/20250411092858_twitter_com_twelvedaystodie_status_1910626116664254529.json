@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1910496314636513394",
+    "created_at": "2025-04-11T09:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T10:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910626116664254529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728313793523113984",
+          "start": 0,
+          "username": "annie9574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910626116664254529",
+    "in_reply_to_user_id": "1728313793523113984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910496314636513394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annie9574 祝幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1910496314636513394",
+        "created_at": "2025-04-11T09:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910626116664254529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728313793523113984",
+              "start": 0,
+              "username": "annie9574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910626116664254529",
+        "in_reply_to_user_id": "1728313793523113984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910496314636513394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annie9574 祝幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728313793523113984",
+        "conversation_id": "1910496314636513394",
+        "created_at": "2025-04-11T00:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T01:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910496314636513394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910496314636513394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想戒割了..完完全全的不再自殘，我要升大學，要面試，要找工作，身上不能有傷口，請祝我幸福🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\n寶貝︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8042,
+          "following_count": 235,
+          "like_count": 6881,
+          "listed_count": 16,
+          "media_count": 789,
+          "tweet_count": 10412
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T07:25:15.000Z",
+        "description": "✞女高✞重鬱✞雙相✞邊緣性人格✞自傷行為✞過食嘔吐✞中文、日本語、English✞病み垢✞小帳@shang_444 備份互關",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shang_444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shang._.jiraik…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shang._.jiraikei?igsh=MW5uYnEzM3oxN2RwOQ==",
+                "start": 0,
+                "url": "https://t.co/YqcT39DtpF"
+              }
+            ]
+          }
+        },
+        "id": "1728313793523113984",
+        "name": "殤殤4.0",
+        "pinned_tweet_id": "1896473990576902268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896462408455237632/bwXO4Tk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 51,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/YqcT39DtpF",
+        "username": "annie9574",
+        "verified": false
+      }
+    ]
+  }
+}

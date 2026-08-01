@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1990891058033467852",
+    "created_at": "2025-12-14T08:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000128427849093405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1486352037793366022",
+          "start": 0,
+          "username": "pain4uuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000128427849093405",
+    "in_reply_to_user_id": "1486352037793366022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990891058033467852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain4uuuu 寶寶這裡是香港的，可以互fol嗎~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990891048961540096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EQ3F_bgAAM_Uu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 705,
+        "media_key": "3_1990891048974102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EQ3GCbMAAcOEp.jpg",
+        "width": 529
+      },
+      {
+        "height": 529,
+        "media_key": "3_1990891048978313216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EQ3GDbcAAU6xv.jpg",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1990891058033467852",
+        "created_at": "2025-12-14T08:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000128427849093405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1486352037793366022",
+              "start": 0,
+              "username": "pain4uuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000128427849093405",
+        "in_reply_to_user_id": "1486352037793366022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990891058033467852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain4uuuu 寶寶這裡是香港的，可以互fol嗎~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990891048961540096",
+            "3_1990891048974102528",
+            "3_1990891048978313216"
+          ]
+        },
+        "author_id": "1486352037793366022",
+        "conversation_id": "1990891058033467852",
+        "created_at": "2025-11-18T21:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990891058033467852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自傷"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "od"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女僕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AecjaVea9",
+              "end": 134,
+              "expanded_url": "https://x.com/pain4uuuu/status/1990891058033467852/photo/1",
+              "media_key": "3_1990891048961540096",
+              "start": 111,
+              "url": "https://t.co/5AecjaVea9"
+            },
+            {
+              "display_url": "pic.x.com/5AecjaVea9",
+              "end": 134,
+              "expanded_url": "https://x.com/pain4uuuu/status/1990891058033467852/photo/1",
+              "media_key": "3_1990891048974102528",
+              "start": 111,
+              "url": "https://t.co/5AecjaVea9"
+            },
+            {
+              "display_url": "pic.x.com/5AecjaVea9",
+              "end": 134,
+              "expanded_url": "https://x.com/pain4uuuu/status/1990891058033467852/photo/1",
+              "media_key": "3_1990891048978313216",
+              "start": 111,
+              "url": "https://t.co/5AecjaVea9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990891058033467852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2114,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #自傷 #od #女僕\n這裡翠翠4.0（被mks制裁一v一\n06 🇭🇰 \n80 🚪限聊天/朋友圈\n重鬱｜重焦｜邊緣人格障礙（正在努力治療\n紋身穿孔｜壞習慣全沾\n\n男的先過門⚠️\n喜歡我就給我打錢吧！來財來財 https://t.co/5AecjaVea9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8318,
+          "following_count": 221,
+          "like_count": 7018,
+          "listed_count": 15,
+          "media_count": 876,
+          "tweet_count": 11269
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T14:55:30.000Z",
+        "description": "",
+        "id": "1486352037793366022",
+        "name": "朝我頭上開一槍4.0",
+        "pinned_tweet_id": "1990891058033467852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990888937725046786/OWDFaGnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 24,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "pain4uuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1942535204033507541",
+    "created_at": "2025-07-08T10:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T11:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942535204033507541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942535204033507541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剛剛查了物極必反，我覺得是我哭了7小時，然後除了哭在緩解情緒，還有就是物極必反，讓我直接由不開心，一秒，真的是一秒，變成超高漲\n不過現在也好\n就算是假的高漲，等晚上時一定會再次抑鬱\n這一刻已經當我好受點吧\n。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1942535204033507541",
+        "created_at": "2025-07-08T10:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942535204033507541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942535204033507541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剛剛查了物極必反，我覺得是我哭了7小時，然後除了哭在緩解情緒，還有就是物極必反，讓我直接由不開心，一秒，真的是一秒，變成超高漲\n不過現在也好\n就算是假的高漲，等晚上時一定會再次抑鬱\n這一刻已經當我好受點吧\n。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8276,
+          "following_count": 229,
+          "like_count": 7121,
+          "listed_count": 16,
+          "media_count": 833,
+          "tweet_count": 10815
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

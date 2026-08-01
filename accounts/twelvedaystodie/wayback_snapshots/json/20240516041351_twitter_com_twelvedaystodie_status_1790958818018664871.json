@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1790712936669020357",
+    "created_at": "2024-05-16T04:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T05:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790958818018664871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790958818018664871",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790754515483836726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 那個是我媽，我爸沒把樓輸掉但就是不管他的家庭，可能離婚了覺得不用理了，只給撫養費。。。。。如果連他也被騙財我真的不知道怎麼辦。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1790712936669020357",
+        "created_at": "2024-05-16T04:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T05:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790958818018664871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790958818018664871",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790754515483836726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 那個是我媽，我爸沒把樓輸掉但就是不管他的家庭，可能離婚了覺得不用理了，只給撫養費。。。。。如果連他也被騙財我真的不知道怎麼辦。。。。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1532754128236990465",
+        "conversation_id": "1790712936669020357",
+        "created_at": "2024-05-15T14:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790754515483836726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790754515483836726",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790751954781847878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 都赌博把钱输光了现在又要再来一次吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7480,
+          "following_count": 225,
+          "like_count": 6172,
+          "listed_count": 15,
+          "tweet_count": 8563
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛/I am Remi丨shtwt丨⚠️gore  血腥圖像⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn5.tcity.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cn5.tcity.cc/#/register?code=Tr3p6YXz",
+                "start": 0,
+                "url": "https://t.co/qHSRqClvy9"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用vpn免费试用👇",
+        "name": "RM❄️",
+        "pinned_tweet_id": "1762316094453555522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269446482231296/Dif5VnoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 155,
+          "like_count": 43460,
+          "listed_count": 18,
+          "tweet_count": 20176
+        },
+        "url": "https://t.co/qHSRqClvy9",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

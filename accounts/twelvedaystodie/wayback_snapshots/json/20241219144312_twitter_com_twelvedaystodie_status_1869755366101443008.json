@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1869694486055670264",
+    "created_at": "2024-12-19T14:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T15:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869755366101443008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1575728033742192641",
+          "start": 0,
+          "username": "kokocat_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869755366101443008",
+    "in_reply_to_user_id": "1575728033742192641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869694486055670264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokocat_9 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1869694486055670264",
+        "created_at": "2024-12-19T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869755366101443008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1575728033742192641",
+              "start": 0,
+              "username": "kokocat_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869755366101443008",
+        "in_reply_to_user_id": "1575728033742192641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869694486055670264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokocat_9 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575728033742192641",
+        "conversation_id": "1869694486055670264",
+        "created_at": "2024-12-19T10:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869694486055670264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869694486055670264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我要割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7872,
+          "following_count": 241,
+          "like_count": 6737,
+          "listed_count": 15,
+          "media_count": 759,
+          "tweet_count": 10149
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T06:03:42.000Z",
+        "description": "可以叫我99 花枝鼠激推🐭 pet rats ⚠️❗ sh🔪/od💊/ed/发疯/血bloody🩸防炸机@KBDYD555 ｜接推广｜互fo可私信 (pls dm for fb) ❗Do Not Report❗｜聊天🚪99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1575728033742192641",
+        "location": "聊无关话题先给钱",
+        "name": "不安定貓貓",
+        "pinned_tweet_id": "1861694655546769622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806116619065946113/vgyL40uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16431,
+          "following_count": 401,
+          "like_count": 12463,
+          "listed_count": 10,
+          "media_count": 960,
+          "tweet_count": 7137
+        },
+        "username": "kokocat_9",
+        "verified": false
+      }
+    ]
+  }
+}

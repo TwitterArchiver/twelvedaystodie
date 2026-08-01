@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1821549160253862291",
+    "created_at": "2024-08-08T14:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T15:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821549857020195065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821549857020195065",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821549633451290679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ahixnming 買個小蛋糕給……給他？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1821549160253862291",
+        "created_at": "2024-08-08T14:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821549857020195065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821549857020195065",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821549633451290679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ahixnming 買個小蛋糕給……給他？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1821549160253862291",
+        "created_at": "2024-08-08T14:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821549633451290679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821549633451290679",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821549503591367074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@twelvedaystodie 有點不知道怎麼辦_(´ཀ`」 ∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7581,
+          "following_count": 227,
+          "like_count": 6609,
+          "listed_count": 15,
+          "tweet_count": 9599
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@wilbur0317 ⛓️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "wilbur0317"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/2004mnnn?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/2004mnnn?igsh=YmhyNHk2YXppMDJr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xuFCYvackv"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "內有血圖謹慎追隨",
+        "name": "阿明🪬",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 535,
+          "like_count": 23411,
+          "listed_count": 0,
+          "tweet_count": 17998
+        },
+        "url": "https://t.co/xuFCYvackv",
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1982011467001188366",
+    "created_at": "2025-10-28T06:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983057663459279123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559571307066363904",
+          "start": 0,
+          "username": "puppetnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983057663459279123",
+    "in_reply_to_user_id": "1559571307066363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982011467001188366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppetnan 好大好神，這些傷害你最後怎麼處理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2141,
+        "media_key": "3_1982011462957568000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GE7KZWkAAlhdy.jpg",
+        "width": 2141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1982011467001188366",
+        "created_at": "2025-10-28T06:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983057663459279123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559571307066363904",
+              "start": 0,
+              "username": "puppetnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983057663459279123",
+        "in_reply_to_user_id": "1559571307066363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982011467001188366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppetnan 好大好神，這些傷害你最後怎麼處理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982011462957568000"
+          ]
+        },
+        "author_id": "1559571307066363904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982011467001188366",
+        "created_at": "2025-10-25T09:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982011467001188366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTV50k3hUM",
+              "end": 45,
+              "expanded_url": "https://x.com/puppetnan/status/1982011467001188366/photo/1",
+              "media_key": "3_1982011462957568000",
+              "start": 22,
+              "url": "https://t.co/cTV50k3hUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982011467001188366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2138,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "All fake\n用新刀片不小心太用力了🤡 https://t.co/cTV50k3hUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8299,
+          "following_count": 224,
+          "like_count": 7112,
+          "listed_count": 15,
+          "media_count": 866,
+          "tweet_count": 11185
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T16:03:01.000Z",
+        "description": "我是@Remipills 南烛呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Remipills"
+              }
+            ]
+          }
+        },
+        "id": "1559571307066363904",
+        "name": "❄️",
+        "pinned_tweet_id": "1934440482723233957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914965489790717952/IANYOpOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 94,
+          "like_count": 186,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "username": "puppetnan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1795811426126475410",
+    "created_at": "2024-05-29T13:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T14:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795811426126475410"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "自殘"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "自我傷害"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "自残"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "自我伤害"
+        },
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "selfharm"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "割腕"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "リストカット"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "リスカ"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "地雷女"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "地雷女子"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "精神疾患"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "精神障害"
+        },
+        {
+          "end": 104,
+          "start": 94,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 117,
+          "start": 105,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "地雷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1621549363440009218",
+          "start": 3,
+          "username": "Lingfeng13579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795811426126475410",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795810313755152856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lingfeng13579: 求轉發\n\n#自殘 #自我傷害 #自残 #自我伤害 #selfharm #割腕 #リストカット #リスカ #地雷女 #地雷女子 #精神疾患 #精神障害 #地雷系と繋がりたい #地雷系女子と繋がりたい #地雷 https://t.co/CGSL…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795811426126475410].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795811426126475410",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795811426126475410"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795810270654418944",
+            "7_1795810276870377472",
+            "7_1795810287381360640"
+          ]
+        },
+        "author_id": "1621549363440009218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1795810313755152856",
+        "created_at": "2024-05-29T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795810313755152856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "自殘"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "自我傷害"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "自残"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "自我伤害"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "selfharm"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "割腕"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "リストカット"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "リスカ"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "地雷女"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "精神疾患"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "精神障害"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 98,
+              "start": 86,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "地雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CGSLfGA9iD",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Lingfeng13579/status/1795810313755152856/video/1",
+              "media_key": "3_1795810270654418944",
+              "start": 103,
+              "url": "https://t.co/CGSLfGA9iD"
+            },
+            {
+              "display_url": "pic.twitter.com/CGSLfGA9iD",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Lingfeng13579/status/1795810313755152856/video/1",
+              "media_key": "7_1795810276870377472",
+              "start": 103,
+              "url": "https://t.co/CGSLfGA9iD"
+            },
+            {
+              "display_url": "pic.twitter.com/CGSLfGA9iD",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Lingfeng13579/status/1795810313755152856/video/1",
+              "media_key": "7_1795810287381360640",
+              "start": 103,
+              "url": "https://t.co/CGSLfGA9iD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795810313755152856",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "求轉發\n\n#自殘 #自我傷害 #自残 #自我伤害 #selfharm #割腕 #リストカット #リスカ #地雷女 #地雷女子 #精神疾患 #精神障害 #地雷系と繋がりたい #地雷系女子と繋がりたい #地雷 https://t.co/CGSLfGA9iD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7520,
+          "following_count": 224,
+          "like_count": 6283,
+          "listed_count": 15,
+          "tweet_count": 8789
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:41:18.000Z",
+        "description": "香港人🇭🇰\n可约自残od\n门槛150🚪\n未成年↓\n欢迎互关哦\n不过门槛男的勿扰",
+        "id": "1621549363440009218",
+        "location": "天堂",
+        "name": "✞景景終了✞@病み垢🖤",
+        "pinned_tweet_id": "1710194278792864039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795482124600082432/XiOKjCya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 237,
+          "like_count": 1595,
+          "listed_count": 3,
+          "tweet_count": 988
+        },
+        "username": "Lingfeng13579",
+        "verified": false
+      }
+    ]
+  }
+}

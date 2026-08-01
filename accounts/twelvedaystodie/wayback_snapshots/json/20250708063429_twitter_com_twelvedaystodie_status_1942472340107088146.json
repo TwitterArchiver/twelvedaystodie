@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1942472340107088146",
+    "created_at": "2025-07-08T06:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942472340107088146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942472340107088146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是因為強大所以沒有哭到崩潰\n我只是接受不了現實，我哭到頭好痛\n相反，我是因為太過軟弱，才第一時間聽到貓貓走了的時候，我只是愣住，沒有哭，然後過一陣子才默默流下淚水，沒有大哭沒有顫抖，現在卻不斷小哭，但哭到頭好痛，哭到覺得死的不應該是他而是我\n軟弱工覺得傷口的痕好煩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1942472340107088146",
+        "created_at": "2025-07-08T06:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942472340107088146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942472340107088146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是因為強大所以沒有哭到崩潰\n我只是接受不了現實，我哭到頭好痛\n相反，我是因為太過軟弱，才第一時間聽到貓貓走了的時候，我只是愣住，沒有哭，然後過一陣子才默默流下淚水，沒有大哭沒有顫抖，現在卻不斷小哭，但哭到頭好痛，哭到覺得死的不應該是他而是我\n軟弱工覺得傷口的痕好煩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8279,
+          "following_count": 229,
+          "like_count": 7120,
+          "listed_count": 16,
+          "media_count": 833,
+          "tweet_count": 10807
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

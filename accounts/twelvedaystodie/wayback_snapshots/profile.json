@@ -1,0 +1,20 @@
+{
+  "name": "十二天",
+  "username": "@twelvedaystodie",
+  "bio": "七天至十天沒發文就是死了 暴力魔法少女自毀中 給錢我就會高興，是最好的陪伴    ଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming  banner:hz100p",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 68,
+        "start": 58,
+        "username": "ahixnming"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg"
+}

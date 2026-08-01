@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1917521101669949794",
+    "created_at": "2025-04-30T16:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T17:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917610694654189801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889003981609037824",
+          "start": 0,
+          "username": "yeeyee091117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917610694654189801",
+    "in_reply_to_user_id": "1889003981609037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917530440208113684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeeyee091117 我想像到租場了結果只剩下我在場地裡滑手機"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1917521101669949794",
+        "created_at": "2025-04-30T16:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917610694654189801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889003981609037824",
+              "start": 0,
+              "username": "yeeyee091117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917610694654189801",
+        "in_reply_to_user_id": "1889003981609037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917530440208113684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeeyee091117 我想像到租場了結果只剩下我在場地裡滑手機"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889003981609037824",
+        "conversation_id": "1917521101669949794",
+        "created_at": "2025-04-30T10:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T11:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917530440208113684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917530440208113684",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917521101669949794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 粉絲見面會🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8066,
+          "following_count": 234,
+          "like_count": 6981,
+          "listed_count": 16,
+          "media_count": 800,
+          "tweet_count": 10525
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T17:30:29.000Z",
+        "description": "我是水蛭,因為我長得好嘔，好黏人，所我叫水蛭， #門檻 #濫藥 #自傷 #爸爸活 ⚠️沒有任何小號⚠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "門檻"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "濫藥"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "自傷"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "爸爸活"
+              }
+            ]
+          }
+        },
+        "id": "1889003981609037824",
+        "location": "Hong Kong",
+        "name": "我是水蛭4.0",
+        "pinned_tweet_id": "1889204921398137208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889557551630729216/Q_-QtvRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 12,
+          "like_count": 1033,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 772
+        },
+        "username": "yeeyee091117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1871431812557529265",
+    "created_at": "2024-12-25T10:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T11:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871872646574690697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1808231938530201603",
+          "start": 0,
+          "username": "tsuk1m10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871872646574690697",
+    "in_reply_to_user_id": "1808231938530201603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871431812557529265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuk1m10 玩！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1871431812557529265",
+        "created_at": "2024-12-25T10:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T11:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871872646574690697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1808231938530201603",
+              "start": 0,
+              "username": "tsuk1m10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871872646574690697",
+        "in_reply_to_user_id": "1808231938530201603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871431812557529265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuk1m10 玩！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808231938530201603",
+        "conversation_id": "1871431812557529265",
+        "created_at": "2024-12-24T05:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T06:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871431812557529265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871431812557529265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13379,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你們和我玩 我真的沒有朋友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7896,
+          "following_count": 241,
+          "like_count": 6735,
+          "listed_count": 15,
+          "media_count": 759,
+          "tweet_count": 10154
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T20:11:14.000Z",
+        "description": "🚪388 前身小煙 發現自己不是健全b以後回來了",
+        "id": "1808231938530201603",
+        "name": "悸",
+        "pinned_tweet_id": "1857645550180642976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831106532211314688/9Hz-V8Zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 37,
+          "like_count": 94,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 111
+        },
+        "username": "tsuk1m10",
+        "verified": false
+      }
+    ]
+  }
+}

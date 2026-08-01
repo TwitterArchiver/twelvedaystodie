@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1888376303163949061",
+    "created_at": "2025-02-09T12:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T13:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888566634090262813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888566634090262813",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888376303163949061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 唉唷這不是我老婆嗎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1888376303163949061",
+        "created_at": "2025-02-09T12:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888566634090262813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888566634090262813",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888376303163949061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 唉唷這不是我老婆嗎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888376298202091520"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "conversation_id": "1888376303163949061",
+        "created_at": "2025-02-08T23:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T00:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888376303163949061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "地雷女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2EMomKg5I",
+              "end": 36,
+              "expanded_url": "https://x.com/ahixnming/status/1888376303163949061/photo/1",
+              "media_key": "3_1888376298202091520",
+              "start": 13,
+              "url": "https://t.co/E2EMomKg5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888376303163949061",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 415,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #地雷女子 https://t.co/E2EMomKg5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7999,
+          "following_count": 238,
+          "like_count": 6806,
+          "listed_count": 15,
+          "media_count": 768,
+          "tweet_count": 10245
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "雑",
+        "id": "1690948132979515392",
+        "location": "日記簿",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 471,
+          "like_count": 26677,
+          "listed_count": 0,
+          "media_count": 1040,
+          "tweet_count": 20914
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

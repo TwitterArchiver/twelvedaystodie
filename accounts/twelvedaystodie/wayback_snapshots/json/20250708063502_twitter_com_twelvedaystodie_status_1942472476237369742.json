@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1942469189949878572",
+    "created_at": "2025-07-08T06:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942472476237369742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942472476237369742",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942469189949878572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 自己做的嗎，智子好可愛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2670,
+        "height": 720,
+        "media_key": "7_1942469171398262784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942469171398262784/pu/img/z8nIFuZK35aDrOWM.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942469171398262784/pu/vid/avc1/276x270/HkabbS0FA4J7XVis.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942469171398262784/pu/vid/avc1/368x360/CtVt1QEBfdxSpeTh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942469171398262784/pu/vid/avc1/736x720/XjgAswRMZcSd31iT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942469171398262784/pu/pl/DHfFdzJyfCx4aeZJ.m3u8?tag=12"
+          }
+        ],
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1942469189949878572",
+        "created_at": "2025-07-08T06:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942472476237369742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942472476237369742",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942469189949878572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 自己做的嗎，智子好可愛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942469171398262784"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1942469189949878572",
+        "created_at": "2025-07-08T06:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942469189949878572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYy3re1IOy",
+              "end": 23,
+              "expanded_url": "https://x.com/8964zhajipai/status/1942469189949878572/video/1",
+              "media_key": "7_1942469171398262784",
+              "start": 0,
+              "url": "https://t.co/AYy3re1IOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942469189949878572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AYy3re1IOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8279,
+          "following_count": 229,
+          "like_count": 7121,
+          "listed_count": 16,
+          "media_count": 833,
+          "tweet_count": 10808
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "第五人格带我上分我会做任何事的...                                 自用蜂鸟vpn https://t.co/zmUeClLXXE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register",
+                "end": 82,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register",
+                "start": 59,
+                "url": "https://t.co/zmUeClLXXE"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "🚪88/288/520",
+        "name": "像素",
+        "pinned_tweet_id": "1938912306689393036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 78,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 288
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

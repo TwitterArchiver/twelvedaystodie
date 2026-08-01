@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1998804991742775406",
+    "created_at": "2025-12-11T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999044528809087407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999044528809087407",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998804991742775406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 我也是，我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1998804991742775406",
+        "created_at": "2025-12-11T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999044528809087407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999044528809087407",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998804991742775406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 我也是，我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345332631429287936",
+        "conversation_id": "1998804991742775406",
+        "created_at": "2025-12-10T17:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998804991742775406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caomeiweimaoma…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/caomeiweimaomao/status/1997193423913390508",
+              "start": 24,
+              "url": "https://t.co/acnRn1dOCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998804991742775406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8613,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997193423913390508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛上推就看到這個震撼消息，心情還是沒能平復過來 https://t.co/acnRn1dOCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8318,
+          "following_count": 217,
+          "like_count": 6995,
+          "listed_count": 15,
+          "media_count": 875,
+          "tweet_count": 11258
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂\n（822）178540209811\n歡迎打賞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoegg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoegg",
+                "start": 0,
+                "url": "https://t.co/gR297pV0hN"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1971149103989137451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998042431150055424/SOA9XAO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 878,
+          "like_count": 53897,
+          "listed_count": 7,
+          "media_count": 600,
+          "tweet_count": 2808
+        },
+        "url": "https://t.co/gR297pV0hN",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

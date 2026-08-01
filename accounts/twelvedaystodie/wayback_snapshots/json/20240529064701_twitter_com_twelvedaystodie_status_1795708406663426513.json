@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1795690925664174496",
+    "created_at": "2024-05-29T06:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T07:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795708406663426513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1715624766571429888",
+          "start": 0,
+          "username": "nakuoiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795708406663426513",
+    "in_reply_to_user_id": "1715624766571429888",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795690925664174496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakuoiii 厲害！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1795690925664174496",
+        "created_at": "2024-05-29T06:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T07:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795708406663426513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuoiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795708406663426513",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795690925664174496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuoiii 厲害！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1795690925664174496",
+        "created_at": "2024-05-29T05:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T06:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795690925664174496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakuoiii/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/nakuoiii/status/1795642692162203791",
+              "start": 12,
+              "url": "https://t.co/WXz6rg9veq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795690925664174496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795642692162203791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是全港選幾個的那些面試 https://t.co/WXz6rg9veq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7543,
+          "following_count": 224,
+          "like_count": 6275,
+          "listed_count": 15,
+          "tweet_count": 8780
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "@na99mt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "na99mt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nakuoiii?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nakuoiii?igsh=MWdsN3lqeDJvZmE3YQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/DmeXPOmBmC"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 hk",
+        "name": "水母骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795037335610105856/5BG0aVyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12587,
+          "following_count": 35,
+          "like_count": 25485,
+          "listed_count": 25,
+          "tweet_count": 4815
+        },
+        "url": "https://t.co/DmeXPOmBmC",
+        "username": "nakuoiii",
+        "verified": false
+      }
+    ]
+  }
+}

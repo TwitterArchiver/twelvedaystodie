@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1865278805352595817",
+    "created_at": "2024-12-07T06:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T07:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865278805352595817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/veronica_kcz/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/veronica_kcz/status/1864964429022158965",
+          "start": 5,
+          "url": "https://t.co/jB6DjXz2Fz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865278805352595817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864964429022158965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "別說了😿 https://t.co/jB6DjXz2Fz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1865278805352595817",
+        "created_at": "2024-12-07T06:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T07:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865278805352595817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/veronica_kcz/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/veronica_kcz/status/1864964429022158965",
+              "start": 5,
+              "url": "https://t.co/jB6DjXz2Fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865278805352595817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864964429022158965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "別說了😿 https://t.co/jB6DjXz2Fz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780578393739931648",
+        "conversation_id": "1864964429022158965",
+        "created_at": "2024-12-06T09:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T10:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864964429022158965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864964429022158965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 149994,
+          "like_count": 822,
+          "quote_count": 11,
+          "reply_count": 99,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你在推特粉丝多是因为在正常人的平台没受众啊宝宝🤣，有啥好嘚瑟的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7846,
+          "following_count": 239,
+          "like_count": 6732,
+          "listed_count": 15,
+          "media_count": 757,
+          "tweet_count": 10130
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:46:31.000Z",
+        "description": "无差别攻击所有人",
+        "id": "1780578393739931648",
+        "location": "距你3.1km",
+        "name": "Yu riii",
+        "pinned_tweet_id": "1865036881236480267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362738932715520/vatbSO7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8978,
+          "following_count": 492,
+          "like_count": 1298,
+          "listed_count": 12,
+          "media_count": 105,
+          "tweet_count": 7198
+        },
+        "username": "veronica_kcz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1959893290419163315",
+    "created_at": "2025-08-25T11:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T12:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959938607806103920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959938607806103920",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959893290419163315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 你媽根本聽不懂人話，然後說什麼姐姐就是要懂事根本典型亞洲家長"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959893287277633536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLwj5HbIAA9M3J.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959893287587954688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLwj6RaQAAfXeS.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959893287281778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLwj5IaYAA8qfK.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959893287533473792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLwj6Ea8AAOqF9.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1959893290419163315",
+        "created_at": "2025-08-25T11:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959938607806103920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959938607806103920",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959893290419163315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 你媽根本聽不懂人話，然後說什麼姐姐就是要懂事根本典型亞洲家長"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959893287277633536",
+            "3_1959893287587954688",
+            "3_1959893287281778688",
+            "3_1959893287533473792"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959893290419163315",
+        "created_at": "2025-08-25T08:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959893290419163315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEZt0tWozQ",
+              "end": 54,
+              "expanded_url": "https://x.com/KBDYD555/status/1959893290419163315/photo/1",
+              "media_key": "3_1959893287277633536",
+              "start": 31,
+              "url": "https://t.co/SEZt0tWozQ"
+            },
+            {
+              "display_url": "pic.x.com/SEZt0tWozQ",
+              "end": 54,
+              "expanded_url": "https://x.com/KBDYD555/status/1959893290419163315/photo/1",
+              "media_key": "3_1959893287587954688",
+              "start": 31,
+              "url": "https://t.co/SEZt0tWozQ"
+            },
+            {
+              "display_url": "pic.x.com/SEZt0tWozQ",
+              "end": 54,
+              "expanded_url": "https://x.com/KBDYD555/status/1959893290419163315/photo/1",
+              "media_key": "3_1959893287281778688",
+              "start": 31,
+              "url": "https://t.co/SEZt0tWozQ"
+            },
+            {
+              "display_url": "pic.x.com/SEZt0tWozQ",
+              "end": 54,
+              "expanded_url": "https://x.com/KBDYD555/status/1959893290419163315/photo/1",
+              "media_key": "3_1959893287533473792",
+              "start": 31,
+              "url": "https://t.co/SEZt0tWozQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959893290419163315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈真是听不得人话吧。。。我有多爱妹妹她真的不知道吗。。。。 https://t.co/SEZt0tWozQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8274,
+          "following_count": 229,
+          "like_count": 7140,
+          "listed_count": 14,
+          "media_count": 845,
+          "tweet_count": 10961
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我想的话就给我一点钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52r（含聊天，🩸图）",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1945367514307059835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 253,
+          "like_count": 1503,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 1805
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

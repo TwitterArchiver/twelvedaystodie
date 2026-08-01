@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070269286179037184"
+      ],
+      "media_source_tweet_id": [
+        "2070557703395537297"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070760629045248210",
+    "created_at": "2026-06-27T06:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070760629045248210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9WlhkcELt1",
+          "end": 83,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2070557703395537297/video/1",
+          "media_key": "13_2070269286179037184",
+          "start": 60,
+          "url": "https://t.co/9WlhkcELt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070760629045248210",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070557703395537297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: 弁当とかによく付いてる醤油が入ったタレビン、一つ一つ入れてるのかと思いきや... https://t.co/9WlhkcELt1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44419,
+        "height": 1280,
+        "media_key": "13_2070269286179037184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070269286179037184/img/c2ULlnE2BAKgjGAW.jpg",
+        "public_metrics": {
+          "view_count": 3925408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070269286179037184/vid/avc1/320x568/CLKHeWvB9rKIB7ki.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070269286179037184/vid/avc1/480x852/PwrVVJPSJYtPsz59.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070269286179037184/vid/avc1/720x1280/C6pyT9rWqBWh4lS8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070269286179037184/pl/XQX-XUF5yoPzVaqw.m3u8?v=d97"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070269286179037184"
+          ],
+          "media_source_tweet_id": [
+            "2070557703395537297"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070760629045248210",
+        "created_at": "2026-06-27T06:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070760629045248210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WlhkcELt1",
+              "end": 83,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2070557703395537297/video/1",
+              "media_key": "13_2070269286179037184",
+              "start": 60,
+              "url": "https://t.co/9WlhkcELt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070760629045248210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070557703395537297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: 弁当とかによく付いてる醤油が入ったタレビン、一つ一つ入れてるのかと思いきや... https://t.co/9WlhkcELt1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070269286179037184"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070557703395537297",
+        "created_at": "2026-06-26T17:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070557703395537297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WlhkcELt1",
+              "end": 64,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2070557703395537297/video/1",
+              "media_key": "13_2070269286179037184",
+              "start": 41,
+              "url": "https://t.co/9WlhkcELt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070557703395537297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 919,
+          "impression_count": 8467856,
+          "like_count": 4626,
+          "quote_count": 56,
+          "reply_count": 375,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "弁当とかによく付いてる醤油が入ったタレビン、一つ一つ入れてるのかと思いきや... https://t.co/9WlhkcELt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 217,
+          "like_count": 7008,
+          "listed_count": 13,
+          "media_count": 922,
+          "tweet_count": 11718
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323987,
+          "following_count": 0,
+          "like_count": 4562,
+          "listed_count": 500,
+          "media_count": 8940,
+          "tweet_count": 9082
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1922274623908958574",
+    "created_at": "2025-05-14T16:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922694491305132299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922694491305132299",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922656200652366273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 我不知道中藥能不能跟西藥混所以沒吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1922274623908958574",
+        "created_at": "2025-05-14T16:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922694491305132299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922694491305132299",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922656200652366273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 我不知道中藥能不能跟西藥混所以沒吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595394288119971840",
+        "conversation_id": "1922274623908958574",
+        "created_at": "2025-05-14T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922656200652366273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922656200652366273",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922274623908958574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 正露丸，我一直觉得挺有用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8160,
+          "following_count": 237,
+          "like_count": 7054,
+          "listed_count": 15,
+          "media_count": 809,
+          "tweet_count": 10606
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "pinned_tweet_id": "1908189914513994128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 68,
+          "like_count": 2210,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 838
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

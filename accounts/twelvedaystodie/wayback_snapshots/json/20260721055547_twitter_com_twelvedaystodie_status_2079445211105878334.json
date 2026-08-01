@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1831783479438082048"
+      ],
+      "media_source_tweet_id": [
+        "1831783502129566122"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079445211105878334",
+    "created_at": "2026-07-21T05:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079445211105878334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006046385477697536",
+          "start": 3,
+          "username": "sonogatos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMVnZY8ELs",
+          "end": 38,
+          "expanded_url": "https://x.com/allreactionvids/status/1831783502129566122/video/1",
+          "media_key": "7_1831783479438082048",
+          "start": 15,
+          "url": "https://t.co/vMVnZY8ELs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079445211105878334",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 804
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079190336304271738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sonogatos: https://t.co/vMVnZY8ELs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14420,
+        "height": 720,
+        "media_key": "7_1831783479438082048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1831783479438082048/pu/img/6RK6puNrSSZuXnKR.jpg",
+        "public_metrics": {
+          "view_count": 13112026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/272x270/HRq9Kn-3PJld9QIp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/364x360/05JbOb7TDM1RWGcu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/vid/avc1/728x720/FkZfSasONtC7GAsj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1831783479438082048/pu/pl/Wl4bKNO70-8dNagJ.m3u8?tag=12&v=3b4"
+          }
+        ],
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831783479438082048"
+          ]
+        },
+        "author_id": "1173789903584485376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The adventures of an eccentric family living in New England.\n\nPhoto via @FamilyGuyonFOX",
+              "id": "10000614450",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues.",
+              "id": "10027336708",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255601767376515072",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1255601767376515072",
+              "name": "Family Guy"
+            }
+          }
+        ],
+        "conversation_id": "1831783502129566122",
+        "created_at": "2024-09-05T19:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T20:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831783502129566122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJdqeFhbYi",
+              "end": 94,
+              "expanded_url": "https://x.com/allreactionvids/status/1831783502129566122/video/1",
+              "media_key": "7_1831783479438082048",
+              "start": 71,
+              "url": "https://t.co/SJdqeFhbYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831783502129566122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 56156,
+          "impression_count": 14781589,
+          "like_count": 254636,
+          "quote_count": 1952,
+          "reply_count": 269,
+          "retweet_count": 26858
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Peter on Family Guy offing himself compilation but in a cutesy 🎀💗💕edit https://t.co/SJdqeFhbYi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831783479438082048"
+          ],
+          "media_source_tweet_id": [
+            "1831783502129566122"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079445211105878334",
+        "created_at": "2026-07-21T05:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079445211105878334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006046385477697536",
+              "start": 3,
+              "username": "sonogatos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMVnZY8ELs",
+              "end": 38,
+              "expanded_url": "https://x.com/allreactionvids/status/1831783502129566122/video/1",
+              "media_key": "7_1831783479438082048",
+              "start": 15,
+              "url": "https://t.co/vMVnZY8ELs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079445211105878334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 804
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190336304271738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sonogatos: https://t.co/vMVnZY8ELs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831783479438082048"
+          ],
+          "media_source_tweet_id": [
+            "1831783502129566122"
+          ]
+        },
+        "author_id": "2006046385477697536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079190336304271738",
+        "created_at": "2026-07-20T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079190336304271738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMVnZY8ELs",
+              "end": 23,
+              "expanded_url": "https://x.com/allreactionvids/status/1831783502129566122/video/1",
+              "media_key": "7_1831783479438082048",
+              "start": 0,
+              "url": "https://t.co/vMVnZY8ELs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079190336304271738",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 32760,
+          "like_count": 2392,
+          "quote_count": 24,
+          "reply_count": 3,
+          "retweet_count": 804
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vMVnZY8ELs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8699,
+          "following_count": 214,
+          "like_count": 6985,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11747
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T16:55:13.000Z",
+        "description": "falo em kaomojis",
+        "id": "2006046385477697536",
+        "name": "hina",
+        "pinned_tweet_id": "2070370965524029485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028952566546219012/k4JpQ0yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 186,
+          "like_count": 4567,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "sonogatos",
+        "verified": false
+      }
+    ]
+  }
+}

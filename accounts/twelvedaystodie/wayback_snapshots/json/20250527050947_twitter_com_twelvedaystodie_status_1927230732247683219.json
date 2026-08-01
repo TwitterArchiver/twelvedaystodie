@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1927039220255785377",
+    "created_at": "2025-05-27T05:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T06:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927230732247683219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1923359888937500672",
+          "start": 0,
+          "username": "akiraoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927230732247683219",
+    "in_reply_to_user_id": "1923359888937500672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927039220255785377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiraoxo 看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1927039220255785377",
+        "created_at": "2025-05-27T05:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927230732247683219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923359888937500672",
+              "start": 0,
+              "username": "akiraoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927230732247683219",
+        "in_reply_to_user_id": "1923359888937500672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927039220255785377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiraoxo 看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923359888937500672",
+        "conversation_id": "1927039220255785377",
+        "created_at": "2025-05-26T16:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927039220255785377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927039220255785377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想穿女兒服有人支持我嗎（沒有要討錢只是想要問有沒有人想看）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8176,
+          "following_count": 237,
+          "like_count": 7077,
+          "listed_count": 15,
+          "media_count": 812,
+          "tweet_count": 10681
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T12:48:35.000Z",
+        "description": "台灣北部&歡迎約拍ᐢ⩌ ̫ ⩌ᐢ會掉落一些那種圖片",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/2004mnnn?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/2004mnnn?igsh=YmhyNHk2YXppMDJr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UNeGwGp1CE"
+              }
+            ]
+          }
+        },
+        "id": "1923359888937500672",
+        "location": "銀河系",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1925376077050126416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923406339050721282/uW6FpSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 40,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/UNeGwGp1CE",
+        "username": "akiraoxo",
+        "verified": false
+      }
+    ]
+  }
+}

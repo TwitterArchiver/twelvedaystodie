@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1818214220418502956",
+    "created_at": "2024-07-30T09:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T10:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818214798984970275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816499982503231488",
+          "start": 0,
+          "username": "xinbao0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818214798984970275",
+    "in_reply_to_user_id": "1816499982503231488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818214220418502956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbao0x0 寶寶保重😿😿😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1818214220418502956",
+        "created_at": "2024-07-30T09:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T10:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818214798984970275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816499982503231488",
+              "start": 0,
+              "username": "xinbao0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818214798984970275",
+        "in_reply_to_user_id": "1816499982503231488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818214220418502956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbao0x0 寶寶保重😿😿😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816499982503231488",
+        "conversation_id": "1818214220418502956",
+        "created_at": "2024-07-30T09:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T10:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818214220418502956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818214220418502956",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "进精神科了 消失一会了再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 226,
+          "like_count": 6605,
+          "listed_count": 15,
+          "tweet_count": 9524
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:45:42.000Z",
+        "description": "shtwt edtwt",
+        "id": "1816499982503231488",
+        "name": "小馨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816503279104495616/xEPeK9t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 26,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xinbao0x0",
+        "verified": false
+      }
+    ]
+  }
+}

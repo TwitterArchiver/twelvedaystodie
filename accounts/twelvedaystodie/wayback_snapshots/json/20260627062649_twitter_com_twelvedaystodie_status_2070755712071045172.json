@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2070755712071045172",
+    "created_at": "2026-06-27T06:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070755712071045172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049877364763676672",
+          "start": 3,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070755712071045172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070752457224065028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4_hui916768: 笑別人自殘是改花刀的賤全逼都死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2070755712071045172",
+        "created_at": "2026-06-27T06:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070755712071045172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049877364763676672",
+              "start": 3,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070755712071045172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070752457224065028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4_hui916768: 笑別人自殘是改花刀的賤全逼都死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049877364763676672",
+        "conversation_id": "2070752457224065028",
+        "created_at": "2026-06-27T06:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070752457224065028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070752457224065028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "笑別人自殘是改花刀的賤全逼都死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 217,
+          "like_count": 7005,
+          "listed_count": 13,
+          "media_count": 922,
+          "tweet_count": 11716
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2056669593033482458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 287,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

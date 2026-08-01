@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2028397810547331564",
+    "created_at": "2026-03-02T09:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028397810547331564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PnKoZCN/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+          "start": 5,
+          "url": "https://t.co/nQiGj0LY8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028397810547331564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028312704600162322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真死啊？ https://t.co/nQiGj0LY8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_2028312700238131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYDp4cbcAAzUFj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2028397810547331564",
+        "created_at": "2026-03-02T09:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028397810547331564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 5,
+              "url": "https://t.co/nQiGj0LY8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028397810547331564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真死啊？ https://t.co/nQiGj0LY8c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028312700238131200"
+          ]
+        },
+        "author_id": "1889695481938448384",
+        "conversation_id": "2028312704600162322",
+        "created_at": "2026-03-02T03:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028312704600162322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvdVu619uQ",
+              "end": 78,
+              "expanded_url": "https://x.com/PnKoZCN/status/2028312704600162322/photo/1",
+              "media_key": "3_2028312700238131200",
+              "start": 55,
+              "url": "https://t.co/yvdVu619uQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028312704600162322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 270534,
+          "like_count": 543,
+          "quote_count": 93,
+          "reply_count": 166,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:\n中推跨圈皇帝唐毓文(真名:王烟洛)已于2026年3月2日凌晨2点左右死于肝肾衰竭加溶血，享年15岁。 https://t.co/yvdVu619uQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 224,
+          "like_count": 6977,
+          "listed_count": 15,
+          "media_count": 897,
+          "tweet_count": 11485
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 373,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 531
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1914939180364288060",
+    "created_at": "2025-04-23T15:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T16:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915062711542755827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915062711542755827",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915049198208393316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ 應該說每個月給我這個金額我就幸福很多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1914939180364288060",
+        "created_at": "2025-04-23T15:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T16:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915062711542755827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915062711542755827",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915049198208393316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 應該說每個月給我這個金額我就幸福很多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1914939180364288060",
+        "created_at": "2025-04-23T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915049198208393316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915049198208393316",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914939180364288060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我也想要很多錢錢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8065,
+          "following_count": 234,
+          "like_count": 6949,
+          "listed_count": 16,
+          "media_count": 796,
+          "tweet_count": 10469
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5155,
+          "following_count": 357,
+          "like_count": 80520,
+          "listed_count": 12,
+          "media_count": 399,
+          "tweet_count": 9285
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

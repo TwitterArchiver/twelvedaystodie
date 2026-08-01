@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1922646902849314953",
+    "created_at": "2025-05-14T15:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922674819989938651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922674819989938651",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922646902849314953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 超好看我要暈了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7233,
+        "height": 1920,
+        "media_key": "13_1922646788550635520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922646788550635520/img/_7oW1R1R3-rA9ziS.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788550635520/vid/avc1/1080x1920/eHfN6LVQ08H6W6rx.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788550635520/vid/avc1/480x852/RSaK1eotKxA1p1wB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788550635520/vid/avc1/320x568/kEGcuuMGpBVCsvNt.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922646788550635520/pl/5kkq9LzG39Gk2bBg.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788550635520/vid/avc1/720x1280/FC8K3Gl57_3t8Que.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 11233,
+        "height": 1920,
+        "media_key": "13_1922646788567433216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922646788567433216/img/FH2_jK1bwFlxOobT.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922646788567433216/pl/yKhx3_EpugA_lMMe.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788567433216/vid/avc1/720x1280/w7bIA5yvXf-brUpF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788567433216/vid/avc1/320x568/4cIwQcWkVgzi_soX.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788567433216/vid/avc1/480x852/4f1LASh2xiMz7F-6.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922646788567433216/vid/avc1/1080x1920/ygp7R25eRlTZ66Kv.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1922646902849314953",
+        "created_at": "2025-05-14T15:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922674819989938651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922674819989938651",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922646902849314953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 超好看我要暈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922646788550635520",
+            "13_1922646788567433216"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1922646902849314953",
+        "created_at": "2025-05-14T13:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922646902849314953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVaXVHRbXz",
+              "end": 25,
+              "expanded_url": "https://x.com/YUSU_01/status/1922646902849314953/video/1",
+              "media_key": "13_1922646788550635520",
+              "start": 2,
+              "url": "https://t.co/jVaXVHRbXz"
+            },
+            {
+              "display_url": "pic.x.com/jVaXVHRbXz",
+              "end": 25,
+              "expanded_url": "https://x.com/YUSU_01/status/1922646902849314953/video/1",
+              "media_key": "13_1922646788567433216",
+              "start": 2,
+              "url": "https://t.co/jVaXVHRbXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922646902849314953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦 https://t.co/jVaXVHRbXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8162,
+          "following_count": 237,
+          "like_count": 7037,
+          "listed_count": 15,
+          "media_count": 809,
+          "tweet_count": 10595
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1902293657656660254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446496532373504/f5Wggw6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 41,
+          "like_count": 10648,
+          "listed_count": 3,
+          "media_count": 1194,
+          "tweet_count": 15117
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

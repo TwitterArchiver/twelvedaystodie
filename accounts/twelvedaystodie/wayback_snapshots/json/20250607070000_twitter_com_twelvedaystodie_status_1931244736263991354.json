@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1931237915335831835",
+    "created_at": "2025-06-07T07:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931244736263991354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556635694717878274",
+          "start": 0,
+          "username": "whoisveritsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931244736263991354",
+    "in_reply_to_user_id": "1556635694717878274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931241191359816073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoisveritsu 留言說好像他是男的，雖然可能也有爸爸喜歡男生，但我猜是真的父親：）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1931237915335831835",
+        "created_at": "2025-06-07T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931244736263991354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556635694717878274",
+              "start": 0,
+              "username": "whoisveritsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931244736263991354",
+        "in_reply_to_user_id": "1556635694717878274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931241191359816073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoisveritsu 留言說好像他是男的，雖然可能也有爸爸喜歡男生，但我猜是真的父親：）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556635694717878274",
+        "conversation_id": "1931237915335831835",
+        "created_at": "2025-06-07T06:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931241191359816073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931241191359816073",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931237915335831835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我也看到！！！\n如果是非一般的「爸爸」那就搞笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8203,
+          "following_count": 235,
+          "like_count": 7092,
+          "listed_count": 15,
+          "media_count": 816,
+          "tweet_count": 10703
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "˚₊· ͟͟͞͞➳❥ #真理医生 ‘s forever archivist circa 15 . 12 . 2023 ┊ 𝙉𝙊𝙉-𝙎𝙃𝘼𝙍𝙄𝙉𝙂 𝙔𝙐𝙈𝙀 ✧.* #地雷系 #量産型　#サブカル˗ˏˋEN/中⭕️ ´ˎ˗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "真理医生"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "地雷系"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "量産型"
+              },
+              {
+                "end": 97,
+                "start": 92,
+                "tag": "サブカル"
+              }
+            ]
+          }
+        },
+        "id": "1556635694717878274",
+        "location": "インターネット",
+        "name": "ETSUKO / 悦子 🍭",
+        "pinned_tweet_id": "1921559625326801186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921561471873609728/uQjEFgZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 905,
+          "like_count": 12230,
+          "listed_count": 12,
+          "media_count": 3017,
+          "tweet_count": 15968
+        },
+        "username": "whoisveritsu",
+        "verified": false
+      }
+    ]
+  }
+}

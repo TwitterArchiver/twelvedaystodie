@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2012112042065641929",
+    "created_at": "2026-01-16T10:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012112042065641929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012112042065641929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是我很害怕驚恐\n我找了很多論壇，也有很多人跟我一樣\n比較多人說的說法是你經歷得多你就不會害怕驚恐發作了\n我不知道兩星期算不算多\n我總之是被弄到精神有點崩潰，又因為家裡只有我一個所以差點真的想不開\n昨天和今天哭了一點比較好\n我現在還不能單靠不斷去想：\n驚恐發作是不可怕的方式去渡過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2012112042065641929",
+        "created_at": "2026-01-16T10:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012112042065641929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012112042065641929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是我很害怕驚恐\n我找了很多論壇，也有很多人跟我一樣\n比較多人說的說法是你經歷得多你就不會害怕驚恐發作了\n我不知道兩星期算不算多\n我總之是被弄到精神有點崩潰，又因為家裡只有我一個所以差點真的想不開\n昨天和今天哭了一點比較好\n我現在還不能單靠不斷去想：\n驚恐發作是不可怕的方式去渡過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8342,
+          "following_count": 221,
+          "like_count": 6892,
+          "listed_count": 15,
+          "media_count": 889,
+          "tweet_count": 11346
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

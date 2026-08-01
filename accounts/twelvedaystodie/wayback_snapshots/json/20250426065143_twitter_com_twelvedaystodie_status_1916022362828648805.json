@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1915800409480089909",
+    "created_at": "2025-04-26T06:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T07:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916022362828648805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916022362828648805",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915800409480089909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1915800409480089909].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1915800409480089909",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1915800409480089909"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1915800409480089909",
+        "created_at": "2025-04-26T06:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916022362828648805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916022362828648805",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915800409480089909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8066,
+          "following_count": 234,
+          "like_count": 6961,
+          "listed_count": 16,
+          "media_count": 797,
+          "tweet_count": 10487
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "$htwt丨我是南烛 丨小粉红滚，社达滚\n🩸：@puppetnan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "puppetnan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.tcitys.cc",
+                "end": 23,
+                "expanded_url": "https://cn.tcitys.cc",
+                "start": 0,
+                "url": "https://t.co/kaePsB1q7n"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用VPN👇🏻👉🏻",
+        "name": "R❄️",
+        "pinned_tweet_id": "1850918499356651773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914966092822556672/IuHjR4Wf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4913,
+          "following_count": 159,
+          "like_count": 51194,
+          "listed_count": 16,
+          "media_count": 458,
+          "tweet_count": 22582
+        },
+        "url": "https://t.co/kaePsB1q7n",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

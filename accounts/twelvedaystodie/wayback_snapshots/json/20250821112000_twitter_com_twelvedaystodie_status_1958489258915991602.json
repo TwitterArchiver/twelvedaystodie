@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1957782321697792004",
+    "created_at": "2025-08-21T11:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T12:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958489258915991602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958489258915991602",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957782321697792004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 。。。咒家人死亡也太過份= ="
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_1957782315264036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytwpJja0AASaeo.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_1957782315289178112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytwpJpacAA_KmZ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_1957782315247243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytwpJfakAAVExQ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1957782321697792004",
+        "created_at": "2025-08-21T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958489258915991602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958489258915991602",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957782321697792004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 。。。咒家人死亡也太過份= ="
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957782315264036864",
+            "3_1957782315289178112",
+            "3_1957782315247243264"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957782321697792004",
+        "created_at": "2025-08-19T12:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T13:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957782321697792004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZc3zbUas0",
+              "end": 88,
+              "expanded_url": "https://x.com/ahixnming/status/1957782321697792004/photo/1",
+              "media_key": "3_1957782315264036864",
+              "start": 65,
+              "url": "https://t.co/DZc3zbUas0"
+            },
+            {
+              "display_url": "pic.x.com/DZc3zbUas0",
+              "end": 88,
+              "expanded_url": "https://x.com/ahixnming/status/1957782321697792004/photo/1",
+              "media_key": "3_1957782315289178112",
+              "start": 65,
+              "url": "https://t.co/DZc3zbUas0"
+            },
+            {
+              "display_url": "pic.x.com/DZc3zbUas0",
+              "end": 88,
+              "expanded_url": "https://x.com/ahixnming/status/1957782321697792004/photo/1",
+              "media_key": "3_1957782315247243264",
+              "start": 65,
+              "url": "https://t.co/DZc3zbUas0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957782321697792004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2750,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小兔你真是噁心 \n不想想為什麼內鬼這麼多因為妳無故罵自己朋友多麼歹毒 \n\n開小帳刷讚也無所謂 直接咒我癌末的家人死了？你的口德？ https://t.co/DZc3zbUas0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8293,
+          "following_count": 231,
+          "like_count": 7131,
+          "listed_count": 14,
+          "media_count": 844,
+          "tweet_count": 10930
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@twelvedaystodie ♡²",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "twelvedaystodie"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "文字垢",
+        "name": "阿明有數不清明天",
+        "pinned_tweet_id": "1905939111183257609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 553,
+          "like_count": 29343,
+          "listed_count": 1,
+          "media_count": 1133,
+          "tweet_count": 23245
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

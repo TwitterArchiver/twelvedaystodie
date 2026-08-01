@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2063861635010515296",
+    "created_at": "2026-06-08T05:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063861635010515296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/choco_lec/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/choco_lec/status/1710928202149810577",
+          "start": 8,
+          "url": "https://t.co/VJWvUx4Uhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063861635010515296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1710928202149810577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好喜歡我的夢想 https://t.co/VJWvUx4Uhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1710928183682359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F75wHkCXYAALi2U.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1710928189973798912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F75wH7eXIAAOFKi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1710928196021923840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F75wISAWMAAMUO1.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2063861635010515296",
+        "created_at": "2026-06-08T05:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063861635010515296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/choco_lec/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/choco_lec/status/1710928202149810577",
+              "start": 8,
+              "url": "https://t.co/VJWvUx4Uhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063861635010515296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1710928202149810577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好喜歡我的夢想 https://t.co/VJWvUx4Uhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1710928183682359296",
+            "3_1710928189973798912",
+            "3_1710928196021923840"
+          ]
+        },
+        "author_id": "1584365674805096449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1710928202149810577",
+        "created_at": "2023-10-08T08:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-08T09:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1710928202149810577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFTdLiwhjr",
+              "end": 90,
+              "expanded_url": "https://x.com/choco_lec/status/1710928202149810577/photo/1",
+              "media_key": "3_1710928183682359296",
+              "start": 67,
+              "url": "https://t.co/GFTdLiwhjr"
+            },
+            {
+              "display_url": "pic.x.com/GFTdLiwhjr",
+              "end": 90,
+              "expanded_url": "https://x.com/choco_lec/status/1710928202149810577/photo/1",
+              "media_key": "3_1710928189973798912",
+              "start": 67,
+              "url": "https://t.co/GFTdLiwhjr"
+            },
+            {
+              "display_url": "pic.x.com/GFTdLiwhjr",
+              "end": 90,
+              "expanded_url": "https://x.com/choco_lec/status/1710928202149810577/photo/1",
+              "media_key": "3_1710928196021923840",
+              "start": 67,
+              "url": "https://t.co/GFTdLiwhjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1710928202149810577",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4398,
+          "impression_count": 425462,
+          "like_count": 20173,
+          "quote_count": 294,
+          "reply_count": 325,
+          "retweet_count": 3474
+        },
+        "reply_settings": "everyone",
+        "text": "aaaa memories!! this was the night before i went to the psych ward https://t.co/GFTdLiwhjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8735,
+          "following_count": 221,
+          "like_count": 6991,
+          "listed_count": 13,
+          "media_count": 917,
+          "tweet_count": 11677
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T02:06:44.000Z",
+        "description": "5'7 🪻 20 years old 💕 it/they 🌷 recovery from ed and sh 🫧 agere + petre + cg 💖 tw for vents 🐰 block if sensitive to sh 🐣 i have a boyfriend!!",
+        "id": "1584365674805096449",
+        "name": "princess choco🦄🪽",
+        "pinned_tweet_id": "1767584569568448761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773898435462062080/17D7o9TW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 459,
+          "like_count": 56434,
+          "listed_count": 5,
+          "media_count": 639,
+          "tweet_count": 3443
+        },
+        "username": "choco_lec",
+        "verified": false
+      }
+    ]
+  }
+}

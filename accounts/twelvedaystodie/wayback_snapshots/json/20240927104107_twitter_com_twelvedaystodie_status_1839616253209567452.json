@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1839616253209567452",
+    "created_at": "2024-09-27T10:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T11:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839616253209567452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776609363656122368",
+          "start": 3,
+          "username": "killomi11385"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839616253209567452",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837383044501852371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killomi11385: 這裡翠翠2.0（被mks制裁￣へ￣\n06 🇭🇰\n55🚪限聊天/朋友圈\n—\n雙相｜廣泛性焦慮｜驚恐\n紋身穿孔｜壞習慣全沾\n(ˆ ̳.  ̫ . ̳ˆ)貓貓重度依賴🐈\n想認識更多地雷系女子(•̤̀ᵕ•̤́๑)🩷\n男的先過門▄︻┻┳═一……\n喜歡我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1839616253209567452",
+        "created_at": "2024-09-27T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839616253209567452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776609363656122368",
+              "start": 3,
+              "username": "killomi11385"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839616253209567452",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837383044501852371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killomi11385: 這裡翠翠2.0（被mks制裁￣へ￣\n06 🇭🇰\n55🚪限聊天/朋友圈\n—\n雙相｜廣泛性焦慮｜驚恐\n紋身穿孔｜壞習慣全沾\n(ˆ ̳.  ̫ . ̳ˆ)貓貓重度依賴🐈\n想認識更多地雷系女子(•̤̀ᵕ•̤́๑)🩷\n男的先過門▄︻┻┳═一……\n喜歡我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837383035505070080",
+            "3_1837383035467313152",
+            "3_1837383035458932737",
+            "3_1837383035484098560"
+          ]
+        },
+        "author_id": "1776609363656122368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1837383044501852371",
+        "created_at": "2024-09-21T06:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T07:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837383044501852371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkyyzh0gyt",
+              "end": 152,
+              "expanded_url": "https://twitter.com/killomi11385/status/1837383044501852371/photo/1",
+              "media_key": "3_1837383035505070080",
+              "start": 129,
+              "url": "https://t.co/ZKyYZH0gyt"
+            },
+            {
+              "display_url": "pic.x.com/zkyyzh0gyt",
+              "end": 152,
+              "expanded_url": "https://twitter.com/killomi11385/status/1837383044501852371/photo/1",
+              "media_key": "3_1837383035467313152",
+              "start": 129,
+              "url": "https://t.co/ZKyYZH0gyt"
+            },
+            {
+              "display_url": "pic.x.com/zkyyzh0gyt",
+              "end": 152,
+              "expanded_url": "https://twitter.com/killomi11385/status/1837383044501852371/photo/1",
+              "media_key": "3_1837383035458932737",
+              "start": 129,
+              "url": "https://t.co/ZKyYZH0gyt"
+            },
+            {
+              "display_url": "pic.x.com/zkyyzh0gyt",
+              "end": 152,
+              "expanded_url": "https://twitter.com/killomi11385/status/1837383044501852371/photo/1",
+              "media_key": "3_1837383035484098560",
+              "start": 129,
+              "url": "https://t.co/ZKyYZH0gyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837383044501852371",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13746,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "這裡翠翠2.0（被mks制裁￣へ￣\n06 🇭🇰\n55🚪限聊天/朋友圈\n—\n雙相｜廣泛性焦慮｜驚恐\n紋身穿孔｜壞習慣全沾\n(ˆ ̳.  ̫ . ̳ˆ)貓貓重度依賴🐈\n想認識更多地雷系女子(•̤̀ᵕ•̤́๑)🩷\n男的先過門▄︻┻┳═一……\n喜歡我就給我打錢吧！ https://t.co/ZKyYZH0gyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 235,
+          "like_count": 6677,
+          "listed_count": 15,
+          "tweet_count": 9833
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T13:54:39.000Z",
+        "description": "shtwt⚠️ @pain4uuu 大號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "pain4uuu"
+              }
+            ]
+          }
+        },
+        "id": "1776609363656122368",
+        "location": "Hong Kong",
+        "name": "翠翠2.0",
+        "pinned_tweet_id": "1837383044501852371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837034113599172608/4lZaIfDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 44,
+          "like_count": 51,
+          "listed_count": 0,
+          "tweet_count": 58
+        },
+        "username": "killomi11385",
+        "verified": false
+      }
+    ]
+  }
+}

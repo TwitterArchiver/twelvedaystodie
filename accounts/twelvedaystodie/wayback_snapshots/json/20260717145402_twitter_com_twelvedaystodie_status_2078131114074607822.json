@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2078131114074607822",
+    "created_at": "2026-07-17T14:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078131114074607822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1522518916282552321",
+          "start": 3,
+          "username": "tui_memo77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078131114074607822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077670890549191126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tui_memo77: 死ぬデメリット\n・スマホ見れない\n・唯一の友達ともう話せない\n\n死ぬメリット\n・毎日泣かないで済む（1年ぐらいずっと毎日泣いてる）\n・苦しみから解放される\n・めんどくさいこと考えなくて済む\n・人と関わらないで済む\n・心のずきずきが消える\n・昔のこ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2078131114074607822",
+        "created_at": "2026-07-17T14:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078131114074607822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1522518916282552321",
+              "start": 3,
+              "username": "tui_memo77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131114074607822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670890549191126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tui_memo77: 死ぬデメリット\n・スマホ見れない\n・唯一の友達ともう話せない\n\n死ぬメリット\n・毎日泣かないで済む（1年ぐらいずっと毎日泣いてる）\n・苦しみから解放される\n・めんどくさいこと考えなくて済む\n・人と関わらないで済む\n・心のずきずきが消える\n・昔のこ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522518916282552321",
+        "conversation_id": "2077670890549191126",
+        "created_at": "2026-07-16T08:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077670890549191126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077670890549191126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 56519,
+          "like_count": 2361,
+          "quote_count": 48,
+          "reply_count": 15,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬデメリット\n・スマホ見れない\n・唯一の友達ともう話せない\n\n死ぬメリット\n・毎日泣かないで済む（1年ぐらいずっと毎日泣いてる）\n・苦しみから解放される\n・めんどくさいこと考えなくて済む\n・人と関わらないで済む\n・心のずきずきが消える\n・昔のこと思い出さなくて済む"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 214,
+          "like_count": 6979,
+          "listed_count": 13,
+          "media_count": 925,
+          "tweet_count": 11732
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T10:09:56.000Z",
+        "description": "仲良くしよ フォロバ率99%\nただ思ったこと書くだけ",
+        "id": "1522518916282552321",
+        "location": "夢の中",
+        "name": "ついんてーる",
+        "pinned_tweet_id": "2051252181702246510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000565566952898560/70ewQYXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 253,
+          "like_count": 40253,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 9051
+        },
+        "url": "",
+        "username": "tui_memo77",
+        "verified": false
+      }
+    ]
+  }
+}

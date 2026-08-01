@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1959512840697733296",
+    "created_at": "2025-08-24T07:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T08:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959512840697733296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959512840697733296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們誰喜歡驚恐發作的感受我直接傳給你好了\n你們喜歡窒息感就感受到飽吧\n你們喜歡兩小時內，每一秒都像呼吸不了就去感受到飽吧\n最好給我感受到死為止，每天害怕晚上的事情，每天給我感受這個恐懼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1959512840697733296",
+        "created_at": "2025-08-24T07:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959512840697733296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959512840697733296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們誰喜歡驚恐發作的感受我直接傳給你好了\n你們喜歡窒息感就感受到飽吧\n你們喜歡兩小時內，每一秒都像呼吸不了就去感受到飽吧\n最好給我感受到死為止，每天害怕晚上的事情，每天給我感受這個恐懼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8273,
+          "following_count": 228,
+          "like_count": 7136,
+          "listed_count": 14,
+          "media_count": 844,
+          "tweet_count": 10944
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

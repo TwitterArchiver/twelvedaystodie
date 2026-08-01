@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078786304410877953"
+      ],
+      "media_source_tweet_id": [
+        "2078786317438288224"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2079132252349530387",
+    "created_at": "2026-07-20T09:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079132252349530387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813248373400739842",
+          "start": 3,
+          "username": "arumanis_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtGJn1bxiq",
+          "end": 39,
+          "expanded_url": "https://x.com/arumanis_2/status/2078786317438288224/photo/1",
+          "media_key": "3_2078786304410877953",
+          "start": 16,
+          "url": "https://t.co/rtGJn1bxiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079132252349530387",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078786317438288224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arumanis_2: https://t.co/rtGJn1bxiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1884,
+        "media_key": "3_2078786304410877953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlVIUZbgAELa3H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078786304410877953"
+          ]
+        },
+        "author_id": "1813248373400739842",
+        "conversation_id": "2078786317438288224",
+        "created_at": "2026-07-19T10:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078786317438288224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtGJn1bxiq",
+              "end": 23,
+              "expanded_url": "https://x.com/arumanis_2/status/2078786317438288224/photo/1",
+              "media_key": "3_2078786304410877953",
+              "start": 0,
+              "url": "https://t.co/rtGJn1bxiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078786317438288224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5412,
+          "impression_count": 277430,
+          "like_count": 26158,
+          "quote_count": 274,
+          "reply_count": 49,
+          "retweet_count": 5299
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rtGJn1bxiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078786304410877953"
+          ],
+          "media_source_tweet_id": [
+            "2078786317438288224"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2079132252349530387",
+        "created_at": "2026-07-20T09:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079132252349530387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813248373400739842",
+              "start": 3,
+              "username": "arumanis_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtGJn1bxiq",
+              "end": 39,
+              "expanded_url": "https://x.com/arumanis_2/status/2078786317438288224/photo/1",
+              "media_key": "3_2078786304410877953",
+              "start": 16,
+              "url": "https://t.co/rtGJn1bxiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079132252349530387",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078786317438288224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arumanis_2: https://t.co/rtGJn1bxiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8700,
+          "following_count": 214,
+          "like_count": 6985,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11743
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T16:24:44.000Z",
+        "description": "dc: @arumanis_9 for commission",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "arumanis_9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trakteer.id/arumanis",
+                "end": 23,
+                "expanded_url": "http://trakteer.id/arumanis",
+                "start": 0,
+                "url": "https://t.co/9V6Fz7SR4V"
+              }
+            ]
+          }
+        },
+        "id": "1813248373400739842",
+        "name": "gulali",
+        "pinned_tweet_id": "1892457687713272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037694735427715072/eQJUfP2I_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11709,
+          "following_count": 249,
+          "like_count": 1163,
+          "listed_count": 35,
+          "media_count": 170,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/9V6Fz7SR4V",
+        "username": "arumanis_2",
+        "verified": false
+      }
+    ]
+  }
+}

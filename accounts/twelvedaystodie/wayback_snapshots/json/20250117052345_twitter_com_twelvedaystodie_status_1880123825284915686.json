@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879662991643136000"
+      ],
+      "media_source_tweet_id": [
+        "1879662994302587353"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1880123825284915686",
+    "created_at": "2025-01-17T05:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T06:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880123825284915686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520787658246602753",
+          "start": 3,
+          "username": "verzzilivez"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDR6LlI4Zi",
+          "end": 73,
+          "expanded_url": "https://x.com/verzzilivez/status/1879662994302587353/photo/1",
+          "media_key": "3_1879662991643136000",
+          "start": 50,
+          "url": "https://t.co/gDR6LlI4Zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880123825284915686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879662994302587353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @verzzilivez: Idk who it is but it looks great https://t.co/gDR6LlI4Zi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880123825284915686].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880123825284915686",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880123825284915686"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_1879662991643136000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhXniDJWUAAUYni.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879662991643136000"
+          ]
+        },
+        "author_id": "1520787658246602753",
+        "conversation_id": "1879662994302587353",
+        "created_at": "2025-01-15T22:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T23:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879662994302587353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDR6LlI4Zi",
+              "end": 56,
+              "expanded_url": "https://x.com/verzzilivez/status/1879662994302587353/photo/1",
+              "media_key": "3_1879662991643136000",
+              "start": 33,
+              "url": "https://t.co/gDR6LlI4Zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879662994302587353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 512,
+          "impression_count": 45345,
+          "like_count": 5180,
+          "quote_count": 13,
+          "reply_count": 17,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "Idk who it is but it looks great https://t.co/gDR6LlI4Zi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7922,
+          "following_count": 239,
+          "like_count": 6753,
+          "listed_count": 15,
+          "media_count": 761,
+          "tweet_count": 10180
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:31:56.000Z",
+        "description": "𝕴 𝖙𝖍𝖎𝖓𝖐 𝕴'𝖑𝖑 𝖑𝖔𝖘𝖊 𝖒𝖞 𝖒𝖎𝖓𝖉 𝖎𝖓 𝖘𝖙𝖊𝖗𝖊𝖔.\n\nᘛ⁠⁐̤⁠ᕐ⁠ᐷ",
+        "id": "1520787658246602753",
+        "location": "˚₊‧꒰ა 𝐻𝑒 / 𝐒𝐡𝐭𝐰𝐭 ໒꒱ ‧₊",
+        "name": "Verzzliez",
+        "pinned_tweet_id": "1845279612302929940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878297078939484160/exhiiLa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 458,
+          "like_count": 27584,
+          "listed_count": 9,
+          "media_count": 435,
+          "tweet_count": 10897
+        },
+        "username": "verzzilivez",
+        "verified": false
+      }
+    ]
+  }
+}

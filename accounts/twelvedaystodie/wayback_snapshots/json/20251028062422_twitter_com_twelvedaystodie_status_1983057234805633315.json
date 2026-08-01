@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1982682726433263683",
+    "created_at": "2025-10-28T06:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983057234805633315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691478098401988608",
+          "start": 0,
+          "username": "huajianbisong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983057234805633315",
+    "in_reply_to_user_id": "1691478098401988608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982867097052164582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajianbisong 我喜歡啊，沒有後悔，很好摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1982682726433263683",
+        "created_at": "2025-10-28T06:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983057234805633315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691478098401988608",
+              "start": 0,
+              "username": "huajianbisong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983057234805633315",
+        "in_reply_to_user_id": "1691478098401988608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982867097052164582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajianbisong 我喜歡啊，沒有後悔，很好摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691478098401988608",
+        "conversation_id": "1982682726433263683",
+        "created_at": "2025-10-27T17:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982867097052164582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982867097052164582",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982682726433263683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 如果喜欢这种疤痕的话最好；不喜欢这的话可以考虑涂抹硅酮凝胶来进行消除，花不了多少钱🤧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8299,
+          "following_count": 224,
+          "like_count": 7105,
+          "listed_count": 15,
+          "media_count": 866,
+          "tweet_count": 11181
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T15:53:14.000Z",
+        "description": "Beautiful things don’t ask for attention",
+        "id": "1691478098401988608",
+        "location": "上海",
+        "name": "花间碧松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691485484663619584/fysyJhOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 432
+        },
+        "username": "huajianbisong",
+        "verified": false
+      }
+    ]
+  }
+}

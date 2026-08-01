@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2012568182498934901",
+    "created_at": "2026-01-21T08:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013894121140953126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1624805625917235200",
+          "start": 0,
+          "username": "gtfo_777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013894121140953126",
+    "in_reply_to_user_id": "1624805625917235200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013873966059004013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gtfo_777 我是驚恐發作方面很嚴重而已，其他精神病相對來說沒那麼嚴重，可能是在拉平衡（但驚恐發作的窒息感痛苦到我都覺得自己會死啊= ="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2012568182498934901",
+        "created_at": "2026-01-21T08:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013894121140953126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1624805625917235200",
+              "start": 0,
+              "username": "gtfo_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013894121140953126",
+        "in_reply_to_user_id": "1624805625917235200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013873966059004013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gtfo_777 我是驚恐發作方面很嚴重而已，其他精神病相對來說沒那麼嚴重，可能是在拉平衡（但驚恐發作的窒息感痛苦到我都覺得自己會死啊= ="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624805625917235200",
+        "conversation_id": "2012568182498934901",
+        "created_at": "2026-01-21T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013873966059004013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013873966059004013",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012568182498934901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 有病不能嗑藥確實讓人很焦慮，很少看到妳這麼嚴重的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8338,
+          "following_count": 220,
+          "like_count": 6896,
+          "listed_count": 15,
+          "media_count": 889,
+          "tweet_count": 11359
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T16:20:51.000Z",
+        "description": "喜歡嗑藥跟貓咪",
+        "id": "1624805625917235200",
+        "name": "逍生",
+        "pinned_tweet_id": "1702138001814691931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717750265590501376/Yvy4_7xc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 221
+        },
+        "username": "gtfo_777",
+        "verified": true
+      }
+    ]
+  }
+}

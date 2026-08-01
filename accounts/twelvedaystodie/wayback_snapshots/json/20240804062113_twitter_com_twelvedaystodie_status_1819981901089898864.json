@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1819796385946042862",
+    "created_at": "2024-08-04T06:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T07:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819981901089898864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135334607199490048",
+          "start": 0,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819981901089898864",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819796385946042862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPyTQBzKGNBmcXQ 抱抱……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1819796385946042862",
+        "created_at": "2024-08-04T06:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819981901089898864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819981901089898864",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819796385946042862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 抱抱……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819796376860925952"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1819796385946042862",
+        "created_at": "2024-08-03T18:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T19:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819796385946042862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Mz1N4kFOGq",
+              "end": 162,
+              "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1819796385946042862/photo/1",
+              "media_key": "3_1819796376860925952",
+              "start": 139,
+              "url": "https://t.co/Mz1N4kFOGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819796385946042862",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了煩死了 https://t.co/Mz1N4kFOGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7578,
+          "following_count": 228,
+          "like_count": 6593,
+          "listed_count": 15,
+          "tweet_count": 9553
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4145,
+          "following_count": 374,
+          "like_count": 74437,
+          "listed_count": 30,
+          "tweet_count": 8382
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

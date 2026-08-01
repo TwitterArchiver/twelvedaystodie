@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1837079470869537139",
+    "created_at": "2024-09-20T10:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T11:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837079470869537139"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837079470869537139",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你以為我不想變好嗎\n你以為我不想瘦下來嗎\n你以為我不想賺錢嗎\n你以為我不想好起來嗎\n你以為我想割手嗎\n你以為我想氣喘嗎\n你以為我想去醫院嗎\n你以為我不想出去玩嗎\n你以為我不想去旅行嗎\n你以為我不想回到過去繼續讀書嗎\n你以為我很滿意現在像寄生蟲的生活嗎\n沒有\n沒有\n你們都是自私的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1837079470869537139",
+        "created_at": "2024-09-20T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837079470869537139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837079470869537139",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你以為我不想變好嗎\n你以為我不想瘦下來嗎\n你以為我不想賺錢嗎\n你以為我不想好起來嗎\n你以為我想割手嗎\n你以為我想氣喘嗎\n你以為我想去醫院嗎\n你以為我不想出去玩嗎\n你以為我不想去旅行嗎\n你以為我不想回到過去繼續讀書嗎\n你以為我很滿意現在像寄生蟲的生活嗎\n沒有\n沒有\n你們都是自私的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7590,
+          "following_count": 229,
+          "like_count": 6644,
+          "listed_count": 16,
+          "tweet_count": 9787
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

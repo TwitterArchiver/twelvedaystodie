@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2020036151915270506",
+    "created_at": "2026-02-07T07:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020036151915270506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020036151915270506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什麼鬼，為什麼我會定點驚恐發作\n為什麼，到底為了什麼\n每晚都這樣，每晚都努力告訴自己\n只不過是驚恐發作，不要去害怕它\n但是我大腦一直說很有危險\n我甚至一過超高峰時期時，就不能理性看待「驚恐發作不會讓我死亡」這件事\n我會一直覺得我會窒息\n好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2020036151915270506",
+        "created_at": "2026-02-07T07:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020036151915270506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020036151915270506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什麼鬼，為什麼我會定點驚恐發作\n為什麼，到底為了什麼\n每晚都這樣，每晚都努力告訴自己\n只不過是驚恐發作，不要去害怕它\n但是我大腦一直說很有危險\n我甚至一過超高峰時期時，就不能理性看待「驚恐發作不會讓我死亡」這件事\n我會一直覺得我會窒息\n好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8320,
+          "following_count": 225,
+          "like_count": 6915,
+          "listed_count": 15,
+          "media_count": 891,
+          "tweet_count": 11410
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

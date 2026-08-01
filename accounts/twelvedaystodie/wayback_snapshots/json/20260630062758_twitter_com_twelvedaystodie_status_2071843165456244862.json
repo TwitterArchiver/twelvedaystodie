@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2071186886933245996",
+    "created_at": "2026-06-30T06:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071843165456244862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071843165456244862",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071199118551134341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 這我覺得不是沒有可能\n台灣越來越多支人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2071186886933245996",
+        "created_at": "2026-06-30T06:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071843165456244862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071843165456244862",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071199118551134341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 這我覺得不是沒有可能\n台灣越來越多支人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595394288119971840",
+        "conversation_id": "2071186886933245996",
+        "created_at": "2026-06-28T11:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071199118551134341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071199118551134341",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186886933245996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 事前说好的，连任条件是收复台湾好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8706,
+          "following_count": 217,
+          "like_count": 7002,
+          "listed_count": 13,
+          "media_count": 923,
+          "tweet_count": 11720
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）First not a frog, second feed with CANDY!",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "pinned_tweet_id": "2035284210551005426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 104,
+          "like_count": 18209,
+          "listed_count": 2,
+          "media_count": 470,
+          "tweet_count": 3481
+        },
+        "url": "",
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

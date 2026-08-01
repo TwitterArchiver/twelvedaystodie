@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2019779433465582056",
+    "created_at": "2026-02-08T12:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020473569067581741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431725991743959048",
+          "start": 0,
+          "username": "Aa1389729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020473569067581741",
+    "in_reply_to_user_id": "1431725991743959048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019779433465582056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aa1389729 傷害自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2019779433465582056",
+        "created_at": "2026-02-08T12:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020473569067581741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431725991743959048",
+              "start": 0,
+              "username": "Aa1389729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020473569067581741",
+        "in_reply_to_user_id": "1431725991743959048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019779433465582056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aa1389729 傷害自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431725991743959048",
+        "conversation_id": "2019779433465582056",
+        "created_at": "2026-02-06T14:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019779433465582056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019779433465582056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人爱的人是怎么忍住不报复人类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 225,
+          "like_count": 6925,
+          "listed_count": 15,
+          "media_count": 891,
+          "tweet_count": 11420
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T21:10:56.000Z",
+        "description": "寄托在另一个世界相见和实现",
+        "id": "1431725991743959048",
+        "name": "charKJ",
+        "pinned_tweet_id": "1595432699241848832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726831831742619648/4G6MfH9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 335,
+          "like_count": 9957,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 2743
+        },
+        "username": "Aa1389729",
+        "verified": false
+      }
+    ]
+  }
+}

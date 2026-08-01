@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983060683454590976",
+        "3_1983060683366510593",
+        "3_1983060683379093505"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1983060711162163670",
+    "created_at": "2025-10-28T06:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983060711162163670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RHcQy0Hqg",
+          "end": 49,
+          "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+          "media_key": "3_1983060683454590976",
+          "start": 26,
+          "url": "https://t.co/0RHcQy0Hqg"
+        },
+        {
+          "display_url": "pic.x.com/0RHcQy0Hqg",
+          "end": 49,
+          "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+          "media_key": "3_1983060683366510593",
+          "start": 26,
+          "url": "https://t.co/0RHcQy0Hqg"
+        },
+        {
+          "display_url": "pic.x.com/0RHcQy0Hqg",
+          "end": 49,
+          "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+          "media_key": "3_1983060683379093505",
+          "start": 26,
+          "url": "https://t.co/0RHcQy0Hqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983060711162163670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求求了過不下去了\n圖二是香港支付寶圖三是內地支付寶 https://t.co/0RHcQy0Hqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_1983060683454590976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4U_L1VasAA-KtT.jpg",
+        "width": 794
+      },
+      {
+        "height": 949,
+        "media_key": "3_1983060683366510593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4U_L1AasAEZgoh.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1755,
+        "media_key": "3_1983060683379093505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4U_L1DasAEkrNN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983060683454590976",
+            "3_1983060683366510593",
+            "3_1983060683379093505"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "1983060711162163670",
+        "created_at": "2025-10-28T06:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983060711162163670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RHcQy0Hqg",
+              "end": 49,
+              "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+              "media_key": "3_1983060683454590976",
+              "start": 26,
+              "url": "https://t.co/0RHcQy0Hqg"
+            },
+            {
+              "display_url": "pic.x.com/0RHcQy0Hqg",
+              "end": 49,
+              "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+              "media_key": "3_1983060683366510593",
+              "start": 26,
+              "url": "https://t.co/0RHcQy0Hqg"
+            },
+            {
+              "display_url": "pic.x.com/0RHcQy0Hqg",
+              "end": 49,
+              "expanded_url": "https://x.com/twelvedaystodie/status/1983060711162163670/photo/1",
+              "media_key": "3_1983060683379093505",
+              "start": 26,
+              "url": "https://t.co/0RHcQy0Hqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983060711162163670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求了過不下去了\n圖二是香港支付寶圖三是內地支付寶 https://t.co/0RHcQy0Hqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 224,
+          "like_count": 7113,
+          "listed_count": 15,
+          "media_count": 867,
+          "tweet_count": 11186
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

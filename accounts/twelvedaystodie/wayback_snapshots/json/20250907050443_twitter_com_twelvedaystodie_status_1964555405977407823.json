@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1964555405977407823",
+    "created_at": "2025-09-07T05:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T06:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964555405977407823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964555405977407823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推薦我自行停藥一日嗎？明天就是見醫生了\n我知道不要隨便自行停藥，但我嚴重懷疑是新的藥有問題\n但裡面又有抗焦慮和抑鬱的藥……那些又可能對我病情控制好一點\n好矛盾，有誰告訴我怎麼做\n或者有什麼網上免費的精神科醫生問蔡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1964555405977407823",
+        "created_at": "2025-09-07T05:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964555405977407823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964555405977407823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推薦我自行停藥一日嗎？明天就是見醫生了\n我知道不要隨便自行停藥，但我嚴重懷疑是新的藥有問題\n但裡面又有抗焦慮和抑鬱的藥……那些又可能對我病情控制好一點\n好矛盾，有誰告訴我怎麼做\n或者有什麼網上免費的精神科醫生問蔡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 226,
+          "like_count": 7166,
+          "listed_count": 15,
+          "media_count": 850,
+          "tweet_count": 11040
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

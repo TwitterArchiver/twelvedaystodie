@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1966481404285661409",
+    "created_at": "2025-09-12T12:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T13:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966481404285661409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "pogou___xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966481404285661409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966423511435808844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pogou___xx: 我很對不起自己的父母 尤其是爸爸\n雖然他在我小時候 不懂得照顧我\n演變成某種情緒勒索又或者精神虐待\n我知道他在改了  他有變好\n但是 我已經徹底腐爛了\n好累 \n我沒有辦法像一個正常人一樣活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1966481404285661409",
+        "created_at": "2025-09-12T12:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T13:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966481404285661409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "pogou___xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966481404285661409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966423511435808844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pogou___xx: 我很對不起自己的父母 尤其是爸爸\n雖然他在我小時候 不懂得照顧我\n演變成某種情緒勒索又或者精神虐待\n我知道他在改了  他有變好\n但是 我已經徹底腐爛了\n好累 \n我沒有辦法像一個正常人一樣活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "1966423511435808844",
+        "created_at": "2025-09-12T08:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T09:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966423511435808844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966423511435808844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很對不起自己的父母 尤其是爸爸\n雖然他在我小時候 不懂得照顧我\n演變成某種情緒勒索又或者精神虐待\n我知道他在改了  他有變好\n但是 我已經徹底腐爛了\n好累 \n我沒有辦法像一個正常人一樣活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8287,
+          "following_count": 226,
+          "like_count": 7167,
+          "listed_count": 15,
+          "media_count": 855,
+          "tweet_count": 11092
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷女｜永遠の16歳",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破狗醬",
+        "pinned_tweet_id": "1935262321439645728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 128,
+          "like_count": 15408,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 2197
+        },
+        "username": "pogou___xx",
+        "verified": false
+      }
+    ]
+  }
+}

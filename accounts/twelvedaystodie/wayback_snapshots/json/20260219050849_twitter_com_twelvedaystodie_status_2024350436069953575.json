@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2024350436069953575",
+    "created_at": "2026-02-19T05:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024350436069953575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Goldwater8964/…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/Goldwater8964/status/2024122230205002143",
+          "start": 85,
+          "url": "https://t.co/CY5BaIj5l9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024350436069953575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024122230205002143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些人不知道，嘔吐物阻塞食道是真的會死人，所以我在這裡告訴你們\n是真的，而且因為這樣而死的人不少，不要以為嘔吐不危險\n所以od的，記得如果真的很睏，要坐著睡，不要躺著睡 https://t.co/CY5BaIj5l9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2024350436069953575",
+        "created_at": "2026-02-19T05:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024350436069953575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Goldwater8964/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Goldwater8964/status/2024122230205002143",
+              "start": 85,
+              "url": "https://t.co/CY5BaIj5l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024350436069953575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024122230205002143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人不知道，嘔吐物阻塞食道是真的會死人，所以我在這裡告訴你們\n是真的，而且因為這樣而死的人不少，不要以為嘔吐不危險\n所以od的，記得如果真的很睏，要坐著睡，不要躺著睡 https://t.co/CY5BaIj5l9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2024122230205002143",
+        "created_at": "2026-02-18T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:00:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024121751626813842",
+          "2024122230205002143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1855690027034128384",
+              "start": 13,
+              "username": "tingxialaibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024122230205002143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 88079,
+          "like_count": 263,
+          "quote_count": 21,
+          "reply_count": 59,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "2026年2月14日，推友@tingxialaibai 于浙江省过量服用八颗阿普挫仑以及24颗普瑞巴林，饮用了200ml酒精度数为96%的生命之水伏特加，死于呕吐物堵塞气管造成的窒息，愿广大网友引以为戒，自重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8856,
+          "following_count": 223,
+          "like_count": 6947,
+          "listed_count": 15,
+          "media_count": 894,
+          "tweet_count": 11453
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2020453742424789167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 547,
+          "like_count": 2782,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 488
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

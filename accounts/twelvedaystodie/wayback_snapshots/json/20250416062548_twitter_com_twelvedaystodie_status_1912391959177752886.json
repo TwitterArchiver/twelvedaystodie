@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912391954500857856"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1912391959177752886",
+    "created_at": "2025-04-16T06:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912391959177752886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7GILccWWhi",
+          "end": 47,
+          "expanded_url": "https://x.com/twelvedaystodie/status/1912391959177752886/photo/1",
+          "media_key": "3_1912391954500857856",
+          "start": 24,
+          "url": "https://t.co/7GILccWWhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912391959177752886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最煩不是清潔\n而是癢時抓的時候又不知道血出來了 https://t.co/7GILccWWhi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912391954500857856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoouWa9WsAA_iiC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912391954500857856"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912391959177752886",
+        "created_at": "2025-04-16T06:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912391959177752886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GILccWWhi",
+              "end": 47,
+              "expanded_url": "https://x.com/twelvedaystodie/status/1912391959177752886/photo/1",
+              "media_key": "3_1912391954500857856",
+              "start": 24,
+              "url": "https://t.co/7GILccWWhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912391959177752886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最煩不是清潔\n而是癢時抓的時候又不知道血出來了 https://t.co/7GILccWWhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\n寶貝︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8031,
+          "following_count": 233,
+          "like_count": 6893,
+          "listed_count": 16,
+          "media_count": 791,
+          "tweet_count": 10425
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

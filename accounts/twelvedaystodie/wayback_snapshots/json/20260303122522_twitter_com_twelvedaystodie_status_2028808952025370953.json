@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027928220079886336"
+      ],
+      "media_source_tweet_id": [
+        "2027928242846683517"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2028808952025370953",
+    "created_at": "2026-03-03T12:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028808952025370953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737719054327222272",
+          "start": 3,
+          "username": "haranowata71"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1cPhXOZRJ5",
+          "end": 41,
+          "expanded_url": "https://x.com/haranowata71/status/2027928242846683517/photo/1",
+          "media_key": "3_2027928220079886336",
+          "start": 18,
+          "url": "https://t.co/1cPhXOZRJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028808952025370953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 806
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027928242846683517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haranowata71: https://t.co/1cPhXOZRJ5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028808952025370953].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028808952025370953",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028808952025370953"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027928220079886336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSl-MPaEAAEQml.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027928220079886336"
+          ]
+        },
+        "author_id": "1737719054327222272",
+        "conversation_id": "2027928242846683517",
+        "created_at": "2026-03-01T02:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027928242846683517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1cPhXOZRJ5",
+              "end": 23,
+              "expanded_url": "https://x.com/haranowata71/status/2027928242846683517/photo/1",
+              "media_key": "3_2027928220079886336",
+              "start": 0,
+              "url": "https://t.co/1cPhXOZRJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027928242846683517",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 30094,
+          "like_count": 5126,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1cPhXOZRJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8846,
+          "following_count": 224,
+          "like_count": 6975,
+          "listed_count": 15,
+          "media_count": 899,
+          "tweet_count": 11493
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T06:18:11.000Z",
+        "description": "@yuanyemian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuanyemian"
+              }
+            ]
+          }
+        },
+        "id": "1737719054327222272",
+        "name": "低脳乙",
+        "pinned_tweet_id": "2028206405367574659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028350097785008130/1QSUj9E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13604,
+          "following_count": 13,
+          "like_count": 284,
+          "listed_count": 12,
+          "media_count": 51,
+          "tweet_count": 65
+        },
+        "username": "haranowata71",
+        "verified": false
+      }
+    ]
+  }
+}

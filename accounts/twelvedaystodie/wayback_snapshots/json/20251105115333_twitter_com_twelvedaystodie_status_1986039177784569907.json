@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1986039177784569907",
+    "created_at": "2025-11-05T11:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986039177784569907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qqqqqf5/status…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/qqqqqf5/status/1985813129260064961",
+          "start": 73,
+          "url": "https://t.co/qch1P9WM3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986039177784569907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985813129260064961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只讓我想起住院的日子\n痛苦到差不多每天哭（雖然那原來是很差的精神病院\n手機資訊有好有壞，但至少能少少分散我注意力\n不然我父母這麼做的話等變凶宅吧 https://t.co/qch1P9WM3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1985813123841085440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48Gg8zbUAAgWZL.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1986039177784569907",
+        "created_at": "2025-11-05T11:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986039177784569907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/1985813129260064961",
+              "start": 73,
+              "url": "https://t.co/qch1P9WM3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986039177784569907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985813129260064961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只讓我想起住院的日子\n痛苦到差不多每天哭（雖然那原來是很差的精神病院\n手機資訊有好有壞，但至少能少少分散我注意力\n不然我父母這麼做的話等變凶宅吧 https://t.co/qch1P9WM3Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985813123841085440"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985813129260064961",
+        "created_at": "2025-11-04T20:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T21:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985813129260064961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61xkciGtA0",
+              "end": 41,
+              "expanded_url": "https://x.com/qqqqqf5/status/1985813129260064961/photo/1",
+              "media_key": "3_1985813123841085440",
+              "start": 18,
+              "url": "https://t.co/61xkciGtA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985813129260064961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 98189,
+          "like_count": 532,
+          "quote_count": 7,
+          "reply_count": 65,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果收了，那你会少一半的抑郁症患者 https://t.co/61xkciGtA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8307,
+          "following_count": 221,
+          "like_count": 7126,
+          "listed_count": 15,
+          "media_count": 869,
+          "tweet_count": 11210
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "15岁MTF\n拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1984726981779603959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 1941,
+          "like_count": 7331,
+          "listed_count": 9,
+          "media_count": 817,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

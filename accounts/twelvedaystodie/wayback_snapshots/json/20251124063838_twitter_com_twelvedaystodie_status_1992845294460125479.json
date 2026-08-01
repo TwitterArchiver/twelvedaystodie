@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1992845294460125479",
+    "created_at": "2025-11-24T06:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T07:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992845294460125479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1792011763875184640",
+          "start": 3,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992845294460125479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991846545025810547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lnmng5262080968: 有心理疾病到底能做什么养活自己，我端过盘子当过老师干过小画师，尝试过圈老登钱，连客服小祥都当过但都失败了。考证书学习更是谈不上，记忆力越来越差甚至刚才干什么都不知道。到底怎样才能正常生活，我只想安稳的，幸福的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1992845294460125479",
+        "created_at": "2025-11-24T06:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992845294460125479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1792011763875184640",
+              "start": 3,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992845294460125479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lnmng5262080968: 有心理疾病到底能做什么养活自己，我端过盘子当过老师干过小画师，尝试过圈老登钱，连客服小祥都当过但都失败了。考证书学习更是谈不上，记忆力越来越差甚至刚才干什么都不知道。到底怎样才能正常生活，我只想安稳的，幸福的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-21T12:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991846545025810547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991846545025810547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 219449,
+          "like_count": 1296,
+          "quote_count": 25,
+          "reply_count": 215,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "有心理疾病到底能做什么养活自己，我端过盘子当过老师干过小画师，尝试过圈老登钱，连客服小祥都当过但都失败了。考证书学习更是谈不上，记忆力越来越差甚至刚才干什么都不知道。到底怎样才能正常生活，我只想安稳的，幸福的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8330,
+          "following_count": 220,
+          "like_count": 7137,
+          "listed_count": 15,
+          "media_count": 872,
+          "tweet_count": 11238
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 382,
+          "like_count": 14785,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 4848
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

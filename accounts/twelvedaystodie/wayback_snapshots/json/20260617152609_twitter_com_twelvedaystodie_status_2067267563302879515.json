@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2067267563302879515",
+    "created_at": "2026-06-17T15:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067267563302879515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067267563302879515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067011968515678271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 両親よりも早く、先に死ぬのが夢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2067267563302879515",
+        "created_at": "2026-06-17T15:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067267563302879515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067267563302879515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067011968515678271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 両親よりも早く、先に死ぬのが夢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2067011968515678271",
+        "created_at": "2026-06-16T22:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067011968515678271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067011968515678271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5994,
+          "like_count": 327,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "両親よりも早く、先に死ぬのが夢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 218,
+          "like_count": 6993,
+          "listed_count": 13,
+          "media_count": 918,
+          "tweet_count": 11689
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066526646862266369/xi659hiG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 221,
+          "like_count": 10066,
+          "listed_count": 5,
+          "media_count": 8,
+          "tweet_count": 1228
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1961035917478736369",
+    "created_at": "2025-09-03T11:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963202704336990579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554331610413092864",
+          "start": 0,
+          "username": "Nobodycareo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963202704336990579",
+    "in_reply_to_user_id": "1554331610413092864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963140876663926895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nobodycareo 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1961035917478736369",
+        "created_at": "2025-09-03T11:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963202704336990579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554331610413092864",
+              "start": 0,
+              "username": "Nobodycareo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963202704336990579",
+        "in_reply_to_user_id": "1554331610413092864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963140876663926895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nobodycareo 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554331610413092864",
+        "conversation_id": "1961035917478736369",
+        "created_at": "2025-09-03T07:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963140876663926895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963140876663926895",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961035917478736369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 氣喘就算吧…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8271,
+          "following_count": 227,
+          "like_count": 7154,
+          "listed_count": 15,
+          "media_count": 850,
+          "tweet_count": 11008
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T05:01:59.000Z",
+        "description": "🩸 有血腥畫面小心、自殘自傷愛好 🥺希望有一天會有人來看自己的髒血🚫這裡不歡迎噁男、指教仔、想“拯救”J.醬的人",
+        "id": "1554331610413092864",
+        "location": "在黑暗的被窩里",
+        "name": "J.醬🩸自殘愛好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825386064581939200/-XftMxyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 31,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 280
+        },
+        "username": "Nobodycareo",
+        "verified": false
+      }
+    ]
+  }
+}

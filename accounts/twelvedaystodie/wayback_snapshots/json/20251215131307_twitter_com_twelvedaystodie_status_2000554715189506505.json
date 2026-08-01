@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000035870259478528"
+      ],
+      "media_source_tweet_id": [
+        "2000035904933769374"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2000554715189506505",
+    "created_at": "2025-12-15T13:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000554715189506505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1996946554050301958",
+          "start": 3,
+          "username": "nearlydyingdaly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdW3dM90mE",
+          "end": 44,
+          "expanded_url": "https://x.com/nearlydyingdaly/status/2000035904933769374/video/1",
+          "media_key": "7_2000035870259478528",
+          "start": 21,
+          "url": "https://t.co/jdW3dM90mE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000554715189506505",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1540
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000035904933769374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nearlydyingdaly: https://t.co/jdW3dM90mE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18459,
+        "height": 848,
+        "media_key": "7_2000035870259478528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000035870259478528/pu/img/6aUL47lZ2A9_uvxe.jpg",
+        "public_metrics": {
+          "view_count": 1386724
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000035870259478528/pu/vid/avc1/320x484/Ztz9RTh_Yc6P_Vz9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000035870259478528/pu/vid/avc1/480x726/gkjnBx3buozOT3qE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000035870259478528/pu/vid/avc1/560x848/JnI5HzbFH74uGnM5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000035870259478528/pu/pl/DFJe7NNcr7vgTwo8.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000035870259478528"
+          ],
+          "media_source_tweet_id": [
+            "2000035904933769374"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2000554715189506505",
+        "created_at": "2025-12-15T13:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000554715189506505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1996946554050301958",
+              "start": 3,
+              "username": "nearlydyingdaly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdW3dM90mE",
+              "end": 44,
+              "expanded_url": "https://x.com/nearlydyingdaly/status/2000035904933769374/video/1",
+              "media_key": "7_2000035870259478528",
+              "start": 21,
+              "url": "https://t.co/jdW3dM90mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000554715189506505",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1540
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000035904933769374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nearlydyingdaly: https://t.co/jdW3dM90mE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000035870259478528"
+          ]
+        },
+        "author_id": "1996946554050301958",
+        "conversation_id": "2000035904933769374",
+        "created_at": "2025-12-14T02:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000035904933769374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdW3dM90mE",
+              "end": 23,
+              "expanded_url": "https://x.com/nearlydyingdaly/status/2000035904933769374/video/1",
+              "media_key": "7_2000035870259478528",
+              "start": 0,
+              "url": "https://t.co/jdW3dM90mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000035904933769374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7483,
+          "impression_count": 1112683,
+          "like_count": 27412,
+          "quote_count": 46,
+          "reply_count": 375,
+          "retweet_count": 1540
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jdW3dM90mE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 222,
+          "like_count": 7029,
+          "listed_count": 15,
+          "media_count": 876,
+          "tweet_count": 11281
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T14:16:32.000Z",
+        "description": "The wildest page on the Gram💯",
+        "id": "1996946554050301958",
+        "name": "People Nearly Dying Daily🔞",
+        "pinned_tweet_id": "2000035904933769374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996947308974690307/wtDDjOLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22748,
+          "following_count": 12,
+          "like_count": 23,
+          "listed_count": 10,
+          "media_count": 74,
+          "tweet_count": 79
+        },
+        "username": "nearlydyingdaly",
+        "verified": false
+      }
+    ]
+  }
+}

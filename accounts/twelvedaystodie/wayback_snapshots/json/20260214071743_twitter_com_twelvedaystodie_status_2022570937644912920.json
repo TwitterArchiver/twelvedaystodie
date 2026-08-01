@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021875327182815232"
+      ],
+      "media_source_tweet_id": [
+        "2021947404237299917"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2022570937644912920",
+    "created_at": "2026-02-14T07:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022570937644912920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmP3PjnaPP",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2021947404237299917/photo/1",
+          "media_key": "3_2021875327182815232",
+          "start": 14,
+          "url": "https://t.co/HmP3PjnaPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022570937644912920",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021947404237299917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: https://t.co/HmP3PjnaPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2021875327182815232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8k5dDbwAAlSwT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021875327182815232"
+          ],
+          "media_source_tweet_id": [
+            "2021947404237299917"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2022570937644912920",
+        "created_at": "2026-02-14T07:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022570937644912920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmP3PjnaPP",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2021947404237299917/photo/1",
+              "media_key": "3_2021875327182815232",
+              "start": 14,
+              "url": "https://t.co/HmP3PjnaPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022570937644912920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021947404237299917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: https://t.co/HmP3PjnaPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021875327182815232"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021947404237299917",
+        "created_at": "2026-02-12T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021947404237299917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmP3PjnaPP",
+              "end": 23,
+              "expanded_url": "https://x.com/youy1qwq/status/2021947404237299917/photo/1",
+              "media_key": "3_2021875327182815232",
+              "start": 0,
+              "url": "https://t.co/HmP3PjnaPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021947404237299917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 23872,
+          "like_count": 1459,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HmP3PjnaPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8323,
+          "following_count": 223,
+          "like_count": 6935,
+          "listed_count": 15,
+          "media_count": 893,
+          "tweet_count": 11439
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 920,
+          "like_count": 2277,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 654
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

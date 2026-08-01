@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1838176265083519014",
+    "created_at": "2024-09-23T11:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T12:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838176265083519014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanmebusu/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/yanmebusu/status/1838142258824253578",
+          "start": 28,
+          "url": "https://t.co/OsEoe5oZUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838176265083519014",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838142258824253578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8，我也不嚴重，但我沒有打電話什麼的只有跟別人聊一兩句 https://t.co/OsEoe5oZUE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1838176265083519014",
+        "created_at": "2024-09-23T11:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T12:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838176265083519014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanmebusu/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yanmebusu/status/1838142258824253578",
+              "start": 28,
+              "url": "https://t.co/OsEoe5oZUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838176265083519014",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838142258824253578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8，我也不嚴重，但我沒有打電話什麼的只有跟別人聊一兩句 https://t.co/OsEoe5oZUE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838142252432179200"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "1838142258824253578",
+        "created_at": "2024-09-23T09:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T10:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838142258824253578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b0sgj6eu0",
+              "end": 63,
+              "expanded_url": "https://twitter.com/yanmebusu/status/1838142258824253578/photo/1",
+              "media_key": "3_1838142252432179200",
+              "start": 40,
+              "url": "https://t.co/6B0sgJ6Eu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838142258824253578",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "長期7號  ，最嚴重可以去到8-9\n所以其實我沒有很嚴重 \n因為反正都還沒有死 https://t.co/6B0sgJ6Eu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7597,
+          "following_count": 232,
+          "like_count": 6643,
+          "listed_count": 16,
+          "tweet_count": 9804
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "放負 ，只想被認同 。 永遠の16歳です。",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "破碎發洩工具",
+        "pinned_tweet_id": "1782982388852858896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775552273361625088/7edQ7fe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 106,
+          "like_count": 10084,
+          "listed_count": 1,
+          "tweet_count": 1309
+        },
+        "username": "yanmebusu",
+        "verified": false
+      }
+    ]
+  }
+}

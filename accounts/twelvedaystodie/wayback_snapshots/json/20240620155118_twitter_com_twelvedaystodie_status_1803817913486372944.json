@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1803718394988187729",
+    "created_at": "2024-06-20T15:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T16:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803817913486372944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1670831205829459968",
+          "start": 0,
+          "username": "annie5947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803817913486372944",
+    "in_reply_to_user_id": "1670831205829459968",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803816594558132458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annie5947 嗚嗚抱抱tt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1803718394988187729",
+        "created_at": "2024-06-20T15:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803817913486372944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1670831205829459968",
+              "start": 0,
+              "username": "annie5947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803817913486372944",
+        "in_reply_to_user_id": "1670831205829459968",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803816594558132458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annie5947 嗚嗚抱抱tt"
+      },
+      {
+        "attachments": {},
+        "author_id": "1670831205829459968",
+        "conversation_id": "1803718394988187729",
+        "created_at": "2024-06-20T15:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803816594558132458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803816594558132458",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803718394988187729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 過度換氣、激動情緒、無助失控的感覺我都有體驗過，只是我沒有那麼頻繁，辛苦寶寶了..抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7542,
+          "following_count": 231,
+          "like_count": 6520,
+          "listed_count": 15,
+          "tweet_count": 9220
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T16:30:07.000Z",
+        "description": "✞女高✞重鬱✞雙相✞邊緣性人格✞自傷行為✞過食嘔吐✞中文、日本語、English✞病み垢✞\n小號 @annie9574（備份互關）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "annie9574"
+              }
+            ]
+          }
+        },
+        "id": "1670831205829459968",
+        "name": "殤殤",
+        "pinned_tweet_id": "1787493609903894704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800767878624677889/JBUJvoKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 71,
+          "like_count": 2581,
+          "listed_count": 2,
+          "tweet_count": 1166
+        },
+        "username": "annie5947",
+        "verified": false
+      }
+    ]
+  }
+}

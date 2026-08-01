@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039330016744615936"
+      ],
+      "media_source_tweet_id": [
+        "2039330023308746930"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2039666743015293002",
+    "created_at": "2026-04-02T11:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039666743015293002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1030822349895950336",
+          "start": 3,
+          "username": "itukadokokade_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBHacLp0s2",
+          "end": 53,
+          "expanded_url": "https://x.com/itukadokokade_/status/2039330023308746930/photo/1",
+          "media_key": "3_2039330016744615936",
+          "start": 30,
+          "url": "https://t.co/xBHacLp0s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039666743015293002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039330023308746930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itukadokokade_: トモコレおもしれ〜 https://t.co/xBHacLp0s2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2039330016744615936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0n2GvasAA3t5W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039330016744615936"
+          ],
+          "media_source_tweet_id": [
+            "2039330023308746930"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2039666743015293002",
+        "created_at": "2026-04-02T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039666743015293002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1030822349895950336",
+              "start": 3,
+              "username": "itukadokokade_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBHacLp0s2",
+              "end": 53,
+              "expanded_url": "https://x.com/itukadokokade_/status/2039330023308746930/photo/1",
+              "media_key": "3_2039330016744615936",
+              "start": 30,
+              "url": "https://t.co/xBHacLp0s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039666743015293002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039330023308746930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itukadokokade_: トモコレおもしれ〜 https://t.co/xBHacLp0s2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039330016744615936"
+          ]
+        },
+        "author_id": "1030822349895950336",
+        "conversation_id": "2039330023308746930",
+        "created_at": "2026-04-01T13:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039330023308746930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBHacLp0s2",
+              "end": 33,
+              "expanded_url": "https://x.com/itukadokokade_/status/2039330023308746930/photo/1",
+              "media_key": "3_2039330016744615936",
+              "start": 10,
+              "url": "https://t.co/xBHacLp0s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039330023308746930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1175,
+          "impression_count": 573417,
+          "like_count": 21149,
+          "quote_count": 336,
+          "reply_count": 56,
+          "retweet_count": 2230
+        },
+        "reply_settings": "everyone",
+        "text": "トモコレおもしれ〜 https://t.co/xBHacLp0s2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8806,
+          "following_count": 226,
+          "like_count": 7007,
+          "listed_count": 15,
+          "media_count": 907,
+          "tweet_count": 11598
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-18T14:22:54.000Z",
+        "description": "心に咲く花は君の香り",
+        "id": "1030822349895950336",
+        "name": "あつしぼ",
+        "pinned_tweet_id": "2009249711530610896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020518569692495872/7ohFwH3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 134,
+          "like_count": 6821,
+          "listed_count": 12,
+          "media_count": 398,
+          "tweet_count": 1816
+        },
+        "username": "itukadokokade_",
+        "verified": false
+      }
+    ]
+  }
+}

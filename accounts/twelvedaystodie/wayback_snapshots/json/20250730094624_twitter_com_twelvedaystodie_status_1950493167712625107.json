@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1950493167712625107",
+    "created_at": "2025-07-30T09:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950493167712625107"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950493167712625107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天跟一對母女接觸，然後母親比較脾氣火爆那種，女兒小呆呆乖巧那種\n然後她自女兒突然問我：\n為什麼你的手這樣啊\n然後我還沒反應過來，她媽就說：\n受傷\n然後就沒了，幸好她回答超快不然我只會尷尬笑= ="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1950493167712625107",
+        "created_at": "2025-07-30T09:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950493167712625107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950493167712625107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟一對母女接觸，然後母親比較脾氣火爆那種，女兒小呆呆乖巧那種\n然後她自女兒突然問我：\n為什麼你的手這樣啊\n然後我還沒反應過來，她媽就說：\n受傷\n然後就沒了，幸好她回答超快不然我只會尷尬笑= ="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 229,
+          "like_count": 7166,
+          "listed_count": 15,
+          "media_count": 840,
+          "tweet_count": 10885
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

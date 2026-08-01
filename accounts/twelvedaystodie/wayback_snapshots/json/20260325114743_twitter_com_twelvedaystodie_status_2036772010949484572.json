@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2036772010949484572",
+    "created_at": "2026-03-25T11:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036772010949484572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016303867944996864",
+          "start": 3,
+          "username": "1ris_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036772010949484572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036471820778647997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ris_sama: 过了十八岁再自杀就没有美学价值了。过了18岁再去人们就只会看到一个失败的成年人。18岁自杀是青春疼痛文学，28岁自杀像是上班上疯了。中国入自杀也有关键时期知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2036772010949484572",
+        "created_at": "2026-03-25T11:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036772010949484572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016303867944996864",
+              "start": 3,
+              "username": "1ris_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036772010949484572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036471820778647997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ris_sama: 过了十八岁再自杀就没有美学价值了。过了18岁再去人们就只会看到一个失败的成年人。18岁自杀是青春疼痛文学，28岁自杀像是上班上疯了。中国入自杀也有关键时期知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016303867944996864",
+        "conversation_id": "2036471820778647997",
+        "created_at": "2026-03-24T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036471820778647997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036471820778647997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 72844,
+          "like_count": 1638,
+          "quote_count": 17,
+          "reply_count": 41,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "过了十八岁再自杀就没有美学价值了。过了18岁再去人们就只会看到一个失败的成年人。18岁自杀是青春疼痛文学，28岁自杀像是上班上疯了。中国入自杀也有关键时期知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8804,
+          "following_count": 225,
+          "like_count": 6992,
+          "listed_count": 15,
+          "media_count": 906,
+          "tweet_count": 11572
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T00:14:52.000Z",
+        "description": "📎한국계 | 26fall🇭🇰🇬🇧🇺🇸\n📎你無法了解我\n📎妻@sakumamutsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "sakumamutsuki"
+              }
+            ]
+          }
+        },
+        "id": "2016303867944996864",
+        "location": "El recuerdo de una espada",
+        "name": "IRIS郁子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036331580625657857/nNWTsIhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 173,
+          "like_count": 6305,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1603
+        },
+        "username": "1ris_sama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025404896212848640"
+      ],
+      "media_source_tweet_id": [
+        "2025404905037676931"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2025845787381637212",
+    "created_at": "2026-02-23T08:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025845787381637212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1845417099411312652",
+          "start": 3,
+          "username": "bicutcono1975"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EP7ga3cHQK",
+          "end": 55,
+          "expanded_url": "https://x.com/bicutcono1975/status/2025404905037676931/photo/1",
+          "media_key": "3_2025404896212848640",
+          "start": 32,
+          "url": "https://t.co/EP7ga3cHQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025845787381637212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2948
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025404905037676931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bicutcono1975: もう終わりだよ。この国。 https://t.co/EP7ga3cHQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_2025404896212848640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuvBaUakAA8aex.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025404896212848640"
+          ],
+          "media_source_tweet_id": [
+            "2025404905037676931"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2025845787381637212",
+        "created_at": "2026-02-23T08:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025845787381637212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1845417099411312652",
+              "start": 3,
+              "username": "bicutcono1975"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP7ga3cHQK",
+              "end": 55,
+              "expanded_url": "https://x.com/bicutcono1975/status/2025404905037676931/photo/1",
+              "media_key": "3_2025404896212848640",
+              "start": 32,
+              "url": "https://t.co/EP7ga3cHQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025845787381637212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2948
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025404905037676931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bicutcono1975: もう終わりだよ。この国。 https://t.co/EP7ga3cHQK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025404896212848640"
+          ]
+        },
+        "author_id": "1845417099411312652",
+        "conversation_id": "2025404905037676931",
+        "created_at": "2026-02-22T02:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025404905037676931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP7ga3cHQK",
+              "end": 36,
+              "expanded_url": "https://x.com/bicutcono1975/status/2025404905037676931/photo/1",
+              "media_key": "3_2025404896212848640",
+              "start": 13,
+              "url": "https://t.co/EP7ga3cHQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025404905037676931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 2872876,
+          "like_count": 22641,
+          "quote_count": 1100,
+          "reply_count": 841,
+          "retweet_count": 2948
+        },
+        "reply_settings": "everyone",
+        "text": "もう終わりだよ。この国。 https://t.co/EP7ga3cHQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8858,
+          "following_count": 223,
+          "like_count": 6969,
+          "listed_count": 15,
+          "media_count": 897,
+          "tweet_count": 11471
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T10:51:46.000Z",
+        "description": "流れてきたら最後。\nTL神回まとめ。",
+        "id": "1845417099411312652",
+        "name": "TL神回【保存版】",
+        "pinned_tweet_id": "2025404905037676931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021170270283890690/t-Gu1M9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453,
+          "following_count": 1324,
+          "like_count": 624,
+          "listed_count": 9,
+          "media_count": 299,
+          "tweet_count": 1783
+        },
+        "username": "bicutcono1975",
+        "verified": true
+      }
+    ]
+  }
+}

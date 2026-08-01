@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2029796817584734706",
+    "created_at": "2026-03-06T05:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029796817584734706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962887473220001793",
+          "start": 3,
+          "username": "palegor3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029796817584734706",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029252323575312628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @palegor3: Cutspo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2029796817584734706",
+        "created_at": "2026-03-06T05:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029796817584734706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962887473220001793",
+              "start": 3,
+              "username": "palegor3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029796817584734706",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029252323575312628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @palegor3: Cutspo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962887473220001793",
+        "conversation_id": "2029252323575312628",
+        "created_at": "2026-03-04T17:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029252323575312628"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Cutspo",
+              "probability": 0.4876,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RottenmindsetX…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/RottenmindsetX/status/2028548031126098045",
+              "start": 7,
+              "url": "https://t.co/nGlMrTHbD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029252323575312628",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 88444,
+          "like_count": 5710,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028548031126098045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cutspo https://t.co/nGlMrTHbD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8848,
+          "following_count": 225,
+          "like_count": 6981,
+          "listed_count": 15,
+          "media_count": 900,
+          "tweet_count": 11504
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T14:37:07.000Z",
+        "description": "HW: 89kg | CW: 49kg | GW: 42kg | UGW: 36kg | i block freely | 2011 🦴 | SHEDTWT | TW⚠️ UNBLURRED SH. | Don't report just block. | 🇩🇪🇬🇧🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "palegore.straw.page",
+                "end": 23,
+                "expanded_url": "http://palegore.straw.page",
+                "start": 0,
+                "url": "https://t.co/1AUZPwDBNe"
+              }
+            ]
+          }
+        },
+        "id": "1962887473220001793",
+        "location": "🇷🇴 / yumeship / gooner",
+        "name": "Sergeant Kyle 'Gaz' Garrick of 🪒🥗twt",
+        "pinned_tweet_id": "2007652387876680089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027028493855305728/NXPRXsdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 667,
+          "like_count": 15891,
+          "listed_count": 19,
+          "media_count": 485,
+          "tweet_count": 5711
+        },
+        "url": "https://t.co/1AUZPwDBNe",
+        "username": "palegor3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1796865522866499691",
+    "created_at": "2024-06-01T11:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T12:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796865522866499691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796865522866499691",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我真的好怕氣喘，就像今天那樣，就像現在\n就像今天，因為我媽明天要去旅行，所以我今晚嚴重氣喘，也不能叫他，他就沒力氣去旅行了，但我又不想去醫院，因為到醫院了睡一覺就好了\n我又不知道哪些人能在我這個狀態下講話，感覺會給壓力你們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1796865522866499691",
+        "created_at": "2024-06-01T11:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796865522866499691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796865522866499691",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我真的好怕氣喘，就像今天那樣，就像現在\n就像今天，因為我媽明天要去旅行，所以我今晚嚴重氣喘，也不能叫他，他就沒力氣去旅行了，但我又不想去醫院，因為到醫院了睡一覺就好了\n我又不知道哪些人能在我這個狀態下講話，感覺會給壓力你們"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 221,
+          "like_count": 6312,
+          "listed_count": 15,
+          "tweet_count": 8863
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

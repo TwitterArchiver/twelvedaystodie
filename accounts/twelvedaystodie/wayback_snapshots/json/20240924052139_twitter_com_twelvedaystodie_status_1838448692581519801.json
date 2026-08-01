@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1837871561107558891",
+    "created_at": "2024-09-24T05:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T06:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838448692581519801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712268680980221952",
+          "start": 0,
+          "username": "AidenIntoDeep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838448692581519801",
+    "in_reply_to_user_id": "1712268680980221952",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837871561107558891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AidenIntoDeep 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1837871561107558891",
+        "created_at": "2024-09-24T05:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T06:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838448692581519801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712268680980221952",
+              "start": 0,
+              "username": "AidenIntoDeep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838448692581519801",
+        "in_reply_to_user_id": "1712268680980221952",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837871561107558891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AidenIntoDeep 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837871557777281026"
+          ]
+        },
+        "author_id": "1712268680980221952",
+        "conversation_id": "1837871561107558891",
+        "created_at": "2024-09-22T15:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837871561107558891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nobh7vk3os",
+              "end": 50,
+              "expanded_url": "https://twitter.com/AidenIntoDeep/status/1837871561107558891/photo/1",
+              "media_key": "3_1837871557777281026",
+              "start": 27,
+              "url": "https://t.co/nObh7vK3OS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837871561107558891",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 409107,
+          "like_count": 1235,
+          "quote_count": 14,
+          "reply_count": 625,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "如果明天我没有删掉这个推文，就说明我已经走了，晚安！ https://t.co/nObh7vK3OS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7600,
+          "following_count": 232,
+          "like_count": 6644,
+          "listed_count": 15,
+          "tweet_count": 9805
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T00:49:55.000Z",
+        "description": "下辈子想做小可爱",
+        "id": "1712268680980221952",
+        "name": "TLL 1122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826183920720973824/-gLBG-w2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 64,
+          "like_count": 696,
+          "listed_count": 1,
+          "tweet_count": 32
+        },
+        "username": "AidenIntoDeep",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1795858872449527882",
+    "created_at": "2024-05-29T16:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T17:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795858872449527882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607922536133656577",
+          "start": 3,
+          "username": "Ririca520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795858872449527882",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795637388301263083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririca520: 共情能力太强是一种比恋爱脑还严重的绝症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1795858872449527882",
+        "created_at": "2024-05-29T16:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T17:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795858872449527882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607922536133656577",
+              "start": 3,
+              "username": "Ririca520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795858872449527882",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795637388301263083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririca520: 共情能力太强是一种比恋爱脑还严重的绝症"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1795637388301263083",
+        "created_at": "2024-05-29T02:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T03:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795637388301263083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795637388301263083",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13181,
+          "like_count": 289,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "共情能力太强是一种比恋爱脑还严重的绝症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7529,
+          "following_count": 224,
+          "like_count": 6286,
+          "listed_count": 15,
+          "tweet_count": 8808
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "傲娇且毒舌｜海外在住｜喜欢古典钢琴｜偶尔参加演奏会或比赛｜没有门 不接推广 谢谢你们｜🎹@Mizukileau🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "name": "测不准的姌大小姐想让我告白",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787485678701252608/TwN0letI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5027,
+          "following_count": 528,
+          "like_count": 57065,
+          "listed_count": 16,
+          "tweet_count": 4492
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

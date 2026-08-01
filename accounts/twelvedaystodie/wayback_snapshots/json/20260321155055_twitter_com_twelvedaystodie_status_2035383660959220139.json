@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2035383660959220139",
+    "created_at": "2026-03-21T15:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035383660959220139"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035383660959220139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們懂我一邊打遊戲時，一邊不舒服，一邊手很熟練地吞藥的感覺嗎\n這就像男人打遊戲時，一邊打一邊抽煙一樣\n好難形容，我覺得好可憐，我連打遊戲放鬆，也放鬆不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2035383660959220139",
+        "created_at": "2026-03-21T15:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035383660959220139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035383660959220139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們懂我一邊打遊戲時，一邊不舒服，一邊手很熟練地吞藥的感覺嗎\n這就像男人打遊戲時，一邊打一邊抽煙一樣\n好難形容，我覺得好可憐，我連打遊戲放鬆，也放鬆不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8805,
+          "following_count": 225,
+          "like_count": 7001,
+          "listed_count": 15,
+          "media_count": 903,
+          "tweet_count": 11562
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

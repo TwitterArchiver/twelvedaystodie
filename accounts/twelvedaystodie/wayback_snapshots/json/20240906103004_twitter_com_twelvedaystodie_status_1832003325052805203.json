@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1831956976819155100",
+    "created_at": "2024-09-06T10:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T11:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832003325052805203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1575728033742192641",
+          "start": 0,
+          "username": "kokocat_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832003325052805203",
+    "in_reply_to_user_id": "1575728033742192641",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831956976819155100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokocat_9 寶寶等你回來😭😭😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1831956976819155100].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1831956976819155100",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1831956976819155100"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1831956976819155100",
+        "created_at": "2024-09-06T10:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T11:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832003325052805203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1575728033742192641",
+              "start": 0,
+              "username": "kokocat_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832003325052805203",
+        "in_reply_to_user_id": "1575728033742192641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831956976819155100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokocat_9 寶寶等你回來😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 229,
+          "like_count": 6631,
+          "listed_count": 14,
+          "tweet_count": 9737
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T06:03:42.000Z",
+        "description": "可以叫我99 花枝鼠激推🐭i have 5 pet rats ⚠️❗ sh🔪/od💊/ed/发疯/血bloody🩸防炸机@KBDYD555 ｜接推广｜互fo可私信 (pls dm for fb) ❗Do Not Report❗｜🚪99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1575728033742192641",
+        "location": "聊无关话题先给钱",
+        "name": "不安定貓貓（住院版）",
+        "pinned_tweet_id": "1792563252058263975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806116619065946113/vgyL40uI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15130,
+          "following_count": 391,
+          "like_count": 12369,
+          "listed_count": 10,
+          "tweet_count": 6625
+        },
+        "username": "kokocat_9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1805514904327405761",
+    "created_at": "2024-06-25T08:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T09:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805514904327405761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732732999903358976",
+          "start": 3,
+          "username": "R4INC4NDYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805514904327405761",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805452915844292892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4INC4NDYU: i love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1805514904327405761",
+        "created_at": "2024-06-25T08:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T09:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805514904327405761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732732999903358976",
+              "start": 3,
+              "username": "R4INC4NDYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805514904327405761",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805452915844292892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4INC4NDYU: i love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1732732999903358976",
+        "conversation_id": "1805452915844292892",
+        "created_at": "2024-06-25T04:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805452915844292892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805452915844292892",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2654,
+          "like_count": 289,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "i love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you\ni love you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7532,
+          "following_count": 232,
+          "like_count": 6499,
+          "listed_count": 15,
+          "tweet_count": 9269
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T12:05:31.000Z",
+        "description": "feel like dying except when i'm with my favorite / aren't you at fault for sniffing me? ꒰ᐢ. .ᐢ꒱ ⑅ᐢ..ᐢ₎ ♡.°₊ˎˊ˗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "curiouscat.live/R4INC4NDYU",
+                "end": 23,
+                "expanded_url": "https://curiouscat.live/R4INC4NDYU",
+                "start": 0,
+                "url": "https://t.co/5dRLBlQVZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732732999903358976",
+        "name": "˚‧⁺༝꒰ა ໒꒱ིྀ༝⁺‧˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776600940507783168/TM4oHaCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10463,
+          "following_count": 82,
+          "like_count": 2539,
+          "listed_count": 14,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/5dRLBlQVZ3",
+        "username": "R4INC4NDYU",
+        "verified": false
+      }
+    ]
+  }
+}

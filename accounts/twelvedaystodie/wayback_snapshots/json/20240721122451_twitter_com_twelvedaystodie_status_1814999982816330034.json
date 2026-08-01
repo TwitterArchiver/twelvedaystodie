@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1809458394052653238",
+    "created_at": "2024-07-21T12:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T13:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814999982816330034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510896263650185217",
+          "start": 0,
+          "username": "xiaozhurou2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814999982816330034",
+    "in_reply_to_user_id": "1510896263650185217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814949345076412545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhurou2 我就算多懶也能叫外賣。。而且我餓就會生氣吃才能解，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1809458394052653238",
+        "created_at": "2024-07-21T12:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T13:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814999982816330034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510896263650185217",
+              "start": 0,
+              "username": "xiaozhurou2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814999982816330034",
+        "in_reply_to_user_id": "1510896263650185217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814949345076412545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhurou2 我就算多懶也能叫外賣。。而且我餓就會生氣吃才能解，唉"
+      },
+      {
+        "attachments": {},
+        "author_id": "1510896263650185217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1809458394052653238",
+        "created_at": "2024-07-21T09:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T10:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814949345076412545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814949345076412545",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814935600811675746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我也想吃美食，有時候也會買個零食\n，我想存點小錢和變漂亮以及健康，最主要是我懶，就只能去家裡附近吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7575,
+          "following_count": 230,
+          "like_count": 6586,
+          "listed_count": 15,
+          "tweet_count": 9447
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T08:25:31.000Z",
+        "description": "I get nervous easily .\nEspecially in an unfamiliar environment\nI'll try harder to change.\n\n我很容易緊張。\n尤其是在陌生的環境中。\n我會更加努力改變。",
+        "id": "1510896263650185217",
+        "name": "Wandering in sleepwalking",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809954420110864384/cAKC9eot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 73,
+          "like_count": 259,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "xiaozhurou2",
+        "verified": false
+      }
+    ]
+  }
+}

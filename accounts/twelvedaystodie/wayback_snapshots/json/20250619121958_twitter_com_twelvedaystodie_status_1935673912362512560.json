@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1935673912362512560",
+    "created_at": "2025-06-19T12:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935673912362512560"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "避雷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1923359888937500672",
+          "start": 3,
+          "username": "akiraoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935673912362512560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935573492185092174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akiraoxo: #避雷\n不想發這麼戾氣的東西，惟我精神狀態確實受到影響\n\n在我三隻帳號輪流騷擾（都沒有回覆他的狀況）\n一年前就跟他吵過架，他另外開一隻過來找我拍，一開始不疑有他，跟他一起裝死說好像有看過彼此。後來他果然是記仇\n\n而且我次也沒放鳥他，有還他錢沒浪費時間…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_1935573374794629120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyJurFWgAAubRV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_1935573374761127936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyJuq9XUAAEuDr.jpg",
+        "width": 1170
+      },
+      {
+        "height": 702,
+        "media_key": "3_1935573374735888384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyJuq3WMAAFukR.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 26605,
+        "height": 1280,
+        "media_key": "13_1935573374622896128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935573374622896128/img/h06_CO3GF13nqg6D.jpg",
+        "public_metrics": {
+          "view_count": 238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935573374622896128/vid/avc1/320x690/3xWlWDq0Aaa5pNOR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935573374622896128/vid/avc1/480x1036/jl7ujP7HJ168tZFs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935573374622896128/vid/avc1/592x1280/VBJiCBS6XwnGxn6a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935573374622896128/pl/cLxcXQTU3fKuGRcx.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1935673912362512560",
+        "created_at": "2025-06-19T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935673912362512560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "避雷"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1923359888937500672",
+              "start": 3,
+              "username": "akiraoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935673912362512560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935573492185092174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akiraoxo: #避雷\n不想發這麼戾氣的東西，惟我精神狀態確實受到影響\n\n在我三隻帳號輪流騷擾（都沒有回覆他的狀況）\n一年前就跟他吵過架，他另外開一隻過來找我拍，一開始不疑有他，跟他一起裝死說好像有看過彼此。後來他果然是記仇\n\n而且我次也沒放鳥他，有還他錢沒浪費時間…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935573374794629120",
+            "3_1935573374761127936",
+            "3_1935573374735888384",
+            "13_1935573374622896128"
+          ]
+        },
+        "author_id": "1923359888937500672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935573492185092174",
+        "created_at": "2025-06-19T05:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935573492185092174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "避雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mkXEPo2y5",
+              "end": 164,
+              "expanded_url": "https://x.com/akiraoxo/status/1935573492185092174/video/1",
+              "media_key": "3_1935573374794629120",
+              "start": 141,
+              "url": "https://t.co/2mkXEPo2y5"
+            },
+            {
+              "display_url": "pic.x.com/2mkXEPo2y5",
+              "end": 164,
+              "expanded_url": "https://x.com/akiraoxo/status/1935573492185092174/video/1",
+              "media_key": "3_1935573374761127936",
+              "start": 141,
+              "url": "https://t.co/2mkXEPo2y5"
+            },
+            {
+              "display_url": "pic.x.com/2mkXEPo2y5",
+              "end": 164,
+              "expanded_url": "https://x.com/akiraoxo/status/1935573492185092174/video/1",
+              "media_key": "3_1935573374735888384",
+              "start": 141,
+              "url": "https://t.co/2mkXEPo2y5"
+            },
+            {
+              "display_url": "pic.x.com/2mkXEPo2y5",
+              "end": 164,
+              "expanded_url": "https://x.com/akiraoxo/status/1935573492185092174/video/1",
+              "media_key": "13_1935573374622896128",
+              "start": 141,
+              "url": "https://t.co/2mkXEPo2y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935573492185092174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#避雷\n不想發這麼戾氣的東西，惟我精神狀態確實受到影響\n\n在我三隻帳號輪流騷擾（都沒有回覆他的狀況）\n一年前就跟他吵過架，他另外開一隻過來找我拍，一開始不疑有他，跟他一起裝死說好像有看過彼此。後來他果然是記仇\n\n而且我次也沒放鳥他，有還他錢沒浪費時間這次有約好一次，但他先推掉的🥹 https://t.co/2mkXEPo2y5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8269,
+          "following_count": 236,
+          "like_count": 7110,
+          "listed_count": 15,
+          "media_count": 823,
+          "tweet_count": 10744
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T12:48:35.000Z",
+        "description": "Taipei only | 掉落瑟瑟圖片18 ↓ 禁止｜可付費拍攝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/2004mnnn?utm_s…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/2004mnnn?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/fkOyfLMtZy"
+              }
+            ]
+          }
+        },
+        "id": "1923359888937500672",
+        "location": "銀河系",
+        "name": "ｱｷﾗ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931646650826825728/FaoQ9eEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 67,
+          "like_count": 189,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/fkOyfLMtZy",
+        "username": "akiraoxo",
+        "verified": false
+      }
+    ]
+  }
+}

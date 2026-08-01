@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1795784626075840854",
+    "created_at": "2024-05-29T11:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T12:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795785434829934939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488047732975570944",
+          "start": 0,
+          "username": "Dusk73256265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795785434829934939",
+    "in_reply_to_user_id": "1488047732975570944",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795785212330483842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dusk73256265 好好休息😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1795784626075840854",
+        "created_at": "2024-05-29T11:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T12:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795785434829934939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488047732975570944",
+              "start": 0,
+              "username": "Dusk73256265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795785434829934939",
+        "in_reply_to_user_id": "1488047732975570944",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795785212330483842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dusk73256265 好好休息😿"
+      },
+      {
+        "attachments": {},
+        "author_id": "1488047732975570944",
+        "conversation_id": "1795784626075840854",
+        "created_at": "2024-05-29T11:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795785212330483842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795785212330483842",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795784809039757598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 寶寶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7515,
+          "following_count": 224,
+          "like_count": 6275,
+          "listed_count": 15,
+          "tweet_count": 8784
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T07:13:46.000Z",
+        "description": "無人在意的一生",
+        "id": "1488047732975570944",
+        "name": "咿蕾♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573507678051397633/27_Py0ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 373,
+          "like_count": 12411,
+          "listed_count": 6,
+          "tweet_count": 5076
+        },
+        "username": "Dusk73256265",
+        "verified": false
+      }
+    ]
+  }
+}

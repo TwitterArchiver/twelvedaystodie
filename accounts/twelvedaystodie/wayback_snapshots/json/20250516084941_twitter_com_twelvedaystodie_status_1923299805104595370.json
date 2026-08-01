@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1923242093192884736",
+    "created_at": "2025-05-16T08:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T09:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923299805104595370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "492443196",
+          "start": 0,
+          "username": "yozora_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923299805104595370",
+    "in_reply_to_user_id": "492443196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923295869534662848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yozora_dev 好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1923242093192884736",
+        "created_at": "2025-05-16T08:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T09:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923299805104595370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "492443196",
+              "start": 0,
+              "username": "yozora_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923299805104595370",
+        "in_reply_to_user_id": "492443196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923295869534662848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozora_dev 好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "492443196",
+        "conversation_id": "1923242093192884736",
+        "created_at": "2025-05-16T08:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T09:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923295869534662848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923295869534662848",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923242093192884736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我睡到3点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 237,
+          "like_count": 7067,
+          "listed_count": 15,
+          "media_count": 809,
+          "tweet_count": 10620
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-14T18:38:05.000Z",
+        "description": "程序员 | Game Dev | Unity/UE, node.js full stack, web3\n某科技公司CEO+CTO",
+        "id": "492443196",
+        "location": "Hong Kong",
+        "name": "yozora 推文自娱自乐，等2年后来打自己脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814602746840162311/_gmNT31V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 360,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 732
+        },
+        "username": "yozora_dev",
+        "verified": true
+      }
+    ]
+  }
+}

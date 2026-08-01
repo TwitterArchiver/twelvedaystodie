@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1790330078708269306",
+    "created_at": "2024-05-14T11:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T12:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790341120389750785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1715624766571429888",
+          "start": 0,
+          "username": "nakuoiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790341120389750785",
+    "in_reply_to_user_id": "1715624766571429888",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790330078708269306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakuoiii 雖然我很一般但我絕對不會是想陷害你那個😿😿😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1790330078708269306",
+        "created_at": "2024-05-14T11:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T12:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790341120389750785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuoiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790341120389750785",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790330078708269306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuoiii 雖然我很一般但我絕對不會是想陷害你那個😿😿😿😿"
+      },
+      {
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1790330078708269306",
+        "created_at": "2024-05-14T10:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790330078708269306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790330078708269306",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨晚夢到幾個推友謀起來陷害我\n然後有一個推友不忍心看到我這樣\n就救了我\n看來我有被害妄想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7468,
+          "following_count": 226,
+          "like_count": 6165,
+          "listed_count": 15,
+          "tweet_count": 8544
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "mdp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nakuoiii?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nakuoiii?igsh=MWdsN3lqeDJvZmE3YQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/DmeXPOmBmC"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪200",
+        "name": "水母骨",
+        "pinned_tweet_id": "1786691750305972262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789994687576825856/GZhiJyE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 35,
+          "like_count": 22936,
+          "listed_count": 23,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/DmeXPOmBmC",
+        "username": "nakuoiii",
+        "verified": false
+      }
+    ]
+  }
+}

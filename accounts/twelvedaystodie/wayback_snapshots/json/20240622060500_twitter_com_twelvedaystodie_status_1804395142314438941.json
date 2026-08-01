@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1804395142314438941",
+    "created_at": "2024-06-22T06:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T07:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804395142314438941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774759734773690368",
+          "start": 3,
+          "username": "tang2780iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804395142314438941",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804135513739399175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tang2780iz: 我呢世最憎嘅就係窮\n然後你同我講話宜家d野食唔健康 當年根本冇錢食呢d 種乜食乜 所以窮都有好處？\n你邏輯錯晒wo 當年冇錢食唔到杯面 宜家係冇錢先食杯面 \n你細個屋企種菜所以勉強話健康\n但宜家我鬼有田\n窮只會營養不良 望周知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1804395142314438941",
+        "created_at": "2024-06-22T06:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T07:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804395142314438941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774759734773690368",
+              "start": 3,
+              "username": "tang2780iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804395142314438941",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804135513739399175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tang2780iz: 我呢世最憎嘅就係窮\n然後你同我講話宜家d野食唔健康 當年根本冇錢食呢d 種乜食乜 所以窮都有好處？\n你邏輯錯晒wo 當年冇錢食唔到杯面 宜家係冇錢先食杯面 \n你細個屋企種菜所以勉強話健康\n但宜家我鬼有田\n窮只會營養不良 望周知"
+      },
+      {
+        "attachments": {},
+        "author_id": "1774759734773690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1804135513739399175",
+        "created_at": "2024-06-21T12:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T13:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804135513739399175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804135513739399175",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我呢世最憎嘅就係窮\n然後你同我講話宜家d野食唔健康 當年根本冇錢食呢d 種乜食乜 所以窮都有好處？\n你邏輯錯晒wo 當年冇錢食唔到杯面 宜家係冇錢先食杯面 \n你細個屋企種菜所以勉強話健康\n但宜家我鬼有田\n窮只會營養不良 望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7550,
+          "following_count": 232,
+          "like_count": 6528,
+          "listed_count": 15,
+          "tweet_count": 9236
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T11:24:49.000Z",
+        "description": "只是來發癲的",
+        "id": "1774759734773690368",
+        "location": "冥界",
+        "name": "膛",
+        "pinned_tweet_id": "1774765546535571821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774760031776559104/tFgInI7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 82,
+          "like_count": 3030,
+          "listed_count": 0,
+          "tweet_count": 941
+        },
+        "username": "tang2780iz",
+        "verified": false
+      }
+    ]
+  }
+}

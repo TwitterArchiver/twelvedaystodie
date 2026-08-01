@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1798755794172924339",
+    "created_at": "2024-06-06T16:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T17:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798755794172924339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770761303772082177",
+          "start": 3,
+          "username": "shus__shoes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798755794172924339",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798572333260767640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shus__shoes: I NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1798755794172924339",
+        "created_at": "2024-06-06T16:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T17:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798755794172924339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770761303772082177",
+              "start": 3,
+              "username": "shus__shoes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798755794172924339",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798572333260767640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shus__shoes: I NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770761303772082177",
+        "conversation_id": "1798572333260767640",
+        "created_at": "2024-06-06T04:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T05:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798572333260767640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798572333260767640",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3130,
+          "like_count": 382,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "I NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myself\n*cuts*\nI NEED to kill myse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7538,
+          "following_count": 224,
+          "like_count": 6350,
+          "listed_count": 15,
+          "tweet_count": 9000
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T10:36:20.000Z",
+        "description": "#Shtwt ┋ 🇵🇭 ┋ 14 ┋ No uncensored pics ┋ HB to remove follow ┋#hsrshtwt #bsdshtwt #onstwt┋@mikaslitx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "Shtwt"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "hsrshtwt"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "bsdshtwt"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "tag": "onstwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "mikaslitx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuzshoes.straw.page",
+                "end": 23,
+                "expanded_url": "https://shuzshoes.straw.page",
+                "start": 0,
+                "url": "https://t.co/0G2yHadm8a"
+              }
+            ]
+          }
+        },
+        "id": "1770761303772082177",
+        "location": "Daigo 😢😢😭😭😭",
+        "name": "🩷 Mi/Mika 🩷",
+        "pinned_tweet_id": "1798313284153856081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797744771605405696/LxqsuxSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 177,
+          "like_count": 8763,
+          "listed_count": 3,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/0G2yHadm8a",
+        "username": "shus__shoes",
+        "verified": false
+      }
+    ]
+  }
+}

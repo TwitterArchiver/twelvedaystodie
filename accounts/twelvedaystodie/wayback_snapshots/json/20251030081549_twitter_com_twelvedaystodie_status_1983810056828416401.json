@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1983810056828416401",
+    "created_at": "2025-10-30T08:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983810056828416401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983810056828416401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我第一次見姑姐那麼生氣，也許在我眼中她平常就是普通的模樣\n但她為了我的確付出很多\n包括幫我找適合的心理學家和精神科醫生等\n也願意幫我解決家裡的問題\n我媽被罵了一頓，我爸也是，但原來最大問題還是我媽\n她問我想不想她搬走，我說就算是個離婚家庭我也想維持現狀，缺少任何一個也會焦慮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1983810056828416401",
+        "created_at": "2025-10-30T08:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983810056828416401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983810056828416401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次見姑姐那麼生氣，也許在我眼中她平常就是普通的模樣\n但她為了我的確付出很多\n包括幫我找適合的心理學家和精神科醫生等\n也願意幫我解決家裡的問題\n我媽被罵了一頓，我爸也是，但原來最大問題還是我媽\n她問我想不想她搬走，我說就算是個離婚家庭我也想維持現狀，缺少任何一個也會焦慮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 224,
+          "like_count": 7115,
+          "listed_count": 15,
+          "media_count": 867,
+          "tweet_count": 11188
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

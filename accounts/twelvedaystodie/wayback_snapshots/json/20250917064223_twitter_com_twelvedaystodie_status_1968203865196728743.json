@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1968184237061968169",
+    "created_at": "2025-09-17T06:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968203865196728743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968203865196728743",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968184237061968169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 抱抱，我也是，沒事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1968184237061968169",
+        "created_at": "2025-09-17T06:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968203865196728743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968203865196728743",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968184237061968169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 抱抱，我也是，沒事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435889042155995136",
+        "conversation_id": "1968184237061968169",
+        "created_at": "2025-09-17T05:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968184237061968169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968184237061968169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭，24 了一事无成，我怎么这么老了，我还停留在17岁，年龄焦虑工作焦虑生存焦虑恋情焦虑 ​​​我活不下去了，只有死了别人才会说好可惜这么年轻，我认识的所有人都比我年龄小，好朋友们身份证都比真实年龄小一岁，导致我比她们都大很多，我无法接受我24了，我承担不了作为大人的责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 226,
+          "like_count": 7158,
+          "listed_count": 15,
+          "media_count": 855,
+          "tweet_count": 11113
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n＃shtwt\n\n我的女友@nagaseruna7777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "nagaseruna7777"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 270,
+          "like_count": 44513,
+          "listed_count": 8,
+          "media_count": 934,
+          "tweet_count": 11975
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

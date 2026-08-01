@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Mental Health",
+          "id": "918217950783455232",
+          "name": "Mental health"
+        }
+      }
+    ],
+    "conversation_id": "2069720468001894702",
+    "created_at": "2026-06-24T09:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069720468001894702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835481513028419584",
+          "start": 3,
+          "username": "thxn2xt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069720468001894702",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069640755392680189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @thxn2xt_: 정신건강한 갓반인들 자꾸 정신병자한테 현실을 직시하라 그러는데 현실을 너무 직시해서 정신병에 걸려버렸다는 걸 모르는 듯\n\n실제로 우울 현실주의(Depressive Realism) 라고 해서 우울증인 뇌가 특정 상황에서는 자기…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mental Health",
+              "id": "918217950783455232",
+              "name": "Mental health"
+            }
+          }
+        ],
+        "conversation_id": "2069720468001894702",
+        "created_at": "2026-06-24T09:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069720468001894702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835481513028419584",
+              "start": 3,
+              "username": "thxn2xt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069720468001894702",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069640755392680189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @thxn2xt_: 정신건강한 갓반인들 자꾸 정신병자한테 현실을 직시하라 그러는데 현실을 너무 직시해서 정신병에 걸려버렸다는 걸 모르는 듯\n\n실제로 우울 현실주의(Depressive Realism) 라고 해서 우울증인 뇌가 특정 상황에서는 자기…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835481513028419584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mental Health",
+              "id": "918217950783455232",
+              "name": "Mental health"
+            }
+          }
+        ],
+        "conversation_id": "2069640755392680189",
+        "created_at": "2026-06-24T04:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069640755392680189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069640755392680189",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 87655,
+          "like_count": 2682,
+          "quote_count": 160,
+          "reply_count": 1,
+          "retweet_count": 1065
+        },
+        "reply_settings": "following",
+        "text": "정신건강한 갓반인들 자꾸 정신병자한테 현실을 직시하라 그러는데 현실을 너무 직시해서 정신병에 걸려버렸다는 걸 모르는 듯\n\n실제로 우울 현실주의(Depressive Realism) 라고 해서 우울증인 뇌가 특정 상황에서는 자기 통제력을 과대평가하지 않고 더 정확하게 판단하는 경향이 있다는 개념이 있음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8709,
+          "following_count": 217,
+          "like_count": 7000,
+          "listed_count": 13,
+          "media_count": 922,
+          "tweet_count": 11708
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T00:51:16.000Z",
+        "description": "자랑처럼 풀이 무성할 거외다",
+        "id": "1835481513028419584",
+        "name": "쎕쩨",
+        "pinned_tweet_id": "2061277816956899626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017109944055844866/TgIv0im6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 754,
+          "like_count": 10673,
+          "listed_count": 15,
+          "media_count": 770,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "thxn2xt_",
+        "verified": false
+      }
+    ]
+  }
+}

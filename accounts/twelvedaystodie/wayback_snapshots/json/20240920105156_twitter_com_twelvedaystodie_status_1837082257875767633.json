@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1837082257875767633",
+    "created_at": "2024-09-20T10:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T11:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837082257875767633"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837082257875767633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喔，忘了不能一起死\n不然你們不會看到我遺書還有各個帳號裡的內容\n說真吧，這不是中二\n而是從小到大我都感受不了家庭我溫暖\n而現在你們想我付出點什麼？\n就因為我是個成年人？\n我現在良心和責備互相矛盾\n一方面很想罵你們，一方面都認為都是我的錯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1837082257875767633",
+        "created_at": "2024-09-20T10:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837082257875767633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837082257875767633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔，忘了不能一起死\n不然你們不會看到我遺書還有各個帳號裡的內容\n說真吧，這不是中二\n而是從小到大我都感受不了家庭我溫暖\n而現在你們想我付出點什麼？\n就因為我是個成年人？\n我現在良心和責備互相矛盾\n一方面很想罵你們，一方面都認為都是我的錯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7590,
+          "following_count": 229,
+          "like_count": 6644,
+          "listed_count": 16,
+          "tweet_count": 9792
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1788066640644755656",
+    "created_at": "2024-05-08T04:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T05:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788066640644755656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532754128236990465",
+          "start": 3,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788066640644755656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787879151556596175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Remipills: ［二次传播］大家能不能关心一下这个被家暴的可怜小女孩。\n一年多了，男方到现在都没有被惩罚。\n她被打后，内脏功能一个个越来越差。需要每天不停地跑医院。只能吃流食，终生挂fen袋生活。\n女方治疗的💰一直都是自己家里，男方没有给💰。女方父母只能到处借💰，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1788066640644755656].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1788066640644755656",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1788066640644755656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1787879148201050113",
+            "3_1787879148482170880",
+            "3_1787879148691898368",
+            "3_1787879148943458304"
+          ]
+        },
+        "author_id": "1532754128236990465",
+        "conversation_id": "1787879151556596175",
+        "created_at": "2024-05-07T16:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T17:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787879151556596175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/e7HQytdbxi",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Remipills/status/1787879151556596175/photo/1",
+              "media_key": "3_1787879148201050113",
+              "start": 137,
+              "url": "https://t.co/e7HQytdbxi"
+            },
+            {
+              "display_url": "pic.twitter.com/e7HQytdbxi",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Remipills/status/1787879151556596175/photo/1",
+              "media_key": "3_1787879148482170880",
+              "start": 137,
+              "url": "https://t.co/e7HQytdbxi"
+            },
+            {
+              "display_url": "pic.twitter.com/e7HQytdbxi",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Remipills/status/1787879151556596175/photo/1",
+              "media_key": "3_1787879148691898368",
+              "start": 137,
+              "url": "https://t.co/e7HQytdbxi"
+            },
+            {
+              "display_url": "pic.twitter.com/e7HQytdbxi",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Remipills/status/1787879151556596175/photo/1",
+              "media_key": "3_1787879148943458304",
+              "start": 137,
+              "url": "https://t.co/e7HQytdbxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787879151556596175",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 797,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "［二次传播］大家能不能关心一下这个被家暴的可怜小女孩。\n一年多了，男方到现在都没有被惩罚。\n她被打后，内脏功能一个个越来越差。需要每天不停地跑医院。只能吃流食，终生挂fen袋生活。\n女方治疗的💰一直都是自己家里，男方没有给💰。女方父母只能到处借💰，到现在已经花了四十多万。 https://t.co/e7HQytdbxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7435,
+          "following_count": 224,
+          "like_count": 6101,
+          "listed_count": 15,
+          "tweet_count": 8414
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛/I am Remi丨shtwt丨⚠️gore  血腥圖像⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn5.tcity.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cn5.tcity.cc/#/register?code=Tr3p6YXz",
+                "start": 0,
+                "url": "https://t.co/qHSRqClvy9"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用vpn免费试用👇",
+        "name": "RM❄️",
+        "pinned_tweet_id": "1762316094453555522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269446482231296/Dif5VnoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5308,
+          "following_count": 154,
+          "like_count": 43082,
+          "listed_count": 18,
+          "tweet_count": 20002
+        },
+        "url": "https://t.co/qHSRqClvy9",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

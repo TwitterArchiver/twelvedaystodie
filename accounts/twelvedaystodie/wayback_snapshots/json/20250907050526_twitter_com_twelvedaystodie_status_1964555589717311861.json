@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1964555405977407823",
+    "created_at": "2025-09-07T05:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T06:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964555589717311861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964555589717311861",
+    "in_reply_to_user_id": "1471510301233545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964555405977407823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 你怎麼看寶寶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1964555405977407823",
+        "created_at": "2025-09-07T05:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964555589717311861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964555589717311861",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964555405977407823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 你怎麼看寶寶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1964555405977407823",
+        "created_at": "2025-09-07T05:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964555405977407823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964555405977407823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推薦我自行停藥一日嗎？明天就是見醫生了\n我知道不要隨便自行停藥，但我嚴重懷疑是新的藥有問題\n但裡面又有抗焦慮和抑鬱的藥……那些又可能對我病情控制好一點\n好矛盾，有誰告訴我怎麼做\n或者有什麼網上免費的精神科醫生問蔡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 226,
+          "like_count": 7166,
+          "listed_count": 15,
+          "media_count": 850,
+          "tweet_count": 11041
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "$htwt丨我是南烛 丨小粉红滚，社达滚丨\n🩸：@puppetnan 丨\n我不是黄推，我是gore+废话推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "puppetnan"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "我把大部分男的都清了，抱歉",
+        "name": "R❄️",
+        "pinned_tweet_id": "1794297679952142767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914966092822556672/IuHjR4Wf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4608,
+          "following_count": 167,
+          "like_count": 51407,
+          "listed_count": 16,
+          "media_count": 482,
+          "tweet_count": 22959
+        },
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

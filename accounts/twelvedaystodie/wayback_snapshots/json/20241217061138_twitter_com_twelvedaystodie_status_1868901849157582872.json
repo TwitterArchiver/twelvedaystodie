@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1868616053334679699",
+    "created_at": "2024-12-17T06:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T07:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868901849157582872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771629181169987584",
+          "start": 0,
+          "username": "tsukiii_dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868901849157582872",
+    "in_reply_to_user_id": "1771629181169987584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868616053334679699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiii_dead 啊？傷殘津貼是她保管？錢是妳的耶，如果不是妳，她會有錢拿？有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1868616053334679699",
+        "created_at": "2024-12-17T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868901849157582872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771629181169987584",
+              "start": 0,
+              "username": "tsukiii_dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868901849157582872",
+        "in_reply_to_user_id": "1771629181169987584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868616053334679699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiii_dead 啊？傷殘津貼是她保管？錢是妳的耶，如果不是妳，她會有錢拿？有病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771629181169987584",
+        "conversation_id": "1868616053334679699",
+        "created_at": "2024-12-16T11:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868616053334679699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868616053334679699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 890,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我問我女家長打算拿回我的傷殘津貼\n我好聲好氣地問然後他就開始發瘋了\n一回說我拿回的話誰交水電煤費\n另一回又說我不給生活費為什麼要給回我\n有病的是我欸⋯⋯\n為什麼我不能拿回我應得的⋯⋯\n那怕給回一半我也好呀\n要錢就去上班呀\n我真的不理解⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7862,
+          "following_count": 241,
+          "like_count": 6739,
+          "listed_count": 15,
+          "media_count": 759,
+          "tweet_count": 10142
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T20:04:54.000Z",
+        "description": "月/tsuki | ASD/鬱｜病み垢 | 會吃VAPE | 喜歡我就給我錢 | 女孩子互關互轉歡迎 |沒有回訊息=在讀書睡覺或忘記回| 裏垢: @tsuki_ii_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tsuki_ii_2"
+              }
+            ]
+          }
+        },
+        "id": "1771629181169987584",
+        "location": "真的想幫助我的話還不如直接給我錢幫補一下我",
+        "name": "月",
+        "pinned_tweet_id": "1821588934117466151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771629516483629056/2M0wSzkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 193,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 995
+        },
+        "username": "tsukiii_dead",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1863607293461635366",
+    "created_at": "2024-12-02T15:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863607293461635366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Liangbuxiangch…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Liangbuxiangchi/status/1863537013515026726",
+          "start": 55,
+          "url": "https://t.co/Jca0zYlgFI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863607293461635366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863537013515026726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最後一句。。。都是我的錯\n但我真的連出門跟朋友都會氣喘，我可以怎樣，氣喘到抽搐，我該怎麼辦，對但是我要怎麼辦 https://t.co/Jca0zYlgFI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1863607293461635366",
+        "created_at": "2024-12-02T15:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863607293461635366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liangbuxiangch…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Liangbuxiangchi/status/1863537013515026726",
+              "start": 55,
+              "url": "https://t.co/Jca0zYlgFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863607293461635366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863537013515026726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最後一句。。。都是我的錯\n但我真的連出門跟朋友都會氣喘，我可以怎樣，氣喘到抽搐，我該怎麼辦，對但是我要怎麼辦 https://t.co/Jca0zYlgFI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531971331902050304",
+        "conversation_id": "1863537013515026726",
+        "created_at": "2024-12-02T10:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T11:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863537013515026726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863537013515026726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 488,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不建议玉玉的朋友家中常备各种自杀道具，如果一定要备的话，建议放到自己离居住地较远的地方，防止情绪冲动自杀，至少有时间好好考虑一下。另外，玉玉的学生党如果是为家庭所困扰的话建议先至少努力先毕业/休学再说。要找份工作其实不难，还是有很多简单兼职招人的，长时间远离外界的话容易加重病情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7827,
+          "following_count": 236,
+          "like_count": 6708,
+          "listed_count": 15,
+          "media_count": 755,
+          "tweet_count": 10113
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "od妹   取关请双取 会回关主页有内容的人",
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1856621271758561353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 747,
+          "like_count": 23475,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 5600
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077618237806678016"
+      ],
+      "media_source_tweet_id": [
+        "2077618243808665976"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2078129770748141629",
+    "created_at": "2026-07-17T14:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078129770748141629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000325511059492865",
+          "start": 3,
+          "username": "M0rb1dA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7M66oW8Qj",
+          "end": 36,
+          "expanded_url": "https://x.com/M0rb1dA/status/2077618243808665976/photo/1",
+          "media_key": "3_2077618237806678016",
+          "start": 13,
+          "url": "https://t.co/O7M66oW8Qj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078129770748141629",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1673
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077618243808665976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M0rb1dA: https://t.co/O7M66oW8Qj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2077618237806678016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUux5NXEAAS1AA.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077618237806678016"
+          ]
+        },
+        "author_id": "2000325511059492865",
+        "conversation_id": "2077618243808665976",
+        "created_at": "2026-07-16T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077618243808665976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7M66oW8Qj",
+              "end": 23,
+              "expanded_url": "https://x.com/M0rb1dA/status/2077618243808665976/photo/1",
+              "media_key": "3_2077618237806678016",
+              "start": 0,
+              "url": "https://t.co/O7M66oW8Qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077618243808665976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 50368,
+          "like_count": 7762,
+          "quote_count": 18,
+          "reply_count": 9,
+          "retweet_count": 1673
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O7M66oW8Qj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077618237806678016"
+          ],
+          "media_source_tweet_id": [
+            "2077618243808665976"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2078129770748141629",
+        "created_at": "2026-07-17T14:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078129770748141629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000325511059492865",
+              "start": 3,
+              "username": "M0rb1dA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7M66oW8Qj",
+              "end": 36,
+              "expanded_url": "https://x.com/M0rb1dA/status/2077618243808665976/photo/1",
+              "media_key": "3_2077618237806678016",
+              "start": 13,
+              "url": "https://t.co/O7M66oW8Qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078129770748141629",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077618243808665976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M0rb1dA: https://t.co/O7M66oW8Qj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 214,
+          "like_count": 6978,
+          "listed_count": 13,
+          "media_count": 925,
+          "tweet_count": 11730
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T22:02:35.000Z",
+        "description": "*•`☆\\ edd/estrella\nlooking 4 mutis \nig: n1k0t1n4.20 \n      #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2000325511059492865",
+        "name": "@m0rb1d_a4k7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036684131263012864/29L2dqkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 55,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "M0rb1dA",
+        "verified": false
+      }
+    ]
+  }
+}

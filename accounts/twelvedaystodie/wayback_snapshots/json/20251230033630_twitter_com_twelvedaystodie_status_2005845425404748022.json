@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2005711026654961688",
+    "created_at": "2025-12-30T03:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T04:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005845425404748022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877284145157779458",
+          "start": 0,
+          "username": "xixixijingyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005845425404748022",
+    "in_reply_to_user_id": "1877284145157779458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005711026654961688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixixijingyu 奶茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2005711026654961688",
+        "created_at": "2025-12-30T03:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005845425404748022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877284145157779458",
+              "start": 0,
+              "username": "xixixijingyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005845425404748022",
+        "in_reply_to_user_id": "1877284145157779458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005711026654961688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixixijingyu 奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877284145157779458",
+        "conversation_id": "2005711026654961688",
+        "created_at": "2025-12-29T18:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005711026654961688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005711026654961688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告！今天是跟某人认识的第10天！评论区抽两个互关一杯奶茶！！！预计明天下午六点开奖～宝宝们想参与的可以评论u❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 222,
+          "like_count": 7034,
+          "listed_count": 15,
+          "media_count": 881,
+          "tweet_count": 11304
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T09:20:03.000Z",
+        "description": "昭昭如愿，岁岁安澜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jingxi23857",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jingxi23857",
+                "start": 0,
+                "url": "https://t.co/bfI0JHfUO5"
+              }
+            ]
+          }
+        },
+        "id": "1877284145157779458",
+        "location": "纸片人老公重度依赖ing🥰",
+        "name": "月见",
+        "pinned_tweet_id": "2004818372274651450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004221807654850561/Wc5DC3CB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 575,
+          "like_count": 13273,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/bfI0JHfUO5",
+        "username": "xixixijingyu",
+        "verified": false
+      }
+    ]
+  }
+}

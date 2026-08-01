@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988509215485472768"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1988509222250705161",
+    "created_at": "2025-11-12T07:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988509222250705161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRpnMmmIBN",
+          "end": 118,
+          "expanded_url": "https://x.com/twelvedaystodie/status/1988509222250705161/photo/1",
+          "media_key": "3_1988509215485472768",
+          "start": 95,
+          "url": "https://t.co/SRpnMmmIBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988509222250705161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸今早在我還沒睡醒就問我為什麼割手\n我什麼都回答不上來\n因為發生太多事，就是家庭的事，我不能不擔心，每天吵架，不然就是找我抱怨\n虛偽的善良\n我這些怎麼說出口\n所以我只回答了：嗯……不知道 https://t.co/SRpnMmmIBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988509215485472768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iamI2aMAAKokH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988509215485472768"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "1988509222250705161",
+        "created_at": "2025-11-12T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988509222250705161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRpnMmmIBN",
+              "end": 118,
+              "expanded_url": "https://x.com/twelvedaystodie/status/1988509222250705161/photo/1",
+              "media_key": "3_1988509215485472768",
+              "start": 95,
+              "url": "https://t.co/SRpnMmmIBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988509222250705161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸今早在我還沒睡醒就問我為什麼割手\n我什麼都回答不上來\n因為發生太多事，就是家庭的事，我不能不擔心，每天吵架，不然就是找我抱怨\n虛偽的善良\n我這些怎麼說出口\n所以我只回答了：嗯……不知道 https://t.co/SRpnMmmIBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 219,
+          "like_count": 7129,
+          "listed_count": 15,
+          "media_count": 871,
+          "tweet_count": 11221
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

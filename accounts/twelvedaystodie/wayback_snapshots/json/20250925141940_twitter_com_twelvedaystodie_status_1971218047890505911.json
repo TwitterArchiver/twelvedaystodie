@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1971081240683085907",
+    "created_at": "2025-09-25T14:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971218047890505911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971218047890505911",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971081240683085907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1971081231015215110",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qv77YaAAY8AZI.jpg",
+        "width": 1497
+      },
+      {
+        "height": 1311,
+        "media_key": "3_1971081231019458560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qv77ZawAAheAg.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1971081240683085907",
+        "created_at": "2025-09-25T14:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971218047890505911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971218047890505911",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971081240683085907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971081231015215110",
+            "3_1971081231019458560"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1971081240683085907",
+        "created_at": "2025-09-25T05:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971081240683085907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "blacksouls",
+              "probability": 0.6956,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZXZTicmJn",
+              "end": 34,
+              "expanded_url": "https://x.com/YUSU_01/status/1971081240683085907/photo/1",
+              "media_key": "3_1971081231015215110",
+              "start": 11,
+              "url": "https://t.co/uZXZTicmJn"
+            },
+            {
+              "display_url": "pic.x.com/uZXZTicmJn",
+              "end": 34,
+              "expanded_url": "https://x.com/YUSU_01/status/1971081240683085907/photo/1",
+              "media_key": "3_1971081231019458560",
+              "start": 11,
+              "url": "https://t.co/uZXZTicmJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971081240683085907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "blacksouls https://t.co/uZXZTicmJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8280,
+          "following_count": 223,
+          "like_count": 7162,
+          "listed_count": 15,
+          "media_count": 858,
+          "tweet_count": 11147
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1936082618610860113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722604660285444/Z7DIEJWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7095,
+          "following_count": 41,
+          "like_count": 10612,
+          "listed_count": 4,
+          "media_count": 1274,
+          "tweet_count": 15419
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1921211911208612027",
+    "created_at": "2025-05-11T09:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T10:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921503985027924271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1432171299523084296",
+          "start": 0,
+          "username": "MuD1XiHgfBWA3lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921503985027924271",
+    "in_reply_to_user_id": "1432171299523084296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921211911208612027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuD1XiHgfBWA3lv 我也是，我是生病醫生也不建議"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1921211911208612027",
+        "created_at": "2025-05-11T09:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921503985027924271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1432171299523084296",
+              "start": 0,
+              "username": "MuD1XiHgfBWA3lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921503985027924271",
+        "in_reply_to_user_id": "1432171299523084296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921211911208612027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuD1XiHgfBWA3lv 我也是，我是生病醫生也不建議"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432171299523084296",
+        "conversation_id": "1921211911208612027",
+        "created_at": "2025-05-10T14:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921211911208612027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921211911208612027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想找兼职，问了好几家店都不招人，一想到自己赚不到钱，每天待在家里花家人的钱就觉得自己好没用。。。再找不到工作我就连在家里呆下去的脸面都没有了😞自己真不争气，应该早一点就开始找的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8146,
+          "following_count": 237,
+          "like_count": 7018,
+          "listed_count": 15,
+          "media_count": 804,
+          "tweet_count": 10572
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T02:40:29.000Z",
+        "description": "🕊️🕊️🕊️",
+        "id": "1432171299523084296",
+        "name": "River Flows In You ·",
+        "pinned_tweet_id": "1777637872960450586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620420347458899972/JaRNyi2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5296,
+          "following_count": 712,
+          "like_count": 33824,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 4647
+        },
+        "username": "MuD1XiHgfBWA3lv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078843660221739008"
+      ],
+      "media_source_tweet_id": [
+        "2078843679960158628"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079133083878801609",
+    "created_at": "2026-07-20T09:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079133083878801609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071347844049457152",
+          "start": 3,
+          "username": "deettarded"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypwoV6hrvX",
+          "end": 48,
+          "expanded_url": "https://x.com/deettarded/status/2078843679960158628/video/1",
+          "media_key": "13_2078843660221739008",
+          "start": 25,
+          "url": "https://t.co/ypwoV6hrvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079133083878801609",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078843679960158628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @deettarded: (^3^)/～☆ https://t.co/ypwoV6hrvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12550,
+        "height": 730,
+        "media_key": "13_2078843660221739008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078843660221739008/img/auqnhbWjL-BpUfQf.jpg",
+        "public_metrics": {
+          "view_count": 18117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078843660221739008/vid/avc1/320x324/petNNMHbXOvL57_i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078843660221739008/vid/avc1/480x486/0rhfihoCxyraZ7Wp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078843660221739008/vid/avc1/720x730/h8PgRHZ0t_oQKDjR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078843660221739008/pl/C8CAYb2QYUgpoCtn.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078843660221739008"
+          ]
+        },
+        "author_id": "2071347844049457152",
+        "conversation_id": "2078843679960158628",
+        "created_at": "2026-07-19T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078843679960158628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypwoV6hrvX",
+              "end": 32,
+              "expanded_url": "https://x.com/deettarded/status/2078843679960158628/video/1",
+              "media_key": "13_2078843660221739008",
+              "start": 9,
+              "url": "https://t.co/ypwoV6hrvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078843679960158628",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 52076,
+          "like_count": 3298,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "(^3^)/～☆ https://t.co/ypwoV6hrvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078843660221739008"
+          ],
+          "media_source_tweet_id": [
+            "2078843679960158628"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079133083878801609",
+        "created_at": "2026-07-20T09:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079133083878801609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071347844049457152",
+              "start": 3,
+              "username": "deettarded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypwoV6hrvX",
+              "end": 48,
+              "expanded_url": "https://x.com/deettarded/status/2078843679960158628/video/1",
+              "media_key": "13_2078843660221739008",
+              "start": 25,
+              "url": "https://t.co/ypwoV6hrvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079133083878801609",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078843679960158628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @deettarded: (^3^)/～☆ https://t.co/ypwoV6hrvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8700,
+          "following_count": 214,
+          "like_count": 6987,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11745
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T21:43:53.000Z",
+        "description": "i wasnt here",
+        "id": "2071347844049457152",
+        "name": "˚.⋆꒰১ ໒꒱⋆.˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071352759798898688/pM4K9knc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 30,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "deettarded",
+        "verified": false
+      }
+    ]
+  }
+}

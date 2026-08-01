@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2004162789712318472"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2004162960785383511",
+    "created_at": "2025-12-25T12:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004162960785383511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JmD2Cq01rb",
+          "end": 41,
+          "expanded_url": "https://x.com/twelvedaystodie/status/2004162960785383511/video/1",
+          "media_key": "13_2004162789712318472",
+          "start": 18,
+          "url": "https://t.co/JmD2Cq01rb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004162960785383511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看這套戲真的每集都有想記錄的東西耶 https://t.co/JmD2Cq01rb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40611,
+        "height": 748,
+        "media_key": "13_2004162789712318472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004162789712318472/img/cLnHXFkgvqHwzOJs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004162789712318472/vid/avc1/530x270/_lZvXtSqvEX0RijT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004162789712318472/vid/avc1/708x360/HJ0a-g1GkU3H-Yfo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004162789712318472/vid/avc1/1416x720/uWXvjvROUCUhenWQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004162789712318472/pl/7cp-DsZEyKGIkT58.m3u8?tag=14"
+          }
+        ],
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004162789712318472"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2004162960785383511",
+        "created_at": "2025-12-25T12:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004162960785383511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmD2Cq01rb",
+              "end": 41,
+              "expanded_url": "https://x.com/twelvedaystodie/status/2004162960785383511/video/1",
+              "media_key": "13_2004162789712318472",
+              "start": 18,
+              "url": "https://t.co/JmD2Cq01rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004162960785383511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看這套戲真的每集都有想記錄的東西耶 https://t.co/JmD2Cq01rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8332,
+          "following_count": 221,
+          "like_count": 7036,
+          "listed_count": 15,
+          "media_count": 880,
+          "tweet_count": 11295
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

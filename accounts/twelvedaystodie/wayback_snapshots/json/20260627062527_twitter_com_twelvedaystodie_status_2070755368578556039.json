@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070468486212530176"
+      ],
+      "media_source_tweet_id": [
+        "2070468623655698478"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2070755368578556039",
+    "created_at": "2026-06-27T06:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070755368578556039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061397607839305728",
+          "start": 3,
+          "username": "naiyxx1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogkUgd2aZH",
+          "end": 78,
+          "expanded_url": "https://x.com/naiyxx1/status/2070468623655698478/video/1",
+          "media_key": "13_2070468486212530176",
+          "start": 55,
+          "url": "https://t.co/ogkUgd2aZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070755368578556039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070468623655698478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiyxx1: くれあ大勢の前で薬⭕️をしないことを約束してたのに平気で約束破っててやばいwwww https://t.co/ogkUgd2aZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32998,
+        "height": 1150,
+        "media_key": "13_2070468486212530176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070468486212530176/img/_XPYLs0OlAsB6q14.jpg",
+        "public_metrics": {
+          "view_count": 2623040
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070468486212530176/vid/avc1/320x510/Fh4jCd6UlJPngKpQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070468486212530176/vid/avc1/480x766/kXo9k2dx-S5sMlzj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070468486212530176/vid/avc1/720x1150/yPoSx2wa-Rqumx52.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070468486212530176/pl/fDiYAtqQgdmoHiX8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070468486212530176"
+          ],
+          "media_source_tweet_id": [
+            "2070468623655698478"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2070755368578556039",
+        "created_at": "2026-06-27T06:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070755368578556039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061397607839305728",
+              "start": 3,
+              "username": "naiyxx1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogkUgd2aZH",
+              "end": 78,
+              "expanded_url": "https://x.com/naiyxx1/status/2070468623655698478/video/1",
+              "media_key": "13_2070468486212530176",
+              "start": 55,
+              "url": "https://t.co/ogkUgd2aZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070755368578556039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070468623655698478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naiyxx1: くれあ大勢の前で薬⭕️をしないことを約束してたのに平気で約束破っててやばいwwww https://t.co/ogkUgd2aZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070468486212530176"
+          ]
+        },
+        "author_id": "2061397607839305728",
+        "conversation_id": "2070468623655698478",
+        "created_at": "2026-06-26T11:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070468623655698478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogkUgd2aZH",
+              "end": 65,
+              "expanded_url": "https://x.com/naiyxx1/status/2070468623655698478/video/1",
+              "media_key": "13_2070468486212530176",
+              "start": 42,
+              "url": "https://t.co/ogkUgd2aZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070468623655698478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7457,
+          "impression_count": 5909499,
+          "like_count": 26143,
+          "quote_count": 818,
+          "reply_count": 620,
+          "retweet_count": 924
+        },
+        "reply_settings": "everyone",
+        "text": "くれあ大勢の前で薬⭕️をしないことを約束してたのに平気で約束破っててやばいwwww https://t.co/ogkUgd2aZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 217,
+          "like_count": 7002,
+          "listed_count": 13,
+          "media_count": 922,
+          "tweet_count": 11714
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T10:42:59.000Z",
+        "description": "",
+        "id": "2061397607839305728",
+        "name": "覚醒なぎ",
+        "pinned_tweet_id": "2070468623655698478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070574660920459264/2PrcYopc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 14,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "naiyxx1",
+        "verified": false
+      }
+    ]
+  }
+}

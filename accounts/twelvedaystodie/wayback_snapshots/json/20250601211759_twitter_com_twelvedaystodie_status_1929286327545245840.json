@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1929275555054006473",
+    "created_at": "2025-06-01T21:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T22:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929286327545245840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1923359888937500672",
+          "start": 0,
+          "username": "akiraoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929286327545245840",
+    "in_reply_to_user_id": "1923359888937500672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929284933484462504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiraoxo 你怎麼還沒睡😭😭😭（我超辛苦好想睡覺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1929275555054006473",
+        "created_at": "2025-06-01T21:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T22:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929286327545245840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923359888937500672",
+              "start": 0,
+              "username": "akiraoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929286327545245840",
+        "in_reply_to_user_id": "1923359888937500672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929284933484462504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiraoxo 你怎麼還沒睡😭😭😭（我超辛苦好想睡覺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923359888937500672",
+        "conversation_id": "1929275555054006473",
+        "created_at": "2025-06-01T21:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T22:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929284933484462504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929284933484462504",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929275555054006473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8196,
+          "following_count": 236,
+          "like_count": 7086,
+          "listed_count": 15,
+          "media_count": 815,
+          "tweet_count": 10698
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T12:48:35.000Z",
+        "description": "台灣雙北only 歡迎約拍ᐢ⩌ ̫ ⩌ᐢ會掉落一些那種圖片",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/2004mnnn?utm_s…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/2004mnnn?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/fkOyfLMtZy"
+              }
+            ]
+          }
+        },
+        "id": "1923359888937500672",
+        "location": "銀河系",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1925376077050126416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923406339050721282/uW6FpSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 43,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/fkOyfLMtZy",
+        "username": "akiraoxo",
+        "verified": false
+      }
+    ]
+  }
+}

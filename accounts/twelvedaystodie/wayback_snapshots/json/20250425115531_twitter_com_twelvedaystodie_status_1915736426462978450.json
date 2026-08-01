@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1915736426462978450",
+    "created_at": "2025-04-25T11:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T12:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915736426462978450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1408741694267301889",
+          "start": 3,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915736426462978450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915547877524594823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YUSU_01: 真的一点都不需要爱，我只需要钱和药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1915736426462978450",
+        "created_at": "2025-04-25T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915736426462978450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1408741694267301889",
+              "start": 3,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915736426462978450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915547877524594823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YUSU_01: 真的一点都不需要爱，我只需要钱和药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408741694267301889",
+        "conversation_id": "1915547877524594823",
+        "created_at": "2025-04-24T23:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T00:17:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915545714199060864",
+          "1915547877524594823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915547877524594823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "真的一点都不需要爱，我只需要钱和药物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8061,
+          "following_count": 234,
+          "like_count": 6955,
+          "listed_count": 16,
+          "media_count": 797,
+          "tweet_count": 10482
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "死媽毒蟲罷了謝謝^_^｜內含音遊 繪 血圖 鬼圖 瞎罵 日常｜不賣任何藥物和違禁品",
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1902293657656660254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908579424108503041/xlwIVsRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 41,
+          "like_count": 10511,
+          "listed_count": 3,
+          "media_count": 1155,
+          "tweet_count": 14816
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

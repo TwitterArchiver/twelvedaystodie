@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2070111063367123005",
+    "created_at": "2026-06-25T13:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070137374450004008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049877364763676672",
+          "start": 0,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070137374450004008",
+    "in_reply_to_user_id": "2049877364763676672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070111063367123005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_hui916768 +1，好討厭這樣的自己"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2070111061613924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDCuka0AAjfW_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2070111063367123005",
+        "created_at": "2026-06-25T13:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070137374450004008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049877364763676672",
+              "start": 0,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070137374450004008",
+        "in_reply_to_user_id": "2049877364763676672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070111063367123005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_hui916768 +1，好討厭這樣的自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070111061613924352"
+          ]
+        },
+        "author_id": "2049877364763676672",
+        "conversation_id": "2070111063367123005",
+        "created_at": "2026-06-25T11:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070111063367123005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSMN29SK78",
+              "end": 53,
+              "expanded_url": "https://x.com/4_hui916768/status/2070111063367123005/photo/1",
+              "media_key": "3_2070111061613924352",
+              "start": 30,
+              "url": "https://t.co/uSMN29SK78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070111063367123005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這幾個月為了讓自己別死花了好多錢\n看著越來越少的存款好崩潰 https://t.co/uSMN29SK78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 217,
+          "like_count": 7000,
+          "listed_count": 13,
+          "media_count": 922,
+          "tweet_count": 11711
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2056669593033482458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 286,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

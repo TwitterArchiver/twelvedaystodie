@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818616769587900416"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1818616773216026966",
+    "created_at": "2024-07-31T11:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T12:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818616773216026966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UMdslP8s4H",
+          "end": 27,
+          "expanded_url": "https://twitter.com/twelvedaystodie/status/1818616773216026966/photo/1",
+          "media_key": "3_1818616769587900416",
+          "start": 4,
+          "url": "https://t.co/UMdslP8s4H"
+        },
+        {
+          "display_url": "x.com/ahixnming/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ahixnming/status/1818614322979127575",
+          "start": 28,
+          "url": "https://t.co/rVu7WPjSSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818616773216026966",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818614322979127575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大爆死 https://t.co/UMdslP8s4H https://t.co/rVu7WPjSSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1818616769587900416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT0GUQXa8AADhRz.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818616769587900416"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "1818616773216026966",
+        "created_at": "2024-07-31T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818616773216026966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UMdslP8s4H",
+              "end": 27,
+              "expanded_url": "https://twitter.com/twelvedaystodie/status/1818616773216026966/photo/1",
+              "media_key": "3_1818616769587900416",
+              "start": 4,
+              "url": "https://t.co/UMdslP8s4H"
+            },
+            {
+              "display_url": "x.com/ahixnming/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ahixnming/status/1818614322979127575",
+              "start": 28,
+              "url": "https://t.co/rVu7WPjSSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818616773216026966",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818614322979127575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大爆死 https://t.co/UMdslP8s4H https://t.co/rVu7WPjSSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818614316922552323"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "conversation_id": "1818614322979127575",
+        "created_at": "2024-07-31T11:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T12:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818614322979127575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wlEcFDCQq3",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ahixnming/status/1818614322979127575/photo/1",
+              "media_key": "3_1818614316922552323",
+              "start": 10,
+              "url": "https://t.co/wlEcFDCQq3"
+            },
+            {
+              "display_url": "x.com/_mucha_000/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/_mucha_000/status/1818609060599751053",
+              "start": 34,
+              "url": "https://t.co/fGMjgG7WTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818614322979127575",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818609060599751053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這樣也沒一條線ㄏㄏ https://t.co/wlEcFDCQq3 https://t.co/fGMjgG7WTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7608,
+          "following_count": 226,
+          "like_count": 6608,
+          "listed_count": 15,
+          "tweet_count": 9530
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@wilbur0317",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "wilbur0317"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/2004mnnn?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/2004mnnn?igsh=YmhyNHk2YXppMDJr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xuFCYvackv"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "血圖有請慎追",
+        "name": "阿明",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 525,
+          "like_count": 22902,
+          "listed_count": 1,
+          "tweet_count": 17756
+        },
+        "url": "https://t.co/xuFCYvackv",
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

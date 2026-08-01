@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1963174133497495950",
+    "created_at": "2025-09-03T12:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T13:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963213635142267333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655561646247673859",
+          "start": 0,
+          "username": "ooooood909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963213635142267333",
+    "in_reply_to_user_id": "1655561646247673859",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963174133497495950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooooood909 3 18 29 36"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963174133497495950].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963174133497495950",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963174133497495950"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1963174133497495950",
+        "created_at": "2025-09-03T12:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963213635142267333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655561646247673859",
+              "start": 0,
+              "username": "ooooood909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963213635142267333",
+        "in_reply_to_user_id": "1655561646247673859",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963174133497495950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooooood909 3 18 29 36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 227,
+          "like_count": 7156,
+          "listed_count": 15,
+          "media_count": 850,
+          "tweet_count": 11013
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T13:14:34.000Z",
+        "description": "我一口吞下苦涩的命运 仰头看天 生命一贫如洗 死亡如此丰盈",
+        "id": "1655561646247673859",
+        "location": "遊走在世界最邊緣",
+        "name": "不安病",
+        "pinned_tweet_id": "1955344525553176782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904648519342055424/XAOpMJfA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 119,
+          "like_count": 9367,
+          "listed_count": 0,
+          "media_count": 787,
+          "tweet_count": 8225
+        },
+        "username": "ooooood909",
+        "verified": false
+      }
+    ]
+  }
+}

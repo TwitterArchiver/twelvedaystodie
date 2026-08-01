@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1968706581488415211",
+    "created_at": "2025-09-19T13:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969023841113448839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762160595053465603",
+          "start": 0,
+          "username": "DyineLand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969023841113448839",
+    "in_reply_to_user_id": "1762160595053465603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968706581488415211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DyineLand 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1968706581488415211",
+        "created_at": "2025-09-19T13:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969023841113448839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762160595053465603",
+              "start": 0,
+              "username": "DyineLand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969023841113448839",
+        "in_reply_to_user_id": "1762160595053465603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968706581488415211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DyineLand 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762160595053465603",
+        "conversation_id": "1968706581488415211",
+        "created_at": "2025-09-18T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968706581488415211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968706581488415211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 20470,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当看到这些文字，说明我已经离开了\n旅途还没有结束，只是我走到了自己的终点\n感谢和大家的相遇\n\n也感谢你 铃兰\n谢谢你帮我下定决心\n\n再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8287,
+          "following_count": 225,
+          "like_count": 7157,
+          "listed_count": 15,
+          "media_count": 856,
+          "tweet_count": 11119
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T17:00:09.000Z",
+        "description": "你好哦,这里是兔。\n希望可以认识更多的朋友。\n双相/解离/精神状况不稳定。\n01年老登。\n死宅。\n喜欢可爱的事物。\n碎碎念/偶尔会发一点照片。\n互fo请私信\n欢迎找我玩游戏哦。",
+        "id": "1762160595053465603",
+        "location": "Nowhere",
+        "name": "一羽の兎",
+        "pinned_tweet_id": "1948704744064659843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963280115749847040/g5bt-L0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 84,
+          "like_count": 10292,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 1111
+        },
+        "username": "DyineLand",
+        "verified": false
+      }
+    ]
+  }
+}

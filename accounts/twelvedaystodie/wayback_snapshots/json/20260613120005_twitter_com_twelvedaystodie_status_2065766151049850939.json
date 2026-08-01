@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2065766151049850939",
+    "created_at": "2026-06-13T12:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065766151049850939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948308131735588864",
+          "start": 3,
+          "username": "magicallyurz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065766151049850939",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065597573558141369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magicallyurz: i hate when people say suicide is a permanent fix to a temporary problem because what if my problems aren’t temporary"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2065766151049850939",
+        "created_at": "2026-06-13T12:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065766151049850939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948308131735588864",
+              "start": 3,
+              "username": "magicallyurz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065766151049850939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065597573558141369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magicallyurz: i hate when people say suicide is a permanent fix to a temporary problem because what if my problems aren’t temporary"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948308131735588864",
+        "conversation_id": "2065597573558141369",
+        "created_at": "2026-06-13T00:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065597573558141369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065597573558141369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 29252,
+          "like_count": 2506,
+          "quote_count": 21,
+          "reply_count": 23,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "i hate when people say suicide is a permanent fix to a temporary problem because what if my problems aren’t temporary"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8732,
+          "following_count": 218,
+          "like_count": 6994,
+          "listed_count": 13,
+          "media_count": 918,
+          "tweet_count": 11686
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:04:23.000Z",
+        "description": "꒰ 𝕤𝕙𝕖𝕕𝕥𝕨𝕥 .ᐟ ֹ ₊ \n⤷ 15⟡entj ۶ৎ bi .ᐟ. \nm/w goreboy 🤍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "magicallyurz.straw.page",
+                "end": 23,
+                "expanded_url": "https://magicallyurz.straw.page",
+                "start": 0,
+                "url": "https://t.co/lNWrvtZZoC"
+              }
+            ]
+          }
+        },
+        "id": "1948308131735588864",
+        "location": "she/they",
+        "name": "carly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062042983311052800/jEMeVBYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 313,
+          "like_count": 35158,
+          "listed_count": 13,
+          "media_count": 767,
+          "tweet_count": 7086
+        },
+        "url": "https://t.co/lNWrvtZZoC",
+        "username": "magicallyurz",
+        "verified": false
+      }
+    ]
+  }
+}

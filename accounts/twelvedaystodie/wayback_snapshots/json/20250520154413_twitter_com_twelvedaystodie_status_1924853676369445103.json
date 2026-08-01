@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1924801808536670462",
+    "created_at": "2025-05-20T15:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924853676369445103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1206557612298440705",
+          "start": 0,
+          "username": "gaaaaaangz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924853676369445103",
+    "in_reply_to_user_id": "1206557612298440705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924801808536670462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaaaaaangz 寶寶我私你了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1924801806364037120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZFC3tb0AAiOuP.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1924801808536670462",
+        "created_at": "2025-05-20T15:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924853676369445103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1206557612298440705",
+              "start": 0,
+              "username": "gaaaaaangz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924853676369445103",
+        "in_reply_to_user_id": "1206557612298440705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924801808536670462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaaaaaangz 寶寶我私你了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924801806364037120"
+          ]
+        },
+        "author_id": "1206557612298440705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1924801808536670462",
+        "created_at": "2025-05-20T12:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924801808536670462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "gore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2vhzACNob",
+              "end": 33,
+              "expanded_url": "https://x.com/gaaaaaangz/status/1924801808536670462/photo/1",
+              "media_key": "3_1924801806364037120",
+              "start": 10,
+              "url": "https://t.co/e2vhzACNob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924801808536670462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大眼睛 #gore https://t.co/e2vhzACNob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8160,
+          "following_count": 239,
+          "like_count": 7087,
+          "listed_count": 15,
+          "media_count": 811,
+          "tweet_count": 10645
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-16T12:52:16.000Z",
+        "description": "( ﾟ∀。)你好你好我是冈子",
+        "id": "1206557612298440705",
+        "name": "乱葬冈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456124962633240580/LzR5Qj5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 281,
+          "like_count": 436,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 586
+        },
+        "username": "gaaaaaangz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1925108923994083559",
+    "created_at": "2025-05-21T08:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T09:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925108923994083559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/medi_cosity/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/medi_cosity/status/1925096387827417506",
+          "start": 11,
+          "url": "https://t.co/dRP4bZipK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925108923994083559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925096387827417506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這應該永久神經受損吧 https://t.co/dRP4bZipK6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1925096387827417506].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925096387827417506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925096387827417506"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1925108923994083559",
+        "created_at": "2025-05-21T08:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925108923994083559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/medi_cosity/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/medi_cosity/status/1925096387827417506",
+              "start": 11,
+              "url": "https://t.co/dRP4bZipK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925108923994083559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925096387827417506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這應該永久神經受損吧 https://t.co/dRP4bZipK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 239,
+          "like_count": 7069,
+          "listed_count": 15,
+          "media_count": 811,
+          "tweet_count": 10653
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

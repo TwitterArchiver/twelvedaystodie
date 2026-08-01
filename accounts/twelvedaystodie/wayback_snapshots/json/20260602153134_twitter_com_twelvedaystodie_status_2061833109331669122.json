@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2061048833384292634",
+    "created_at": "2026-06-02T15:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061833109331669122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970009180296896512",
+          "start": 0,
+          "username": "hiiragiutenaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061833109331669122",
+    "in_reply_to_user_id": "1970009180296896512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061492306252095899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiiragiutenaa 噁心倒是不會，尷尬反而是會\n不過反正他們看習慣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2061048833384292634",
+        "created_at": "2026-06-02T15:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061833109331669122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970009180296896512",
+              "start": 0,
+              "username": "hiiragiutenaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061833109331669122",
+        "in_reply_to_user_id": "1970009180296896512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061492306252095899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiiragiutenaa 噁心倒是不會，尷尬反而是會\n不過反正他們看習慣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970009180296896512",
+        "conversation_id": "2061048833384292634",
+        "created_at": "2026-06-01T16:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061492306252095899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061492306252095899",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048833384292634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 被看到然後被關心的話不會覺得很噁心嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8733,
+          "following_count": 222,
+          "like_count": 6986,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 11670
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T06:16:14.000Z",
+        "description": "喜歡聊天\n蠻常負能量的",
+        "id": "1970009180296896512",
+        "name": "ℐ𝓃𝓈𝑜𝓂𝓃𝒾𝒶 の發͇發͇｜(´-﹏-`)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061166129993875456/qWAzit5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "hiiragiutenaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1885241242826793039",
+    "created_at": "2025-01-31T08:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T09:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885241242826793039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1400921726104571914",
+          "start": 3,
+          "username": "gorgeousdeath06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885241242826793039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884538895171498054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorgeousdeath06: 大家好 这里是【就这样华丽的在垃圾桶里死去吧】\n生气的小红鸟 五号机\n因为我之前的号被盗了\n新的四号机刚刚被封了\n崩溃啊啊啊啊\n只能再次重生\n\n希望大家帮我转发扩散找回曾经的互关和粉丝宝宝谢谢你们_（꧉」∠)_ https://t.co…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1885241242826793039",
+        "created_at": "2025-01-31T08:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T09:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885241242826793039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1400921726104571914",
+              "start": 3,
+              "username": "gorgeousdeath06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885241242826793039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884538895171498054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gorgeousdeath06: 大家好 这里是【就这样华丽的在垃圾桶里死去吧】\n生气的小红鸟 五号机\n因为我之前的号被盗了\n新的四号机刚刚被封了\n崩溃啊啊啊啊\n只能再次重生\n\n希望大家帮我转发扩散找回曾经的互关和粉丝宝宝谢谢你们_（꧉」∠)_ https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884538858773352448",
+            "3_1884538869355585536",
+            "3_1884538879140892672",
+            "3_1884538887785381888"
+          ]
+        },
+        "author_id": "1400921726104571914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1884538895171498054",
+        "created_at": "2025-01-29T09:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884538895171498054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90r3sRdaSM",
+              "end": 129,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1884538895171498054/photo/1",
+              "media_key": "3_1884538858773352448",
+              "start": 106,
+              "url": "https://t.co/90r3sRdaSM"
+            },
+            {
+              "display_url": "pic.x.com/90r3sRdaSM",
+              "end": 129,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1884538895171498054/photo/1",
+              "media_key": "3_1884538869355585536",
+              "start": 106,
+              "url": "https://t.co/90r3sRdaSM"
+            },
+            {
+              "display_url": "pic.x.com/90r3sRdaSM",
+              "end": 129,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1884538895171498054/photo/1",
+              "media_key": "3_1884538879140892672",
+              "start": 106,
+              "url": "https://t.co/90r3sRdaSM"
+            },
+            {
+              "display_url": "pic.x.com/90r3sRdaSM",
+              "end": 129,
+              "expanded_url": "https://x.com/gorgeousdeath06/status/1884538895171498054/photo/1",
+              "media_key": "3_1884538887785381888",
+              "start": 106,
+              "url": "https://t.co/90r3sRdaSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884538895171498054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3417,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 这里是【就这样华丽的在垃圾桶里死去吧】\n生气的小红鸟 五号机\n因为我之前的号被盗了\n新的四号机刚刚被封了\n崩溃啊啊啊啊\n只能再次重生\n\n希望大家帮我转发扩散找回曾经的互关和粉丝宝宝谢谢你们_（꧉」∠)_ https://t.co/90r3sRdaSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 240,
+          "like_count": 6801,
+          "listed_count": 15,
+          "media_count": 765,
+          "tweet_count": 10226
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T21:05:49.000Z",
+        "description": "我是生气的小红鸟〔5.0重生版〕之前账号被盗了，4.0被封号了 希望可以找回之前的大家\n这里是个发疯的小号／持续吐黑水 大量阴暗发言‖自残行为 负能注意⚠️",
+        "id": "1400921726104571914",
+        "name": "〔5.0重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1884538895171498054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884537515455180801/twFAKlI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 98,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "username": "gorgeousdeath06",
+        "verified": false
+      }
+    ]
+  }
+}

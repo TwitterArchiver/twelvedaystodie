@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2061007569280491964",
+    "created_at": "2026-05-31T08:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061007569280491964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/styrokel/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/styrokel/status/2060595576916291692",
+          "start": 15,
+          "url": "https://t.co/hCPKBGUjv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061007569280491964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060595576916291692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沒可能這樣沒人會留在我身邊。 https://t.co/hCPKBGUjv0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2061007569280491964",
+        "created_at": "2026-05-31T08:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061007569280491964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/styrokel/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/styrokel/status/2060595576916291692",
+              "start": 15,
+              "url": "https://t.co/hCPKBGUjv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061007569280491964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595576916291692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒可能這樣沒人會留在我身邊。 https://t.co/hCPKBGUjv0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741898136656752641",
+        "conversation_id": "2060595576916291692",
+        "created_at": "2026-05-30T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595576916291692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060595576916291692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 25962,
+          "like_count": 2638,
+          "quote_count": 77,
+          "reply_count": 100,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "how do you even admit to a close irl friend that you cut yourself and that you're suicidal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8748,
+          "following_count": 222,
+          "like_count": 6982,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 11663
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T19:04:23.000Z",
+        "description": "@open_marrowchu !!\n#idonotstink143\nkelling it | \"and i could see myself never fully recovering\" | priv: @kelisawesome143 | #shtwt #omoritwt 🀹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 19,
+                "tag": "idonotstink143"
+              },
+              {
+                "end": 129,
+                "start": 123,
+                "tag": "shtwt"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "tag": "omoritwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "open_marrowchu"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "kelisawesome143"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kelisverycool.straw.page",
+                "end": 23,
+                "expanded_url": "https://kelisverycool.straw.page/",
+                "start": 0,
+                "url": "https://t.co/CmOfe4eSeo"
+              }
+            ]
+          }
+        },
+        "id": "1741898136656752641",
+        "location": "18 | she/her | darkship DNI.",
+        "name": "KEL ★ || shtwt // follow limited",
+        "pinned_tweet_id": "2024951978623992153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032990254794240000/ozYBsdN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1209,
+          "like_count": 48210,
+          "listed_count": 35,
+          "media_count": 3297,
+          "tweet_count": 18334
+        },
+        "url": "https://t.co/CmOfe4eSeo",
+        "username": "styrokel",
+        "verified": false
+      }
+    ]
+  }
+}

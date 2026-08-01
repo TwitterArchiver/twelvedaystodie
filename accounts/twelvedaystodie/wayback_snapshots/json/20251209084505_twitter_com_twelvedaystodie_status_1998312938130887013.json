@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1998312938130887013",
+    "created_at": "2025-12-09T08:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998312938130887013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1979293441294213120",
+          "start": 3,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998312938130887013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994962529022591468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dumpling666666: 我想要割手自由，想所有人都不会在乎自残的伤疤，我想伤疤变成常见的东西，想所有人都能理解自残对于一些人是“正常”的行为。不会影响你找一些服装店模特一类需要拍摄的工作……一边崩溃的割手一边还要担心伤疤，我想崩溃的时候可以放心的割，控制自己的情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1998312938130887013",
+        "created_at": "2025-12-09T08:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998312938130887013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1979293441294213120",
+              "start": 3,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998312938130887013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994962529022591468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dumpling666666: 我想要割手自由，想所有人都不会在乎自残的伤疤，我想伤疤变成常见的东西，想所有人都能理解自残对于一些人是“正常”的行为。不会影响你找一些服装店模特一类需要拍摄的工作……一边崩溃的割手一边还要担心伤疤，我想崩溃的时候可以放心的割，控制自己的情…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979293441294213120",
+        "conversation_id": "1994962529022591468",
+        "created_at": "2025-11-30T02:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994962529022591468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994962529022591468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 51161,
+          "like_count": 1521,
+          "quote_count": 13,
+          "reply_count": 30,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "我想要割手自由，想所有人都不会在乎自残的伤疤，我想伤疤变成常见的东西，想所有人都能理解自残对于一些人是“正常”的行为。不会影响你找一些服装店模特一类需要拍摄的工作……一边崩溃的割手一边还要担心伤疤，我想崩溃的时候可以放心的割，控制自己的情绪以后也不会因为伤疤崩溃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8323,
+          "following_count": 217,
+          "like_count": 7125,
+          "listed_count": 15,
+          "media_count": 874,
+          "tweet_count": 11244
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "1987071077143707776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979293613575012352/7wF-pCYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 37,
+          "like_count": 736,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 304
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

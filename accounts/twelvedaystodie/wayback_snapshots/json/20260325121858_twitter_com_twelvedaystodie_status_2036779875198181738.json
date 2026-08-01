@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2036779875198181738",
+    "created_at": "2026-03-25T12:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036779875198181738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036779875198181738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但我又覺得，太嬌情了\n我也害怕，我一句：我想跳樓\n你們就不要我了\n你們就永遠害怕我了\n所以我只能在這裡說\n我感覺我的生命好像在肉眼可見地倒數\n充電座壞了，燈泡壞了，房間都沒有整理，每晚不斷驚恐發作\n昨晚甚至驚恐兩個小時半\n越來越壞了，我開始害怕我自己不能控制的死亡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2036779875198181738",
+        "created_at": "2026-03-25T12:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036779875198181738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036779875198181738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但我又覺得，太嬌情了\n我也害怕，我一句：我想跳樓\n你們就不要我了\n你們就永遠害怕我了\n所以我只能在這裡說\n我感覺我的生命好像在肉眼可見地倒數\n充電座壞了，燈泡壞了，房間都沒有整理，每晚不斷驚恐發作\n昨晚甚至驚恐兩個小時半\n越來越壞了，我開始害怕我自己不能控制的死亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8804,
+          "following_count": 225,
+          "like_count": 6992,
+          "listed_count": 15,
+          "media_count": 906,
+          "tweet_count": 11575
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2064673761975246946",
+    "created_at": "2026-06-10T11:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064673761975246946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721634276322553856",
+          "start": 3,
+          "username": "Paudipou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064673761975246946",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064084042983538748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paudipou: La mayor prueba de amistad es soportar al amigo cronicamente deprimido"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2064673761975246946",
+        "created_at": "2026-06-10T11:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064673761975246946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721634276322553856",
+              "start": 3,
+              "username": "Paudipou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064673761975246946",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064084042983538748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paudipou: La mayor prueba de amistad es soportar al amigo cronicamente deprimido"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721634276322553856",
+        "conversation_id": "2064084042983538748",
+        "created_at": "2026-06-08T20:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064084042983538748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6meperdoa/stat…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/6meperdoa/status/2063968513040027660",
+              "start": 71,
+              "url": "https://t.co/0f6SOia57a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064084042983538748",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5038,
+          "impression_count": 2340893,
+          "like_count": 148923,
+          "quote_count": 2259,
+          "reply_count": 393,
+          "retweet_count": 17527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063968513040027660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "La mayor prueba de amistad es soportar al amigo cronicamente deprimido https://t.co/0f6SOia57a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8735,
+          "following_count": 220,
+          "like_count": 6991,
+          "listed_count": 13,
+          "media_count": 917,
+          "tweet_count": 11679
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T21:03:02.000Z",
+        "description": "Payasa de dia, chefcita de noche",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@paudipai?_t=8…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@paudipai?_t=8h92WQlhqej&_r=1",
+                "start": 0,
+                "url": "https://t.co/VHCSLdLynL"
+              }
+            ]
+          }
+        },
+        "id": "1721634276322553856",
+        "location": "Bucaramanga, Colombia",
+        "name": "Pai de limoncito",
+        "pinned_tweet_id": "2010150179593433285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025998156912091136/1Hu_-sxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12637,
+          "following_count": 101,
+          "like_count": 26592,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 4961
+        },
+        "url": "https://t.co/VHCSLdLynL",
+        "username": "Paudipou",
+        "verified": false
+      }
+    ]
+  }
+}

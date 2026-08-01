@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2034978741164843128",
+    "created_at": "2026-03-20T13:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034978741164843128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942290305413480448",
+          "start": 3,
+          "username": "chichichibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034978741164843128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034666816623263948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chichichibai: : 舍不得剪掉玩偶的吊牌，舍不得挂掉朋友的电话，舍不得删掉照片，舍不得和小聚之后的好友分别，舍不得扔掉上学时期同学的纸条，舍不得结束一段内耗的感情，直到有一天我才发现，我舍不得的并没有舍不得我。\n但是我却真的真的真的舍不得这些，这些情感哪怕是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2034978741164843128",
+        "created_at": "2026-03-20T13:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034978741164843128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942290305413480448",
+              "start": 3,
+              "username": "chichichibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034978741164843128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034666816623263948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chichichibai: : 舍不得剪掉玩偶的吊牌，舍不得挂掉朋友的电话，舍不得删掉照片，舍不得和小聚之后的好友分别，舍不得扔掉上学时期同学的纸条，舍不得结束一段内耗的感情，直到有一天我才发现，我舍不得的并没有舍不得我。\n但是我却真的真的真的舍不得这些，这些情感哪怕是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942290305413480448",
+        "conversation_id": "2034666816623263948",
+        "created_at": "2026-03-19T16:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034666816623263948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034666816623263948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 26872,
+          "like_count": 1281,
+          "quote_count": 23,
+          "reply_count": 19,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": ": 舍不得剪掉玩偶的吊牌，舍不得挂掉朋友的电话，舍不得删掉照片，舍不得和小聚之后的好友分别，舍不得扔掉上学时期同学的纸条，舍不得结束一段内耗的感情，直到有一天我才发现，我舍不得的并没有舍不得我。\n但是我却真的真的真的舍不得这些，这些情感哪怕是错误的又有何干呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8809,
+          "following_count": 225,
+          "like_count": 7001,
+          "listed_count": 15,
+          "media_count": 901,
+          "tweet_count": 11555
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:31:25.000Z",
+        "description": "07//身心取向男/学历崇拜者/三次深柜/阴湿长发男/欢迎大家在下方链接提问/*待补充\n政治/歧视言论/绝大多数的辩经/无厚码墙内转发NG\n会默认看过置顶\n非空非纯看黄号无政治言论的号基本都会回关❤️欢迎大家找我玩ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%99%BD",
+                "start": 0,
+                "url": "https://t.co/ZzyV1q11Sp"
+              }
+            ]
+          }
+        },
+        "id": "1942290305413480448",
+        "name": "迟白",
+        "pinned_tweet_id": "2031031255014482261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961467345672757248/1rulkNwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 271,
+          "like_count": 5471,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/ZzyV1q11Sp",
+        "username": "chichichibai",
+        "verified": false
+      }
+    ]
+  }
+}

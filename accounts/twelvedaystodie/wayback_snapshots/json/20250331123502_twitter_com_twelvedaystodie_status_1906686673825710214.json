@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1906470172506096039",
+    "created_at": "2025-03-31T12:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906686673825710214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625403583649705986",
+          "start": 0,
+          "username": "yuxo0004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906686673825710214",
+    "in_reply_to_user_id": "1625403583649705986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906470172506096039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxo0004 對不起太晚見到你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906470136829313024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnUkfRCaAAAId2Q.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906470137370484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnUkfTDboAAd2jJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906470137886375936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnUkfU-bgAALcxB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1906470172506096039",
+        "created_at": "2025-03-31T12:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906686673825710214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625403583649705986",
+              "start": 0,
+              "username": "yuxo0004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906686673825710214",
+        "in_reply_to_user_id": "1625403583649705986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906470172506096039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxo0004 對不起太晚見到你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906470136829313024",
+            "3_1906470137370484736",
+            "3_1906470137886375936"
+          ]
+        },
+        "author_id": "1625403583649705986",
+        "conversation_id": "1906470172506096039",
+        "created_at": "2025-03-30T22:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T23:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906470172506096039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRqNhlUx46",
+              "end": 23,
+              "expanded_url": "https://x.com/yuxo0004/status/1906470172506096039/photo/1",
+              "media_key": "3_1906470136829313024",
+              "start": 0,
+              "url": "https://t.co/fRqNhlUx46"
+            },
+            {
+              "display_url": "pic.x.com/fRqNhlUx46",
+              "end": 23,
+              "expanded_url": "https://x.com/yuxo0004/status/1906470172506096039/photo/1",
+              "media_key": "3_1906470137370484736",
+              "start": 0,
+              "url": "https://t.co/fRqNhlUx46"
+            },
+            {
+              "display_url": "pic.x.com/fRqNhlUx46",
+              "end": 23,
+              "expanded_url": "https://x.com/yuxo0004/status/1906470172506096039/photo/1",
+              "media_key": "3_1906470137886375936",
+              "start": 0,
+              "url": "https://t.co/fRqNhlUx46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906470172506096039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 24815,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fRqNhlUx46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8030,
+          "following_count": 235,
+          "like_count": 6855,
+          "listed_count": 16,
+          "media_count": 783,
+          "tweet_count": 10375
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "🇨🇳🇯🇵od/ 友跨 顺女 / 泛性恋 /4i /s / 穿孔 / 聊天过🚪 88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxo0004",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxo0004",
+                "start": 0,
+                "url": "https://t.co/6mDH8HZhIL"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "2.7km",
+        "name": "郁子",
+        "pinned_tweet_id": "1827744049031413935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4190,
+          "following_count": 422,
+          "like_count": 3615,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/6mDH8HZhIL",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2061874285296377945",
+    "created_at": "2026-06-03T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062146829983351029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985648276046315520",
+          "start": 0,
+          "username": "0o_170o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062146829983351029",
+    "in_reply_to_user_id": "1985648276046315520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061874285296377945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0o_170o 我就是喜歡這些啊天吶一定很貴😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2061874274672271361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0_uoFbYAEKIiD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2061874285296377945",
+        "created_at": "2026-06-03T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062146829983351029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985648276046315520",
+              "start": 0,
+              "username": "0o_170o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062146829983351029",
+        "in_reply_to_user_id": "1985648276046315520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061874285296377945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0o_170o 我就是喜歡這些啊天吶一定很貴😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061874274672271361"
+          ]
+        },
+        "author_id": "1985648276046315520",
+        "conversation_id": "2061874285296377945",
+        "created_at": "2026-06-02T18:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061874285296377945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFZIYOy8VQ",
+              "end": 27,
+              "expanded_url": "https://x.com/0o_170o/status/2061874285296377945/photo/1",
+              "media_key": "3_2061874274672271361",
+              "start": 4,
+              "url": "https://t.co/yFZIYOy8VQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061874285296377945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好看 https://t.co/yFZIYOy8VQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8733,
+          "following_count": 222,
+          "like_count": 6987,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 11672
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T10:00:24.000Z",
+        "description": "20↑ 雑多",
+        "id": "1985648276046315520",
+        "location": "吵死了",
+        "name": "四月一日★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648241718480896/WtDM7fXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 497,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2512
+        },
+        "username": "0o_170o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1979165914953101505",
+    "created_at": "2025-10-17T12:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979165914953101505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979165914953101505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但其實我覺得我不夠慘\n我每次跟心理學家，都說，我好像不夠慘\n我沒資格說苦\n比起別人那些痛苦的人生和原生家庭，我也許就不慘\n我沒資格抑鬱，我一直這麼想\n結果就不斷內秏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1979165914953101505",
+        "created_at": "2025-10-17T12:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979165914953101505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979165914953101505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但其實我覺得我不夠慘\n我每次跟心理學家，都說，我好像不夠慘\n我沒資格說苦\n比起別人那些痛苦的人生和原生家庭，我也許就不慘\n我沒資格抑鬱，我一直這麼想\n結果就不斷內秏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 224,
+          "like_count": 7120,
+          "listed_count": 15,
+          "media_count": 863,
+          "tweet_count": 11170
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

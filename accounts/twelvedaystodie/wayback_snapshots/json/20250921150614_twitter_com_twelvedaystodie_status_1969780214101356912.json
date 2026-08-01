@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1969115204966375494",
+    "created_at": "2025-09-21T15:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969780214101356912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969780214101356912",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969115204966375494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 神一般的圖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969115201707655171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Oz19ebQAMSmqW.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1969115204966375494",
+        "created_at": "2025-09-21T15:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969780214101356912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969780214101356912",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969115204966375494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 神一般的圖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969115201707655171"
+          ]
+        },
+        "author_id": "1435889042155995136",
+        "conversation_id": "1969115204966375494",
+        "created_at": "2025-09-19T19:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T20:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969115204966375494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjA7HREpuw",
+              "end": 26,
+              "expanded_url": "https://x.com/bluefluoxetine/status/1969115204966375494/photo/1",
+              "media_key": "3_1969115201707655171",
+              "start": 3,
+              "url": "https://t.co/TjA7HREpuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969115204966375494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2963,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "伤疤 https://t.co/TjA7HREpuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 224,
+          "like_count": 7158,
+          "listed_count": 15,
+          "media_count": 857,
+          "tweet_count": 11128
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n＃shtwt\n\n我的女友@nagaseruna7777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "nagaseruna7777"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 272,
+          "like_count": 44597,
+          "listed_count": 8,
+          "media_count": 935,
+          "tweet_count": 12005
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

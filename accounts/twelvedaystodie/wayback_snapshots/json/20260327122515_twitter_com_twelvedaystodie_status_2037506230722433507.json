@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2037500766823625089",
+    "created_at": "2026-03-27T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037506230722433507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249609709968998400",
+          "start": 0,
+          "username": "cheeywip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037506230722433507",
+    "in_reply_to_user_id": "1249609709968998400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037505724125958311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheeywip 怎麼辦怎麼辦怎麼辦我真的好慌他叫我一直去死我現在拿著手機但不知道打給誰我心跳好快他還說我送的東西也不會有人要一直講一直講但是我沒有真的聽到有人跟我說話就是現在我播著音樂，但不是像播著的音樂直接聽到"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037505724125958311].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037505724125958311",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037505724125958311"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2037500766823625089",
+        "created_at": "2026-03-27T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037506230722433507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249609709968998400",
+              "start": 0,
+              "username": "cheeywip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037506230722433507",
+        "in_reply_to_user_id": "1249609709968998400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037505724125958311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheeywip 怎麼辦怎麼辦怎麼辦我真的好慌他叫我一直去死我現在拿著手機但不知道打給誰我心跳好快他還說我送的東西也不會有人要一直講一直講但是我沒有真的聽到有人跟我說話就是現在我播著音樂，但不是像播著的音樂直接聽到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8817,
+          "following_count": 225,
+          "like_count": 6995,
+          "listed_count": 15,
+          "media_count": 906,
+          "tweet_count": 11583
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T08:05:53.000Z",
+        "description": "07｜碎碎念",
+        "id": "1249609709968998400",
+        "location": "承認欲求",
+        "name": "霧",
+        "pinned_tweet_id": "1880296965541630155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991099458709524481/cTxbNkH0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 829,
+          "like_count": 144210,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 6269
+        },
+        "username": "cheeywip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1953798929570803872",
+    "created_at": "2025-08-08T12:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953798929570803872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953798929570803872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道是不是強逼症\n但讓我困擾的問題：\n1）不斷重複洗手，我每次吃午餐晚餐都會洗至少五次手，不小心碰到滑鼠就要去洗一次，就算離上次洗手只有幾十秒\n2）無論肚子有多不舒服多痛，都要先做完一系列洗漱前才能去\n因為我腸胃敏感，肚子有時會很痛想拉肚子，但只要還沒刷完牙裝好水壺，無論多痛苦都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1953798929570803872",
+        "created_at": "2025-08-08T12:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953798929570803872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953798929570803872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是強逼症\n但讓我困擾的問題：\n1）不斷重複洗手，我每次吃午餐晚餐都會洗至少五次手，不小心碰到滑鼠就要去洗一次，就算離上次洗手只有幾十秒\n2）無論肚子有多不舒服多痛，都要先做完一系列洗漱前才能去\n因為我腸胃敏感，肚子有時會很痛想拉肚子，但只要還沒刷完牙裝好水壺，無論多痛苦都不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8288,
+          "following_count": 231,
+          "like_count": 7122,
+          "listed_count": 14,
+          "media_count": 841,
+          "tweet_count": 10892
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1922273091519918240",
+    "created_at": "2025-05-14T15:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922674014264136166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760630314186231808",
+          "start": 0,
+          "username": "Poinson_Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922674014264136166",
+    "in_reply_to_user_id": "1760630314186231808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922627166115639461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poinson_Girl 我是乾咳了好久，有一陣子聲音發不太出來，我想像不到吊到最後會是怎樣的一種痛苦\n我看過別人上吊的影片，他是會踢腳，抽搐，最後平平靜靜，有些人就會失禁\n我是看完那個影片才決定第二次要死時絕對不會選上吊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1922273091519918240",
+        "created_at": "2025-05-14T15:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922674014264136166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760630314186231808",
+              "start": 0,
+              "username": "Poinson_Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922674014264136166",
+        "in_reply_to_user_id": "1760630314186231808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922627166115639461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poinson_Girl 我是乾咳了好久，有一陣子聲音發不太出來，我想像不到吊到最後會是怎樣的一種痛苦\n我看過別人上吊的影片，他是會踢腳，抽搐，最後平平靜靜，有些人就會失禁\n我是看完那個影片才決定第二次要死時絕對不會選上吊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760630314186231808",
+        "conversation_id": "1922273091519918240",
+        "created_at": "2025-05-14T12:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922627166115639461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922627166115639461",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922273091519918240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 以前尝试过上吊，太痛苦没成功…..很难想象一个11的小女孩下了这么大的决定……."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8162,
+          "following_count": 237,
+          "like_count": 7033,
+          "listed_count": 15,
+          "media_count": 808,
+          "tweet_count": 10593
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T11:39:22.000Z",
+        "description": "泛 meg性别 朱小迪带着辛大迪一起死了我和她一起死了留下的是虚无的躯壳‼️ 请礼貌沟通我可以聊天但是🚫讨论我的隐私除非我主动提了 无🚪🈲黄色已阳痿‼️ im傻逼精神病可以开三级残疾证不对任何我说的话负责一切激进行为均为躁狂发癫 @zhuxiaodi06我的唯一…baby let’s meet at hell",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 115,
+                "username": "zhuxiaodi06"
+              }
+            ]
+          }
+        },
+        "id": "1760630314186231808",
+        "location": "粪坑沼泽",
+        "name": "痛苦在割腕时",
+        "pinned_tweet_id": "1905665609553379723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906728436745572352/0rFRS1sR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 96,
+          "like_count": 1075,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 2075
+        },
+        "username": "Poinson_Girl",
+        "verified": false
+      }
+    ]
+  }
+}

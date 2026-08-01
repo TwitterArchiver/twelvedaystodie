@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1827565001772822780",
+    "created_at": "2024-08-25T06:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T07:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827589086590464053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812797664347717632",
+          "start": 0,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827589086590464053",
+    "in_reply_to_user_id": "1812797664347717632",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827587027136868636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurushi_qwq 私了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1827565001772822780",
+        "created_at": "2024-08-25T06:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827589086590464053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812797664347717632",
+              "start": 0,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827589086590464053",
+        "in_reply_to_user_id": "1812797664347717632",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827587027136868636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurushi_qwq 私了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812797664347717632",
+        "conversation_id": "1827565001772822780",
+        "created_at": "2024-08-25T06:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827587027136868636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827587027136868636",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827586438009065926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 好哦！所以要約是嗎o((*^▽^*))o謝謝你TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7613,
+          "following_count": 229,
+          "like_count": 6633,
+          "listed_count": 14,
+          "tweet_count": 9685
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "🪡🪡🌫️",
+        "id": "1812797664347717632",
+        "name": "usagi",
+        "pinned_tweet_id": "1819335727530102987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820377889558433792/82yLI1W0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 135,
+          "like_count": 732,
+          "listed_count": 0,
+          "tweet_count": 218
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

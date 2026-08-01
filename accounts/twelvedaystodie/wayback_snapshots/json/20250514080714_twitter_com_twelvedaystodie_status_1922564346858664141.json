@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1922273091519918240",
+    "created_at": "2025-05-14T08:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T09:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922564346858664141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431725991743959048",
+          "start": 0,
+          "username": "Aa1389729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922564346858664141",
+    "in_reply_to_user_id": "1431725991743959048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922563384186204166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aa1389729 還是上吊的，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1922273091519918240",
+        "created_at": "2025-05-14T08:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922564346858664141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431725991743959048",
+              "start": 0,
+              "username": "Aa1389729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922564346858664141",
+        "in_reply_to_user_id": "1431725991743959048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922563384186204166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aa1389729 還是上吊的，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431725991743959048",
+        "conversation_id": "1922273091519918240",
+        "created_at": "2025-05-14T08:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922563384186204166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922563384186204166",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922273091519918240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 好可怕，才11呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8159,
+          "following_count": 237,
+          "like_count": 7032,
+          "listed_count": 15,
+          "media_count": 808,
+          "tweet_count": 10591
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T21:10:56.000Z",
+        "description": "寄托在另一个世界相见和实现",
+        "id": "1431725991743959048",
+        "name": "charKJ",
+        "pinned_tweet_id": "1732455204996739417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726831831742619648/4G6MfH9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 296,
+          "like_count": 7289,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 2543
+        },
+        "username": "Aa1389729",
+        "verified": false
+      }
+    ]
+  }
+}

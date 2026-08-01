@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1799448283456434602",
+    "created_at": "2024-06-08T14:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T15:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799448283456434602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1730557130166738944",
+          "start": 3,
+          "username": "YunaOnO_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799448283456434602",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799067641958764937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunaOnO_2001: 我上初二的时候，同班有个同学得了抑郁症，初一就休学了，听说在家天天自残od绝食，想自杀，后来听说她家拆迁款下来了，他妈的，第二天就见她背个书包来上学了，体育课和我们有说有笑。\n果然，抑郁症焦虑症的天敌是银行卡上的几百万到账。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1799448283456434602",
+        "created_at": "2024-06-08T14:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T15:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799448283456434602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1730557130166738944",
+              "start": 3,
+              "username": "YunaOnO_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799448283456434602",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799067641958764937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunaOnO_2001: 我上初二的时候，同班有个同学得了抑郁症，初一就休学了，听说在家天天自残od绝食，想自杀，后来听说她家拆迁款下来了，他妈的，第二天就见她背个书包来上学了，体育课和我们有说有笑。\n果然，抑郁症焦虑症的天敌是银行卡上的几百万到账。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1730557130166738944",
+        "conversation_id": "1799067641958764937",
+        "created_at": "2024-06-07T13:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T14:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799067641958764937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799067641958764937",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 161317,
+          "like_count": 1726,
+          "quote_count": 22,
+          "reply_count": 59,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "我上初二的时候，同班有个同学得了抑郁症，初一就休学了，听说在家天天自残od绝食，想自杀，后来听说她家拆迁款下来了，他妈的，第二天就见她背个书包来上学了，体育课和我们有说有笑。\n果然，抑郁症焦虑症的天敌是银行卡上的几百万到账。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7534,
+          "following_count": 225,
+          "like_count": 6377,
+          "listed_count": 15,
+          "tweet_count": 9030
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T11:59:14.000Z",
+        "description": "南无地藏王菩萨//占卜号@wohaocute👈🏻主业",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "wohaocute"
+              }
+            ]
+          }
+        },
+        "id": "1730557130166738944",
+        "location": "🚪52/128/521/1314",
+        "name": "燃燃",
+        "pinned_tweet_id": "1799444215606411287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785158692775792640/eZXrMYe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16307,
+          "following_count": 122,
+          "like_count": 1561,
+          "listed_count": 26,
+          "tweet_count": 1797
+        },
+        "username": "YunaOnO_2001",
+        "verified": false
+      }
+    ]
+  }
+}

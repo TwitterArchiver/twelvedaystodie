@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2069708131173851147",
+    "created_at": "2026-06-24T09:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069708131173851147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730415242860236800",
+          "start": 3,
+          "username": "giyommigirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069708131173851147",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069076312124526610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giyommigirl: 정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2069708131173851147",
+        "created_at": "2026-06-24T09:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708131173851147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730415242860236800",
+              "start": 3,
+              "username": "giyommigirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069708131173851147",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076312124526610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giyommigirl: 정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730415242860236800",
+        "conversation_id": "2069076312124526610",
+        "created_at": "2026-06-22T15:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069076312124526610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069076312124526610",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3938,
+          "impression_count": 1270667,
+          "like_count": 26092,
+          "quote_count": 3332,
+          "reply_count": 44,
+          "retweet_count": 9457
+        },
+        "reply_settings": "everyone",
+        "text": "정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘기하면 평생 후회함 끼발"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8709,
+          "following_count": 217,
+          "like_count": 6997,
+          "listed_count": 13,
+          "media_count": 921,
+          "tweet_count": 11704
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T02:35:30.000Z",
+        "description": "사이버고독사도 살인입니다",
+        "id": "1730415242860236800",
+        "location": "🤙돼냥이!!♡",
+        "name": "부랄냥돼머리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018833815016501248/adMnhRhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5188,
+          "following_count": 1925,
+          "like_count": 32958,
+          "listed_count": 57,
+          "media_count": 1571,
+          "tweet_count": 34419
+        },
+        "url": "",
+        "username": "giyommigirl",
+        "verified": true
+      }
+    ]
+  }
+}

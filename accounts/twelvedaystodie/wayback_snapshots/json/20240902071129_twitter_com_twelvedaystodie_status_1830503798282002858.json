@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1830503798282002858",
+    "created_at": "2024-09-02T07:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T08:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830503798282002858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708369098814476288",
+          "start": 3,
+          "username": "yayaleowooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830503798282002858",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829899844875632798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayaleowooo: 去别人自残贴底下问美工刀割的痛不痛是什么脑残问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1830503798282002858",
+        "created_at": "2024-09-02T07:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T08:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830503798282002858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708369098814476288",
+              "start": 3,
+              "username": "yayaleowooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830503798282002858",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829899844875632798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yayaleowooo: 去别人自残贴底下问美工刀割的痛不痛是什么脑残问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708369098814476288",
+        "conversation_id": "1829899844875632798",
+        "created_at": "2024-08-31T15:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T16:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829899844875632798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829899844875632798",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3364,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "去别人自残贴底下问美工刀割的痛不痛是什么脑残问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 230,
+          "like_count": 6644,
+          "listed_count": 14,
+          "tweet_count": 9722
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T06:32:03.000Z",
+        "description": "什么都不是，混沌系,混沌星球，碎碎念都在推特了没人看也没有关系我喜欢自言自语另一个我 @yaya223478",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yaya223478"
+              }
+            ]
+          }
+        },
+        "id": "1708369098814476288",
+        "location": "我都自残了你就让让我吧",
+        "name": "天生倒霉妹",
+        "pinned_tweet_id": "1800019570838868372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821103273425956864/mf2x4qoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 286,
+          "like_count": 5299,
+          "listed_count": 8,
+          "tweet_count": 2731
+        },
+        "username": "yayaleowooo",
+        "verified": false
+      }
+    ]
+  }
+}

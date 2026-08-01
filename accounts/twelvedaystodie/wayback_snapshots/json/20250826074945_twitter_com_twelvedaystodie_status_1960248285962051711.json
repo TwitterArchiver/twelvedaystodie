@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1959467985443398109",
+    "created_at": "2025-08-26T07:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T08:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960248285962051711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1382855594860711939",
+          "start": 0,
+          "username": "momoeri10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960248285962051711",
+    "in_reply_to_user_id": "1382855594860711939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960087665770106995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoeri10 我是頭暈手腳發麻，喝一口水會嚥到，然後不時有一下特別重的窒息感，我真的笑吐了有人喜歡驚恐發作，真想一鍵傳給他"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960087665770106995].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960087665770106995",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960087665770106995"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1959467985443398109",
+        "created_at": "2025-08-26T07:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960248285962051711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1382855594860711939",
+              "start": 0,
+              "username": "momoeri10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960248285962051711",
+        "in_reply_to_user_id": "1382855594860711939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960087665770106995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoeri10 我是頭暈手腳發麻，喝一口水會嚥到，然後不時有一下特別重的窒息感，我真的笑吐了有人喜歡驚恐發作，真想一鍵傳給他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 229,
+          "like_count": 7146,
+          "listed_count": 14,
+          "media_count": 846,
+          "tweet_count": 10967
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-16T00:37:40.000Z",
+        "description": "22/cis les 中文/Eng/日本語 post whatever I want |TW SH/NSFW | 抑郁症｜焦虑症｜自残｜(大概是治好了）",
+        "id": "1382855594860711939",
+        "name": "momoeri",
+        "pinned_tweet_id": "1697817819210190852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382855933391298560/0XODY2fQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 233,
+          "like_count": 23433,
+          "listed_count": 3,
+          "media_count": 616,
+          "tweet_count": 4283
+        },
+        "username": "momoeri10",
+        "verified": false
+      }
+    ]
+  }
+}

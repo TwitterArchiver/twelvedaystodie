@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2037500766823625089",
+    "created_at": "2026-03-27T12:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037500766823625089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037500766823625089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "慘了我腦袋一直有自己的聲音\n不斷說我沒人要\n是不斷有到我每秒都聽到\n但不像幻聽，沒有真正聽到，但腦袋不斷告訴我這樣\n好折磨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2037500766823625089",
+        "created_at": "2026-03-27T12:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037500766823625089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037500766823625089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慘了我腦袋一直有自己的聲音\n不斷說我沒人要\n是不斷有到我每秒都聽到\n但不像幻聽，沒有真正聽到，但腦袋不斷告訴我這樣\n好折磨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 225,
+          "like_count": 6996,
+          "listed_count": 15,
+          "media_count": 906,
+          "tweet_count": 11581
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1817252757138772364",
+    "created_at": "2024-07-27T17:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T18:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817252757138772364"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1817252757138772364",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是剛才打遊戲時通話，然後我在遊戲裡默默和隊友激進起來，我朋友看完後就問我一句：你怎麼了？\n當時我在遊戲裡超無助就問他什麼怎麼了\n他說這兩天我遊戲時的狀態都怪怪的，怎麼了，因為平常我根本不會這樣說話，悸不會打字（我想起昨天我是隊友一直害到我太認真講髒話\n然後我直接在他面前爆哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1817252757138772364",
+        "created_at": "2024-07-27T17:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T18:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817252757138772364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817252757138772364",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是剛才打遊戲時通話，然後我在遊戲裡默默和隊友激進起來，我朋友看完後就問我一句：你怎麼了？\n當時我在遊戲裡超無助就問他什麼怎麼了\n他說這兩天我遊戲時的狀態都怪怪的，怎麼了，因為平常我根本不會這樣說話，悸不會打字（我想起昨天我是隊友一直害到我太認真講髒話\n然後我直接在他面前爆哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7589,
+          "following_count": 226,
+          "like_count": 6603,
+          "listed_count": 15,
+          "tweet_count": 9508
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2061007211586035935",
+    "created_at": "2026-05-31T08:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061007211586035935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061007211586035935",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060760039682683129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 飲んだら0.01秒で死ねる薬が欲しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2061007211586035935",
+        "created_at": "2026-05-31T08:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061007211586035935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061007211586035935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060760039682683129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 飲んだら0.01秒で死ねる薬が欲しい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2060760039682683129",
+        "created_at": "2026-05-30T16:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060760039682683129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060760039682683129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 1004878,
+          "like_count": 22515,
+          "quote_count": 91,
+          "reply_count": 209,
+          "retweet_count": 3021
+        },
+        "reply_settings": "everyone",
+        "text": "飲んだら0.01秒で死ねる薬が欲しい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8748,
+          "following_count": 222,
+          "like_count": 6980,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 11662
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "自分の人生は絶望で不幸。早く消えたい。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 212,
+          "like_count": 8367,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 1093
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

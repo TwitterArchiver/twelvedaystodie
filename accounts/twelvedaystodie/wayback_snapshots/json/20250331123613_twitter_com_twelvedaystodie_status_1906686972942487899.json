@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1906646058383679732",
+    "created_at": "2025-03-31T12:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906686972942487899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906686972942487899",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906660075290120537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 他連我也想踢開我，你說呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1906646058383679732",
+        "created_at": "2025-03-31T12:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906686972942487899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906686972942487899",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906660075290120537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 他連我也想踢開我，你說呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595394288119971840",
+        "conversation_id": "1906646058383679732",
+        "created_at": "2025-03-31T10:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906660075290120537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906660075290120537",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906646058383679732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 猫是无辜的，既然开始同意养就不要改口啊，或者从开始就不要同意(￣O￣;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8030,
+          "following_count": 235,
+          "like_count": 6856,
+          "listed_count": 16,
+          "media_count": 783,
+          "tweet_count": 10376
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 56,
+          "like_count": 1752,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 728
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

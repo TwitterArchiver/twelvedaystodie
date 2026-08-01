@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1973037664434885079",
+    "created_at": "2025-09-30T14:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T15:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973037664434885079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973037664434885079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "話說今天看私人醫生了\n他說副作用的可能性比較低\n我平常十點半吃藥\n他叫我九點就吃\n但我覺得沒什麼分別，因為我吃完不到一陣子就好辛苦，像之前說的感覺一樣\n心理很悶很不舒服，呼吸開始困難\n真的不是副作用嗎？我很懷疑\n我只知道一到晚上，每分每秒都要這樣渡過就想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1973037664434885079",
+        "created_at": "2025-09-30T14:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T15:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973037664434885079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973037664434885079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "話說今天看私人醫生了\n他說副作用的可能性比較低\n我平常十點半吃藥\n他叫我九點就吃\n但我覺得沒什麼分別，因為我吃完不到一陣子就好辛苦，像之前說的感覺一樣\n心理很悶很不舒服，呼吸開始困難\n真的不是副作用嗎？我很懷疑\n我只知道一到晚上，每分每秒都要這樣渡過就想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8277,
+          "following_count": 224,
+          "like_count": 7166,
+          "listed_count": 15,
+          "media_count": 859,
+          "tweet_count": 11165
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}
