@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1847575645108523230",
+    "created_at": "2024-10-19T12:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T13:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847611472282792177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632926776535158785",
+          "start": 0,
+          "username": "yerinnii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847611472282792177",
+    "in_reply_to_user_id": "1632926776535158785",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847575645108523230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yerinnii 寶寶也有玩ak啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1847575645108523230].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1847575645108523230",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1847575645108523230"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1847575645108523230",
+        "created_at": "2024-10-19T12:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T13:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847611472282792177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632926776535158785",
+              "start": 0,
+              "username": "yerinnii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847611472282792177",
+        "in_reply_to_user_id": "1632926776535158785",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847575645108523230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yerinnii 寶寶也有玩ak啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7697,
+          "following_count": 236,
+          "like_count": 6639,
+          "listed_count": 15,
+          "tweet_count": 9944
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T02:11:10.000Z",
+        "description": "2023/6/2",
+        "id": "1632926776535158785",
+        "name": "夜燐",
+        "pinned_tweet_id": "1707048452105109553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662771070150283265/nHbAzIys_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 97,
+          "like_count": 2544,
+          "listed_count": 2,
+          "tweet_count": 678
+        },
+        "username": "yerinnii",
+        "verified": false
+      }
+    ]
+  }
+}

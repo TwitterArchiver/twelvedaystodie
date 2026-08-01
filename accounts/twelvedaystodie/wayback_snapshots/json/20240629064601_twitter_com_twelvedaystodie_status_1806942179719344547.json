@@ -1,0 +1,425 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806269195753226240",
+        "3_1806269195765899264",
+        "3_1806269195765825536",
+        "3_1806269195757494272"
+      ],
+      "media_source_tweet_id": [
+        "1806269206985585047",
+        "1806269206985585047",
+        "1806269206985585047",
+        "1806269206985585047"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1806942179719344547",
+    "created_at": "2024-06-29T06:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T07:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806942179719344547"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 19,
+          "tag": "これでフォロワーさん増えました"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1392452107450474499",
+          "start": 3,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/InMROXuIIq",
+          "end": 59,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+          "media_key": "3_1806269195753226240",
+          "start": 36,
+          "url": "https://t.co/InMROXuIIq"
+        },
+        {
+          "display_url": "pic.twitter.com/InMROXuIIq",
+          "end": 59,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+          "media_key": "3_1806269195765899264",
+          "start": 36,
+          "url": "https://t.co/InMROXuIIq"
+        },
+        {
+          "display_url": "pic.twitter.com/InMROXuIIq",
+          "end": 59,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+          "media_key": "3_1806269195765825536",
+          "start": 36,
+          "url": "https://t.co/InMROXuIIq"
+        },
+        {
+          "display_url": "pic.twitter.com/InMROXuIIq",
+          "end": 59,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+          "media_key": "3_1806269195757494272",
+          "start": 36,
+          "url": "https://t.co/InMROXuIIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806942179719344547",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806269206985585047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_infinity_xxx: #これでフォロワーさん増えました https://t.co/InMROXuIIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1806269195753226240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GREoQ3WaAAAECfH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1336,
+        "media_key": "3_1806269195765899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GREoQ3ZbYAA6XC0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1806269195765825536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GREoQ3ZaQAAQ-ql.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1806269195757494272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GREoQ3XbIAAHXv7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806269195753226240",
+            "3_1806269195765899264",
+            "3_1806269195765825536",
+            "3_1806269195757494272"
+          ],
+          "media_source_tweet_id": [
+            "1806269206985585047",
+            "1806269206985585047",
+            "1806269206985585047",
+            "1806269206985585047"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1806942179719344547",
+        "created_at": "2024-06-29T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806942179719344547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 19,
+              "tag": "これでフォロワーさん増えました"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1392452107450474499",
+              "start": 3,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 59,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195753226240",
+              "start": 36,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 59,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195765899264",
+              "start": 36,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 59,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195765825536",
+              "start": 36,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 59,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195757494272",
+              "start": 36,
+              "url": "https://t.co/InMROXuIIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806942179719344547",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806269206985585047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_infinity_xxx: #これでフォロワーさん増えました https://t.co/InMROXuIIq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806269195753226240",
+            "3_1806269195765899264",
+            "3_1806269195765825536",
+            "3_1806269195757494272"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1806269206985585047",
+        "created_at": "2024-06-27T10:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806269206985585047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "これでフォロワーさん増えました"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195753226240",
+              "start": 17,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195765899264",
+              "start": 17,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195765825536",
+              "start": 17,
+              "url": "https://t.co/InMROXuIIq"
+            },
+            {
+              "display_url": "pic.twitter.com/InMROXuIIq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1806269206985585047/photo/1",
+              "media_key": "3_1806269195757494272",
+              "start": 17,
+              "url": "https://t.co/InMROXuIIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806269206985585047",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 96261,
+          "like_count": 2799,
+          "quote_count": 38,
+          "reply_count": 12,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "#これでフォロワーさん増えました https://t.co/InMROXuIIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7546,
+          "following_count": 228,
+          "like_count": 6541,
+          "listed_count": 15,
+          "tweet_count": 9309
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "⚡️💍@moqsuicide／#ガキ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "ガキ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "moqsuicide"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747067418776854528/a1EqL5EJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7136,
+          "following_count": 279,
+          "like_count": 2530,
+          "listed_count": 20,
+          "tweet_count": 19533
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

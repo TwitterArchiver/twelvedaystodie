@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1798379429439447491",
+    "created_at": "2024-06-05T15:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T16:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798379429439447491"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798379429439447491",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我至少以為你們會覺得我在某類型的角色裡是比較會玩的\n原來你們的真心話是這樣\n謝謝你們讓我認清了現實，如果連玩個遊戲都會讓我想死，要玩得那麼卑微\n永遠笑嘻嘻地面對你們惡意的玩笑\n那我最多不玩，或者自己玩算了\n這樣我又不會無意中讓我難控制的情緒傷害你們，我自己又能快樂點"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1798379429439447491",
+        "created_at": "2024-06-05T15:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798379429439447491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798379429439447491",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我至少以為你們會覺得我在某類型的角色裡是比較會玩的\n原來你們的真心話是這樣\n謝謝你們讓我認清了現實，如果連玩個遊戲都會讓我想死，要玩得那麼卑微\n永遠笑嘻嘻地面對你們惡意的玩笑\n那我最多不玩，或者自己玩算了\n這樣我又不會無意中讓我難控制的情緒傷害你們，我自己又能快樂點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 224,
+          "like_count": 6331,
+          "listed_count": 15,
+          "tweet_count": 8962
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

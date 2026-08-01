@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1797218312356782240",
+    "created_at": "2024-06-02T10:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T11:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797218312356782240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673910841010446336",
+          "start": 3,
+          "username": "bluebb07_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797218312356782240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797190391634256359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluebb07_: 好想要钱 想要很多钱，可以在外面很舒服旅游的很多钱，可以想买什么书就买的很多钱，可以养猫猫酱的很多钱，可以晒太阳的阳台的很多钱，可以趴在地上的地毯的很多钱，可以吃很贵但好好吃的千层蛋糕吃很多的很多钱，可以想做发型就做的很多钱，我想要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1797218312356782240",
+        "created_at": "2024-06-02T10:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T11:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797218312356782240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673910841010446336",
+              "start": 3,
+              "username": "bluebb07_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797218312356782240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797190391634256359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluebb07_: 好想要钱 想要很多钱，可以在外面很舒服旅游的很多钱，可以想买什么书就买的很多钱，可以养猫猫酱的很多钱，可以晒太阳的阳台的很多钱，可以趴在地上的地毯的很多钱，可以吃很贵但好好吃的千层蛋糕吃很多的很多钱，可以想做发型就做的很多钱，我想要钱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1673910841010446336",
+        "conversation_id": "1797190391634256359",
+        "created_at": "2024-06-02T08:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T09:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797190391634256359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797190391634256359",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好想要钱 想要很多钱，可以在外面很舒服旅游的很多钱，可以想买什么书就买的很多钱，可以养猫猫酱的很多钱，可以晒太阳的阳台的很多钱，可以趴在地上的地毯的很多钱，可以吃很贵但好好吃的千层蛋糕吃很多的很多钱，可以想做发型就做的很多钱，我想要钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7532,
+          "following_count": 222,
+          "like_count": 6325,
+          "listed_count": 15,
+          "tweet_count": 8895
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T04:27:06.000Z",
+        "description": "我只是想和我的小手机说说话",
+        "id": "1673910841010446336",
+        "location": "🚪188",
+        "name": "我眼底的蓝色不是忧郁",
+        "pinned_tweet_id": "1793655822679245000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756044816746713088/NLRy2oCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18403,
+          "following_count": 87,
+          "like_count": 654,
+          "listed_count": 25,
+          "tweet_count": 2436
+        },
+        "username": "bluebb07_",
+        "verified": false
+      }
+    ]
+  }
+}

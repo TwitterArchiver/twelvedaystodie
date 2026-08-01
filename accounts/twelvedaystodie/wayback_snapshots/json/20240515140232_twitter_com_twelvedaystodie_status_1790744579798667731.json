@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1790738396689903961",
+    "created_at": "2024-05-15T14:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T15:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790744579798667731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488047732975570944",
+          "start": 0,
+          "username": "Dusk73256265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790744579798667731",
+    "in_reply_to_user_id": "1488047732975570944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790738396689903961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dusk73256265 怎麼了？？？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1790738396689903961",
+        "created_at": "2024-05-15T14:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790744579798667731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488047732975570944",
+              "start": 0,
+              "username": "Dusk73256265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790744579798667731",
+        "in_reply_to_user_id": "1488047732975570944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790738396689903961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dusk73256265 怎麼了？？？？？？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1488047732975570944",
+        "conversation_id": "1790738396689903961",
+        "created_at": "2024-05-15T13:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T14:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790738396689903961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790738396689903961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸報警了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 225,
+          "like_count": 6172,
+          "listed_count": 15,
+          "tweet_count": 8561
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T07:13:46.000Z",
+        "description": "無人在意的一生",
+        "id": "1488047732975570944",
+        "name": "咿蕾♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573507678051397633/27_Py0ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 378,
+          "like_count": 12436,
+          "listed_count": 6,
+          "tweet_count": 5074
+        },
+        "username": "Dusk73256265",
+        "verified": false
+      }
+    ]
+  }
+}

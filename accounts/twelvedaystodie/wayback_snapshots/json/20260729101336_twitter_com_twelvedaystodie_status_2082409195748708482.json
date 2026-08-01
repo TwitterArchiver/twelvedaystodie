@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2082345562675020190",
+    "created_at": "2026-07-29T10:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082409195748708482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655561646247673859",
+          "start": 0,
+          "username": "ooooood909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082409195748708482",
+    "in_reply_to_user_id": "1655561646247673859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082405452202348841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooooood909 我覺得好厲害啊就算是這樣，我一個人照顧不了自己"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082405452202348841].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082405452202348841",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082405452202348841"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2082345562675020190",
+        "created_at": "2026-07-29T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082409195748708482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655561646247673859",
+              "start": 0,
+              "username": "ooooood909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082409195748708482",
+        "in_reply_to_user_id": "1655561646247673859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082405452202348841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooooood909 我覺得好厲害啊就算是這樣，我一個人照顧不了自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8705,
+          "following_count": 214,
+          "like_count": 6994,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11774
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T13:14:34.000Z",
+        "description": "為了活下去",
+        "id": "1655561646247673859",
+        "location": "遊走在世界最邊緣",
+        "name": "不安病",
+        "pinned_tweet_id": "2028218093127004580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904648519342055424/XAOpMJfA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 99,
+          "like_count": 11446,
+          "listed_count": 0,
+          "media_count": 915,
+          "tweet_count": 9379
+        },
+        "url": "",
+        "username": "ooooood909",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857645325353365507",
+        "3_1857645325336588289",
+        "3_1857645325340782593",
+        "3_1857645325361754112"
+      ],
+      "media_source_tweet_id": [
+        "1857645550180642976",
+        "1857645550180642976",
+        "1857645550180642976",
+        "1857645550180642976"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1857768495460876398",
+    "created_at": "2024-11-16T12:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T13:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857768495460876398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808231938530201603",
+          "start": 3,
+          "username": "tsuk1m10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPHnSfRrT9",
+          "end": 47,
+          "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+          "media_key": "3_1857645325353365507",
+          "start": 24,
+          "url": "https://t.co/dPHnSfRrT9"
+        },
+        {
+          "display_url": "pic.x.com/dPHnSfRrT9",
+          "end": 47,
+          "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+          "media_key": "3_1857645325336588289",
+          "start": 24,
+          "url": "https://t.co/dPHnSfRrT9"
+        },
+        {
+          "display_url": "pic.x.com/dPHnSfRrT9",
+          "end": 47,
+          "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+          "media_key": "3_1857645325340782593",
+          "start": 24,
+          "url": "https://t.co/dPHnSfRrT9"
+        },
+        {
+          "display_url": "pic.x.com/dPHnSfRrT9",
+          "end": 47,
+          "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+          "media_key": "3_1857645325361754112",
+          "start": 24,
+          "url": "https://t.co/dPHnSfRrT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857768495460876398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857645550180642976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuk1m10: 請幫我轉推尋找互關 https://t.co/dPHnSfRrT9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857768495460876398].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857768495460876398",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857768495460876398"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1857645325353365507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GceulMhaMAMzRH1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1857645325336588289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GceulMdaMAEloxB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1857645325340782593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GceulMeaMAEpW10.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1857645325361754112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GceulMjaMAAZ__U.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857645325353365507",
+            "3_1857645325336588289",
+            "3_1857645325340782593",
+            "3_1857645325361754112"
+          ]
+        },
+        "author_id": "1808231938530201603",
+        "conversation_id": "1857645550180642976",
+        "created_at": "2024-11-16T04:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T05:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857645550180642976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPHnSfRrT9",
+              "end": 33,
+              "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+              "media_key": "3_1857645325353365507",
+              "start": 10,
+              "url": "https://t.co/dPHnSfRrT9"
+            },
+            {
+              "display_url": "pic.x.com/dPHnSfRrT9",
+              "end": 33,
+              "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+              "media_key": "3_1857645325336588289",
+              "start": 10,
+              "url": "https://t.co/dPHnSfRrT9"
+            },
+            {
+              "display_url": "pic.x.com/dPHnSfRrT9",
+              "end": 33,
+              "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+              "media_key": "3_1857645325340782593",
+              "start": 10,
+              "url": "https://t.co/dPHnSfRrT9"
+            },
+            {
+              "display_url": "pic.x.com/dPHnSfRrT9",
+              "end": 33,
+              "expanded_url": "https://x.com/tsuk1m10/status/1857645550180642976/photo/1",
+              "media_key": "3_1857645325361754112",
+              "start": 10,
+              "url": "https://t.co/dPHnSfRrT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857645550180642976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1460,
+          "like_count": 64,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "請幫我轉推尋找互關 https://t.co/dPHnSfRrT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7761,
+          "following_count": 232,
+          "like_count": 6669,
+          "listed_count": 14,
+          "tweet_count": 10050
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T20:11:14.000Z",
+        "description": "",
+        "id": "1808231938530201603",
+        "name": "悸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831106532211314688/9Hz-V8Zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 20,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "tsuk1m10",
+        "verified": false
+      }
+    ]
+  }
+}

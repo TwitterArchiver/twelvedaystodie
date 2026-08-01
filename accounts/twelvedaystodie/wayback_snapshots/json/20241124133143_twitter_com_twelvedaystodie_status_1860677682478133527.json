@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1860669288006475890",
+    "created_at": "2024-11-24T13:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T14:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860677682478133527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815202149338607616",
+          "start": 0,
+          "username": "xinbao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860677682478133527",
+    "in_reply_to_user_id": "1815202149338607616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860675715408273790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbao0w0 好想你😿😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1860669288006475890",
+        "created_at": "2024-11-24T13:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860677682478133527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815202149338607616",
+              "start": 0,
+              "username": "xinbao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860677682478133527",
+        "in_reply_to_user_id": "1815202149338607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860675715408273790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbao0w0 好想你😿😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815202149338607616",
+        "conversation_id": "1860669288006475890",
+        "created_at": "2024-11-24T13:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860675715408273790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860675715408273790",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860669660087394729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 是的寶寶剛出院！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7801,
+          "following_count": 235,
+          "like_count": 6701,
+          "listed_count": 14,
+          "tweet_count": 10092
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T01:48:33.000Z",
+        "description": "hk 07\n私信我前請先過門檻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iY7QHHkmC5c1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iY7QHHkmC5c1YzU1",
+                "start": 0,
+                "url": "https://t.co/IcmqQbR2OY"
+              }
+            ]
+          }
+        },
+        "id": "1815202149338607616",
+        "location": "🚪388/520/1314/2888",
+        "name": "小馨9.0",
+        "pinned_tweet_id": "1815404556563763286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815403923836162048/kUhiga2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 51,
+          "like_count": 127,
+          "listed_count": 6,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/IcmqQbR2OY",
+        "username": "xinbao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

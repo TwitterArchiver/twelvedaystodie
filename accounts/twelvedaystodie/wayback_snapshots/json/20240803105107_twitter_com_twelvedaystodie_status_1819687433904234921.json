@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1819335727530102987",
+    "created_at": "2024-08-03T10:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T11:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819687433904234921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812797664347717632",
+          "start": 0,
+          "username": "usagi_qwq_lml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819687433904234921",
+    "in_reply_to_user_id": "1812797664347717632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819335727530102987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usagi_qwq_lml 這裡也是香港的請問可以互fol嗎~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1819335727530102987",
+        "created_at": "2024-08-03T10:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T11:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819687433904234921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812797664347717632",
+              "start": 0,
+              "username": "usagi_qwq_lml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819687433904234921",
+        "in_reply_to_user_id": "1812797664347717632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819335727530102987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usagi_qwq_lml 這裡也是香港的請問可以互fol嗎~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819335719590285313",
+            "3_1819335719606956032",
+            "3_1819335719586091010",
+            "3_1819335719590203392"
+          ]
+        },
+        "author_id": "1812797664347717632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1819335727530102987",
+        "created_at": "2024-08-02T11:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T12:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819335727530102987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/O6zot1ZOqf",
+              "end": 125,
+              "expanded_url": "https://twitter.com/usagi_qwq_lml/status/1819335727530102987/photo/1",
+              "media_key": "3_1819335719590285313",
+              "start": 102,
+              "url": "https://t.co/O6zot1ZOqf"
+            },
+            {
+              "display_url": "pic.twitter.com/O6zot1ZOqf",
+              "end": 125,
+              "expanded_url": "https://twitter.com/usagi_qwq_lml/status/1819335727530102987/photo/1",
+              "media_key": "3_1819335719606956032",
+              "start": 102,
+              "url": "https://t.co/O6zot1ZOqf"
+            },
+            {
+              "display_url": "pic.twitter.com/O6zot1ZOqf",
+              "end": 125,
+              "expanded_url": "https://twitter.com/usagi_qwq_lml/status/1819335727530102987/photo/1",
+              "media_key": "3_1819335719586091010",
+              "start": 102,
+              "url": "https://t.co/O6zot1ZOqf"
+            },
+            {
+              "display_url": "pic.twitter.com/O6zot1ZOqf",
+              "end": 125,
+              "expanded_url": "https://twitter.com/usagi_qwq_lml/status/1819335727530102987/photo/1",
+              "media_key": "3_1819335719590203392",
+              "start": 102,
+              "url": "https://t.co/O6zot1ZOqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819335727530102987",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我叫春兔！\n10年的，是香港初二升初三生！\n還未確診任何病症，但是有傾向\n很希望跟同樣有心理問題的人交朋友!TT\n會給喜歡的寶寶畫無償！🥹🥹\n不怎麼會使用推特！請見諒！\n正在被父母親強迫戒割中！ https://t.co/O6zot1ZOqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7580,
+          "following_count": 228,
+          "like_count": 6604,
+          "listed_count": 15,
+          "tweet_count": 9550
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "🪡",
+        "id": "1812797664347717632",
+        "name": "うさぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812798064085860352/yVhF3Enm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 73,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "usagi_qwq_lml",
+        "verified": false
+      }
+    ]
+  }
+}

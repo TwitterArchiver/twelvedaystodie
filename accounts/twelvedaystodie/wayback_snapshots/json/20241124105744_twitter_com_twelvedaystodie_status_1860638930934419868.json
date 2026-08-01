@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1860638930934419868",
+    "created_at": "2024-11-24T10:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T11:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860638930934419868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702221879434436608",
+          "start": 3,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860638930934419868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860467537722671520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964zhajipai: 你们好我是像素炸鸡排五号机\n又被封力于是转生一下\n08年餐券女 166 43kg  \n精神疾病/自残/od/厌食症/社恐\n门槛相关请看图\n支持口令红包或赞赏码\n\n很需要钱...如果可以给我打一点我会非常感谢😿😿\n\n求转发助力我找回前世互关TT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1860638930934419868",
+        "created_at": "2024-11-24T10:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860638930934419868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702221879434436608",
+              "start": 3,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860638930934419868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860467537722671520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964zhajipai: 你们好我是像素炸鸡排五号机\n又被封力于是转生一下\n08年餐券女 166 43kg  \n精神疾病/自残/od/厌食症/社恐\n门槛相关请看图\n支持口令红包或赞赏码\n\n很需要钱...如果可以给我打一点我会非常感谢😿😿\n\n求转发助力我找回前世互关TT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860467534035845124",
+            "3_1860467534350417921",
+            "3_1860467534627311616",
+            "3_1860467534593708032"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1860467537722671520",
+        "created_at": "2024-11-23T23:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T00:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860467537722671520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMMfGMkGIO",
+              "end": 145,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860467537722671520/photo/1",
+              "media_key": "3_1860467534035845124",
+              "start": 122,
+              "url": "https://t.co/HMMfGMkGIO"
+            },
+            {
+              "display_url": "pic.x.com/HMMfGMkGIO",
+              "end": 145,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860467537722671520/photo/1",
+              "media_key": "3_1860467534350417921",
+              "start": 122,
+              "url": "https://t.co/HMMfGMkGIO"
+            },
+            {
+              "display_url": "pic.x.com/HMMfGMkGIO",
+              "end": 145,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860467537722671520/photo/1",
+              "media_key": "3_1860467534627311616",
+              "start": 122,
+              "url": "https://t.co/HMMfGMkGIO"
+            },
+            {
+              "display_url": "pic.x.com/HMMfGMkGIO",
+              "end": 145,
+              "expanded_url": "https://x.com/8964zhajipai/status/1860467537722671520/photo/1",
+              "media_key": "3_1860467534593708032",
+              "start": 122,
+              "url": "https://t.co/HMMfGMkGIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860467537722671520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1818,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是像素炸鸡排五号机\n又被封力于是转生一下\n08年餐券女 166 43kg  \n精神疾病/自残/od/厌食症/社恐\n门槛相关请看图\n支持口令红包或赞赏码\n\n很需要钱...如果可以给我打一点我会非常感谢😿😿\n\n求转发助力我找回前世互关TT https://t.co/HMMfGMkGIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7806,
+          "following_count": 235,
+          "like_count": 6695,
+          "listed_count": 14,
+          "tweet_count": 10088
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "永远怀念\n🕯️@mskcnmb8964🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "mskcnmb8964"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "距你0.6km",
+        "name": "像素炸鸡排5.0",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 50,
+          "like_count": 74,
+          "listed_count": 0,
+          "tweet_count": 127
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

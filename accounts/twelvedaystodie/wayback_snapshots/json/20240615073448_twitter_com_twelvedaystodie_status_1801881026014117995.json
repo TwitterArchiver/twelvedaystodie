@@ -1,0 +1,263 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801677388612517888"
+      ],
+      "media_source_tweet_id": [
+        "1801677397902737803"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1801881026014117995",
+    "created_at": "2024-06-15T07:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T08:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801881026014117995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1135334607199490048",
+          "start": 3,
+          "username": "CPyTQBzKGNBmcXQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/6P6zLrH3Vk",
+          "end": 44,
+          "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1801677397902737803/photo/1",
+          "media_key": "3_1801677388612517888",
+          "start": 21,
+          "url": "https://t.co/6P6zLrH3Vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801881026014117995",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801677397902737803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPyTQBzKGNBmcXQ: https://t.co/6P6zLrH3Vk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1801677388612517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQDYCgwaQAAsI1r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801677388612517888"
+          ],
+          "media_source_tweet_id": [
+            "1801677397902737803"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1801881026014117995",
+        "created_at": "2024-06-15T07:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T08:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801881026014117995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1135334607199490048",
+              "start": 3,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6P6zLrH3Vk",
+              "end": 44,
+              "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1801677397902737803/photo/1",
+              "media_key": "3_1801677388612517888",
+              "start": 21,
+              "url": "https://t.co/6P6zLrH3Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801881026014117995",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801677397902737803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPyTQBzKGNBmcXQ: https://t.co/6P6zLrH3Vk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801677388612517888"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1801677397902737803",
+        "created_at": "2024-06-14T18:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T19:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801677397902737803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6P6zLrH3Vk",
+              "end": 23,
+              "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1801677397902737803/photo/1",
+              "media_key": "3_1801677388612517888",
+              "start": 0,
+              "url": "https://t.co/6P6zLrH3Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801677397902737803",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 10046,
+          "like_count": 2070,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6P6zLrH3Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7552,
+          "following_count": 227,
+          "like_count": 6465,
+          "listed_count": 15,
+          "tweet_count": 9116
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 383,
+          "like_count": 71355,
+          "listed_count": 30,
+          "tweet_count": 8077
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

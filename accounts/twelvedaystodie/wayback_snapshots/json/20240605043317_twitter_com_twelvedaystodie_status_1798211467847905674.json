@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1798211467847905674",
+    "created_at": "2024-06-05T04:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T05:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798211467847905674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798211467847905674",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我醒了，但氣喘醒的，謝謝昨天大家關心，也很想道歉我沒有去醫院，我最後不知道怎麼睡著的，可能撐不下去了或者什麼，但現在我又要出門買這幾天午餐晚餐的東西了，我沒心力去煮所以應該只買冷凍的什麼的。。因為我發現可能我晚餐吃不飽也有機會氣喘那樣。。最近每晚都在氣喘。。好煩。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1798211467847905674",
+        "created_at": "2024-06-05T04:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T05:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798211467847905674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798211467847905674",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我醒了，但氣喘醒的，謝謝昨天大家關心，也很想道歉我沒有去醫院，我最後不知道怎麼睡著的，可能撐不下去了或者什麼，但現在我又要出門買這幾天午餐晚餐的東西了，我沒心力去煮所以應該只買冷凍的什麼的。。因為我發現可能我晚餐吃不飽也有機會氣喘那樣。。最近每晚都在氣喘。。好煩。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7542,
+          "following_count": 223,
+          "like_count": 6324,
+          "listed_count": 15,
+          "tweet_count": 8931
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

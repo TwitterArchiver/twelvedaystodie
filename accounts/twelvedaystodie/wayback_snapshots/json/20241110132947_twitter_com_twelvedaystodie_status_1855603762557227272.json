@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855101465242537984"
+      ],
+      "media_source_tweet_id": [
+        "1855101483273838653"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1855603762557227272",
+    "created_at": "2024-11-10T13:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T14:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855603762557227272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1240967112660848641",
+          "start": 3,
+          "username": "ilovecatlovecar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZqDvu377C",
+          "end": 101,
+          "expanded_url": "https://x.com/ilovecatlovecar/status/1855101483273838653/video/1",
+          "media_key": "7_1855101465242537984",
+          "start": 78,
+          "url": "https://t.co/EZqDvu377C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855603762557227272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855101483273838653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilovecatlovecar: 猫猫尾巴竖起来是友好的意思诶 它非常想和小狗交朋友 狗狗也在疯狂摇尾巴！好友爱的一幕  我将原谅这个世界五分钟😼 https://t.co/EZqDvu377C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4992,
+        "height": 576,
+        "media_key": "7_1855101465242537984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855101465242537984/pu/img/FWyPj1UCdVf9-Quy.jpg",
+        "public_metrics": {
+          "view_count": 33379
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855101465242537984/pu/vid/avc1/480x270/qNJ9fcSGkbIEH6L4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855101465242537984/pu/vid/avc1/640x360/2zkJwo6mnQAHu4Lw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855101465242537984/pu/vid/avc1/1024x576/H1USNw1SRgZxWfME.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855101465242537984/pu/pl/Ggf_BWe5DchLtA_6.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855101465242537984"
+          ],
+          "media_source_tweet_id": [
+            "1855101483273838653"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "1855603762557227272",
+        "created_at": "2024-11-10T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855603762557227272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1240967112660848641",
+              "start": 3,
+              "username": "ilovecatlovecar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZqDvu377C",
+              "end": 101,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/1855101483273838653/video/1",
+              "media_key": "7_1855101465242537984",
+              "start": 78,
+              "url": "https://t.co/EZqDvu377C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855603762557227272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855101483273838653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilovecatlovecar: 猫猫尾巴竖起来是友好的意思诶 它非常想和小狗交朋友 狗狗也在疯狂摇尾巴！好友爱的一幕  我将原谅这个世界五分钟😼 https://t.co/EZqDvu377C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855101465242537984"
+          ]
+        },
+        "author_id": "1240967112660848641",
+        "conversation_id": "1855101483273838653",
+        "created_at": "2024-11-09T04:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855101483273838653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZqDvu377C",
+              "end": 80,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/1855101483273838653/video/1",
+              "media_key": "7_1855101465242537984",
+              "start": 57,
+              "url": "https://t.co/EZqDvu377C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855101483273838653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 85256,
+          "like_count": 2221,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫尾巴竖起来是友好的意思诶 它非常想和小狗交朋友 狗狗也在疯狂摇尾巴！好友爱的一幕  我将原谅这个世界五分钟😼 https://t.co/EZqDvu377C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7766,
+          "following_count": 233,
+          "like_count": 6684,
+          "listed_count": 14,
+          "tweet_count": 10025
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T11:43:24.000Z",
+        "description": "幸福生活的奥秘,养只猫😼\n\n男的,80%是猫和乱七八糟",
+        "id": "1240967112660848641",
+        "location": "喵星 大凉山",
+        "name": "阿米爱猫咪",
+        "pinned_tweet_id": "1849287614429319319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812072310062354432/7plaUVX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13267,
+          "following_count": 598,
+          "like_count": 116506,
+          "listed_count": 45,
+          "tweet_count": 29953
+        },
+        "username": "ilovecatlovecar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1805183491992383544",
+    "created_at": "2024-06-24T10:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T11:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805183491992383544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1388511722663780356",
+          "start": 3,
+          "username": "__yrk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805183491992383544",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803706757312880743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__yrk4: 小时候天天幻想自己能黑化然后报复所有人，现在是真的成精神病每天发疯报复所有人了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1805183491992383544",
+        "created_at": "2024-06-24T10:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T11:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805183491992383544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1388511722663780356",
+              "start": 3,
+              "username": "__yrk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805183491992383544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803706757312880743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__yrk4: 小时候天天幻想自己能黑化然后报复所有人，现在是真的成精神病每天发疯报复所有人了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1388511722663780356",
+        "conversation_id": "1803706757312880743",
+        "created_at": "2024-06-20T08:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T09:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803706757312880743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803706757312880743",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1290,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "小时候天天幻想自己能黑化然后报复所有人，现在是真的成精神病每天发疯报复所有人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7530,
+          "following_count": 232,
+          "like_count": 6498,
+          "listed_count": 15,
+          "tweet_count": 9257
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T15:13:24.000Z",
+        "description": "網路只是一堆人造數據，差不多也該回到現實了猫眼螺 💍彼氏@csn_gp🤍サブ垢 @1a_nnnu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "csn_gp"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "1a_nnnu"
+              }
+            ]
+          }
+        },
+        "id": "1388511722663780356",
+        "location": "🚪88",
+        "name": "幸せや死んじゃうね",
+        "pinned_tweet_id": "1759167332688212454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792630965962940418/SXBba2Hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 381,
+          "like_count": 31114,
+          "listed_count": 5,
+          "tweet_count": 12608
+        },
+        "username": "__yrk4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1837078049118150774",
+    "created_at": "2024-09-20T10:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T11:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837078049118150774"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837078049118150774",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全家只有我還沒受浸，連我朋友都受浸了，這是因為我還沒能原諒上帝，我知道我不夠虔誠，所以才原諒不了上帝，人說神不會給人類受不了的苦難，但有沒有想過神高估了人所能承受的苦難\n而神既然全知全能，為什麼要讓一些人一直活在苦難之中，一生都在痛苦渡過，甚至有人自殺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1837078049118150774",
+        "created_at": "2024-09-20T10:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837078049118150774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837078049118150774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全家只有我還沒受浸，連我朋友都受浸了，這是因為我還沒能原諒上帝，我知道我不夠虔誠，所以才原諒不了上帝，人說神不會給人類受不了的苦難，但有沒有想過神高估了人所能承受的苦難\n而神既然全知全能，為什麼要讓一些人一直活在苦難之中，一生都在痛苦渡過，甚至有人自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7590,
+          "following_count": 229,
+          "like_count": 6644,
+          "listed_count": 16,
+          "tweet_count": 9784
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

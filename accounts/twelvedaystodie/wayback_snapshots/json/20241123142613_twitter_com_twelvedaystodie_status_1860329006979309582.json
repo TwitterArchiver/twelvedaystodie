@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1860329006979309582",
+    "created_at": "2024-11-23T14:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860329006979309582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575728033742192641",
+          "start": 3,
+          "username": "kokocat_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860329006979309582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859828227595960445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokocat_9: 我住院期间遇到过几个把自残吞药当时尚单品的小女孩。因为我浑身是增生的大伤疤她们叫我祖师奶还问我怎么割...她们会讨论自己自杀的经历基本上都说自己吞药进过医院甚至icu之类的。那个进了icu的就只是吞了14t舍曲林我觉得很离谱...我上次吞各种药30…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1860329006979309582",
+        "created_at": "2024-11-23T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860329006979309582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575728033742192641",
+              "start": 3,
+              "username": "kokocat_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860329006979309582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859828227595960445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokocat_9: 我住院期间遇到过几个把自残吞药当时尚单品的小女孩。因为我浑身是增生的大伤疤她们叫我祖师奶还问我怎么割...她们会讨论自己自杀的经历基本上都说自己吞药进过医院甚至icu之类的。那个进了icu的就只是吞了14t舍曲林我觉得很离谱...我上次吞各种药30…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575728033742192641",
+        "conversation_id": "1859828227595960445",
+        "created_at": "2024-11-22T05:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T06:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859828227595960445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859828227595960445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15518,
+          "like_count": 187,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我住院期间遇到过几个把自残吞药当时尚单品的小女孩。因为我浑身是增生的大伤疤她们叫我祖师奶还问我怎么割...她们会讨论自己自杀的经历基本上都说自己吞药进过医院甚至icu之类的。那个进了icu的就只是吞了14t舍曲林我觉得很离谱...我上次吞各种药300t也只是洗了个胃。当时特别讨厌这些女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7798,
+          "following_count": 233,
+          "like_count": 6690,
+          "listed_count": 14,
+          "tweet_count": 10083
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T06:03:42.000Z",
+        "description": "可以叫我99 花枝鼠激推🐭i have 5 pet rats ⚠️❗ sh🔪/od💊/ed/发疯/血bloody🩸防炸机@KBDYD555 ｜接推广｜互fo可私信 (pls dm for fb) ❗Do Not Report❗｜聊天🚪99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1575728033742192641",
+        "location": "聊无关话题先给钱",
+        "name": "不安定貓貓",
+        "pinned_tweet_id": "1853661017911538048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806116619065946113/vgyL40uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15705,
+          "following_count": 386,
+          "like_count": 12192,
+          "listed_count": 11,
+          "tweet_count": 6803
+        },
+        "username": "kokocat_9",
+        "verified": false
+      }
+    ]
+  }
+}

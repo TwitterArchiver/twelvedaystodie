@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1792152943145406732",
+    "created_at": "2024-05-19T11:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T12:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792152943145406732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1435889042155995136",
+          "start": 3,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792152943145406732",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792149481926037798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluefluoxetine: 都来推特了我在我自己账号想发什么怎么发还要你管？你也想当皇帝？傻逼去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1792152943145406732",
+        "created_at": "2024-05-19T11:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T12:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792152943145406732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1435889042155995136",
+              "start": 3,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792152943145406732",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792149481926037798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluefluoxetine: 都来推特了我在我自己账号想发什么怎么发还要你管？你也想当皇帝？傻逼去死"
+      },
+      {
+        "attachments": {},
+        "author_id": "1435889042155995136",
+        "conversation_id": "1792149481926037798",
+        "created_at": "2024-05-19T11:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T12:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792149481926037798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792149481926037798",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "都来推特了我在我自己账号想发什么怎么发还要你管？你也想当皇帝？傻逼去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7497,
+          "following_count": 224,
+          "like_count": 6197,
+          "listed_count": 15,
+          "tweet_count": 8639
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n \n我的猫@nagaseruna7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nagaseruna7777"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 201,
+          "like_count": 37794,
+          "listed_count": 8,
+          "tweet_count": 9850
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

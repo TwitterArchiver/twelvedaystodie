@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1820712096692387886",
+    "created_at": "2024-08-06T11:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T12:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820784049214148880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1575728033742192641",
+          "start": 0,
+          "username": "kokocat_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820784049214148880",
+    "in_reply_to_user_id": "1575728033742192641",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820712096692387886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokocat_9 抱抱寶寶不要道歉，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1820712096692387886",
+        "created_at": "2024-08-06T11:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820784049214148880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1575728033742192641",
+              "start": 0,
+              "username": "kokocat_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820784049214148880",
+        "in_reply_to_user_id": "1575728033742192641",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820712096692387886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokocat_9 抱抱寶寶不要道歉，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820712090014777344",
+            "3_1820712094742044672"
+          ]
+        },
+        "author_id": "1575728033742192641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1820712096692387886",
+        "created_at": "2024-08-06T06:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T07:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820712096692387886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RvQtEOXWMW",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kokocat_9/status/1820712096692387886/photo/1",
+              "media_key": "3_1820712090014777344",
+              "start": 12,
+              "url": "https://t.co/RvQtEOXWMW"
+            },
+            {
+              "display_url": "pic.twitter.com/RvQtEOXWMW",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kokocat_9/status/1820712096692387886/photo/1",
+              "media_key": "3_1820712094742044672",
+              "start": 12,
+              "url": "https://t.co/RvQtEOXWMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820712096692387886",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1061,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈对不起我没忍住 https://t.co/RvQtEOXWMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7564,
+          "following_count": 226,
+          "like_count": 6597,
+          "listed_count": 15,
+          "tweet_count": 9571
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T06:03:42.000Z",
+        "description": "可以叫我99  我有5只🐭 i have 5 pet rats ⚠️❗ sh🔪/od💊/ed/发疯/血bloody🩸防炸机@KBDYD555 ｜接推广｜互fo可私信 (pls dm for fb)｜🚪99 ｜购买优米 od交流群：https://t.co/1dTgPsWlph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "KBDYD555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/youmeishafen999",
+                "end": 138,
+                "expanded_url": "https://t.me/youmeishafen999",
+                "start": 115,
+                "url": "https://t.co/1dTgPsWlph"
+              }
+            ]
+          }
+        },
+        "id": "1575728033742192641",
+        "location": "聊无关话题先给钱",
+        "name": "不安定貓貓（推老鼠版）",
+        "pinned_tweet_id": "1792563252058263975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806116619065946113/vgyL40uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13512,
+          "following_count": 373,
+          "like_count": 11600,
+          "listed_count": 9,
+          "tweet_count": 6247
+        },
+        "username": "kokocat_9",
+        "verified": false
+      }
+    ]
+  }
+}

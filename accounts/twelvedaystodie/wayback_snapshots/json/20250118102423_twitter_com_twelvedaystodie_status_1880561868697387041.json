@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880148300697071618"
+      ],
+      "media_source_tweet_id": [
+        "1880148314110456108"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1880561868697387041",
+    "created_at": "2025-01-18T10:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T11:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880561868697387041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880145046403698688",
+          "start": 3,
+          "username": "tsuk1m0110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SqDxs7Q0Y",
+          "end": 52,
+          "expanded_url": "https://x.com/tsuk1m0110/status/1880148314110456108/photo/1",
+          "media_key": "3_1880148300697071618",
+          "start": 29,
+          "url": "https://t.co/7SqDxs7Q0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880561868697387041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880148314110456108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuk1m0110: 不要再封我號💩💩💩💩💩💩 https://t.co/7SqDxs7Q0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880148300697071618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gheg6wQacAIKk6u.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880148300697071618"
+          ],
+          "media_source_tweet_id": [
+            "1880148314110456108"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "1880561868697387041",
+        "created_at": "2025-01-18T10:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T11:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880561868697387041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880145046403698688",
+              "start": 3,
+              "username": "tsuk1m0110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SqDxs7Q0Y",
+              "end": 52,
+              "expanded_url": "https://x.com/tsuk1m0110/status/1880148314110456108/photo/1",
+              "media_key": "3_1880148300697071618",
+              "start": 29,
+              "url": "https://t.co/7SqDxs7Q0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880561868697387041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880148314110456108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsuk1m0110: 不要再封我號💩💩💩💩💩💩 https://t.co/7SqDxs7Q0Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880148300697071618"
+          ]
+        },
+        "author_id": "1880145046403698688",
+        "conversation_id": "1880148314110456108",
+        "created_at": "2025-01-17T07:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880148314110456108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SqDxs7Q0Y",
+              "end": 36,
+              "expanded_url": "https://x.com/tsuk1m0110/status/1880148314110456108/photo/1",
+              "media_key": "3_1880148300697071618",
+              "start": 13,
+              "url": "https://t.co/7SqDxs7Q0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880148314110456108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1487,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "不要再封我號💩💩💩💩💩💩 https://t.co/7SqDxs7Q0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 239,
+          "like_count": 6753,
+          "listed_count": 15,
+          "media_count": 761,
+          "tweet_count": 10182
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:48:13.000Z",
+        "description": "我是小烟。。",
+        "id": "1880145046403698688",
+        "name": "小烟2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880146241679773696/2Ls3rlQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "tsuk1m0110",
+        "verified": false
+      }
+    ]
+  }
+}

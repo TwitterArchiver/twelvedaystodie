@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1793947916593422755",
+    "created_at": "2024-05-24T10:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T11:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793947916593422755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710793552312274945",
+          "start": 3,
+          "username": "anesTHEtic01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793947916593422755",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793577842376392936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anesTHEtic01: 讨厌死一些健全人，遇到自己不能理解的事情不去思考他人有心理疾病或者成长过程中是否收到严重的心理创伤，开口闭口就对别人评头论足说别人什么心理觉得别人有病，健全人们认为自己所理解的世界就完全是正确的吗？天啊这礼貌吗感觉健全人的自大自恋是比焦虑抑郁…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1793947916593422755",
+        "created_at": "2024-05-24T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793947916593422755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710793552312274945",
+              "start": 3,
+              "username": "anesTHEtic01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793947916593422755",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793577842376392936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anesTHEtic01: 讨厌死一些健全人，遇到自己不能理解的事情不去思考他人有心理疾病或者成长过程中是否收到严重的心理创伤，开口闭口就对别人评头论足说别人什么心理觉得别人有病，健全人们认为自己所理解的世界就完全是正确的吗？天啊这礼貌吗感觉健全人的自大自恋是比焦虑抑郁…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1710793552312274945",
+        "conversation_id": "1793577842376392936",
+        "created_at": "2024-05-23T09:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793577842376392936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793577842376392936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌死一些健全人，遇到自己不能理解的事情不去思考他人有心理疾病或者成长过程中是否收到严重的心理创伤，开口闭口就对别人评头论足说别人什么心理觉得别人有病，健全人们认为自己所理解的世界就完全是正确的吗？天啊这礼貌吗感觉健全人的自大自恋是比焦虑抑郁还要有问题的心理病症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7514,
+          "following_count": 225,
+          "like_count": 6246,
+          "listed_count": 15,
+          "tweet_count": 8734
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T23:05:50.000Z",
+        "description": "小剂热恋中/ 互fo欢迎 去你麻麻滴我就素质低，不接任何再问你死",
+        "id": "1710793552312274945",
+        "location": "United Arab Emirates",
+        "name": "埋葬她的雪地",
+        "pinned_tweet_id": "1771770963824423407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793695379051229184/hGhBYya1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 305,
+          "like_count": 2298,
+          "listed_count": 1,
+          "tweet_count": 905
+        },
+        "username": "anesTHEtic01",
+        "verified": false
+      }
+    ]
+  }
+}

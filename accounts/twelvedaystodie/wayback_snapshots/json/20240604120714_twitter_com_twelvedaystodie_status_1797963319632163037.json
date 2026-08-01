@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1797960623378338055",
+    "created_at": "2024-06-04T12:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T13:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797963319632163037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1715624766571429888",
+          "start": 0,
+          "username": "nakuoiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797963319632163037",
+    "in_reply_to_user_id": "1715624766571429888",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797960623378338055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakuoiii 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1797960623378338055",
+        "created_at": "2024-06-04T12:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T13:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797963319632163037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuoiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797963319632163037",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797960623378338055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuoiii 抱抱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1715624766571429888",
+        "conversation_id": "1797960623378338055",
+        "created_at": "2024-06-04T11:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T12:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797960623378338055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797960623378338055",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊\n我不知道\n現在滿口都是想死\n都不知道有什麼其他的說了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7525,
+          "following_count": 223,
+          "like_count": 6322,
+          "listed_count": 15,
+          "tweet_count": 8916
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "asexual+mdp @na99mt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "na99mt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nakuoiii?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nakuoiii?igsh=MWdsN3lqeDJvZmE3YQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/DmeXPOmBmC"
+              }
+            ]
+          }
+        },
+        "id": "1715624766571429888",
+        "location": "🚪250 hk",
+        "name": "水母骨",
+        "pinned_tweet_id": "1797887364607643787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797766176233385985/F2Yo4wzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12779,
+          "following_count": 35,
+          "like_count": 27575,
+          "listed_count": 25,
+          "tweet_count": 5236
+        },
+        "url": "https://t.co/DmeXPOmBmC",
+        "username": "nakuoiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1842557321949663581",
+    "created_at": "2024-10-05T13:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T14:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842557321949663581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842557321949663581",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊我媽當然也有錯，就是太不會教小孩了，唉啊我哥自己靠自己沒精神病，但我好廢得了，然後呢，又拋下我一個自己玩啊，擔心我那樣擔心我那樣，怎麼不先反省一下自己\n煩死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1842557321949663581",
+        "created_at": "2024-10-05T13:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T14:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842557321949663581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842557321949663581",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我媽當然也有錯，就是太不會教小孩了，唉啊我哥自己靠自己沒精神病，但我好廢得了，然後呢，又拋下我一個自己玩啊，擔心我那樣擔心我那樣，怎麼不先反省一下自己\n煩死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7656,
+          "following_count": 235,
+          "like_count": 6688,
+          "listed_count": 16,
+          "tweet_count": 9889
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

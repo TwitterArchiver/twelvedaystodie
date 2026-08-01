@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1798375371383230865",
+    "created_at": "2024-06-05T15:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T16:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798375371383230865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798375371383230865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "謝謝你們再次讓我覺得沒有價值\n我只想享受這個遊戲但你們硬要讓我覺得難堪\n對不起我是廢物我玩了兩年還是只會玩幾隻角色，其他我都不會玩\n真對不起要你們陪我玩，這兩年看我沒成長沒進步很辛苦吧，那個每天陪我玩的朋友更痛苦吧，真是對不起啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1798375371383230865",
+        "created_at": "2024-06-05T15:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798375371383230865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798375371383230865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝你們再次讓我覺得沒有價值\n我只想享受這個遊戲但你們硬要讓我覺得難堪\n對不起我是廢物我玩了兩年還是只會玩幾隻角色，其他我都不會玩\n真對不起要你們陪我玩，這兩年看我沒成長沒進步很辛苦吧，那個每天陪我玩的朋友更痛苦吧，真是對不起啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7529,
+          "following_count": 224,
+          "like_count": 6331,
+          "listed_count": 15,
+          "tweet_count": 8956
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

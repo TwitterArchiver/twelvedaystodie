@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1792434184058978815",
+    "created_at": "2024-05-20T05:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T06:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792434184058978815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1792434184058978815",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死耍大牌單取那麼多人，最後還是聽到有人說你的事就忍不住看下去嘛\n你這樣放出來是不是覺得自己很多同溫層很多粉絲支持你\n自己玩過什麼自己耍過什麼不知道嗎？那麼大個人顧好自己吧\n說什麼一定拯救不了部分的人，真心那句你有那麼幾個好像支持你的人就把自己當救世主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1792434184058978815",
+        "created_at": "2024-05-20T05:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T06:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792434184058978815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792434184058978815",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死耍大牌單取那麼多人，最後還是聽到有人說你的事就忍不住看下去嘛\n你這樣放出來是不是覺得自己很多同溫層很多粉絲支持你\n自己玩過什麼自己耍過什麼不知道嗎？那麼大個人顧好自己吧\n說什麼一定拯救不了部分的人，真心那句你有那麼幾個好像支持你的人就把自己當救世主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7508,
+          "following_count": 225,
+          "like_count": 6198,
+          "listed_count": 15,
+          "tweet_count": 8664
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

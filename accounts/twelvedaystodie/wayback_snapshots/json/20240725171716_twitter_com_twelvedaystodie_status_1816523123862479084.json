@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1816523123862479084",
+    "created_at": "2024-07-25T17:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T18:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816523123862479084"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816523123862479084",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的想認真問，為什麼我每到晚上我會吞嚥非常困難\n就是吃完後有種喉嚨下不去的感覺\n然後撐著頭皮吃的話，情況會越來越糟\n以為只有吃的時候會才喉嚨有問題\n剛剛吞口水才發現連口水也下不去好痛苦\n有誰知道是什麼問題，還是建議我去問醫生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1816523123862479084",
+        "created_at": "2024-07-25T17:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T18:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816523123862479084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816523123862479084",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的想認真問，為什麼我每到晚上我會吞嚥非常困難\n就是吃完後有種喉嚨下不去的感覺\n然後撐著頭皮吃的話，情況會越來越糟\n以為只有吃的時候會才喉嚨有問題\n剛剛吞口水才發現連口水也下不去好痛苦\n有誰知道是什麼問題，還是建議我去問醫生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7603,
+          "following_count": 225,
+          "like_count": 6596,
+          "listed_count": 15,
+          "tweet_count": 9478
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

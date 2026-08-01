@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1899733787459866972",
+    "created_at": "2025-03-12T11:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T12:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899786201135185976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899786201135185976",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899733787459866972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_1899733781726339072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl01zyuboAA8g0c.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1899733787459866972",
+        "created_at": "2025-03-12T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899786201135185976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899786201135185976",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899733787459866972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899733781726339072"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "conversation_id": "1899733787459866972",
+        "created_at": "2025-03-12T08:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899733787459866972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IivUOvnsmU",
+              "end": 40,
+              "expanded_url": "https://x.com/ahixnming/status/1899733787459866972/photo/1",
+              "media_key": "3_1899733781726339072",
+              "start": 17,
+              "url": "https://t.co/IivUOvnsmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899733787459866972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️入職三個月還是很不會畫拍立得 https://t.co/IivUOvnsmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8012,
+          "following_count": 234,
+          "like_count": 6836,
+          "listed_count": 15,
+          "media_count": 778,
+          "tweet_count": 10315
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "雑",
+        "id": "1690948132979515392",
+        "location": "双極性障害",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 454,
+          "like_count": 27394,
+          "listed_count": 1,
+          "media_count": 1064,
+          "tweet_count": 21522
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

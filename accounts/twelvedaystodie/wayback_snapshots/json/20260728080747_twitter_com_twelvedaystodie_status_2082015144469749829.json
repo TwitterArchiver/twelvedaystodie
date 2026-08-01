@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2082015144469749829",
+    "created_at": "2026-07-28T08:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082015144469749829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1917974642830258176",
+          "start": 3,
+          "username": "aoiro_ver1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082015144469749829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081338563938152611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoiro_ver1: よく自殺したら親が悲しむとか言われるけどじゃあ無理に生かされて俺が苦しむのはいいんですかね…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2082015144469749829",
+        "created_at": "2026-07-28T08:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082015144469749829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1917974642830258176",
+              "start": 3,
+              "username": "aoiro_ver1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082015144469749829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081338563938152611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoiro_ver1: よく自殺したら親が悲しむとか言われるけどじゃあ無理に生かされて俺が苦しむのはいいんですかね…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917974642830258176",
+        "conversation_id": "2081338563938152611",
+        "created_at": "2026-07-26T11:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081338563938152611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081338563938152611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1305,
+          "impression_count": 1847526,
+          "like_count": 29390,
+          "quote_count": 404,
+          "reply_count": 224,
+          "retweet_count": 2121
+        },
+        "reply_settings": "everyone",
+        "text": "よく自殺したら親が悲しむとか言われるけどじゃあ無理に生かされて俺が苦しむのはいいんですかね…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8702,
+          "following_count": 214,
+          "like_count": 6987,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11765
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T16:09:44.000Z",
+        "description": "08/電子工作/鍵垢:@aoiro_tar_gz/251 @kgicekgura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aoiro_tar_gz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "kgicekgura"
+              }
+            ]
+          }
+        },
+        "id": "1917974642830258176",
+        "location": "自宅",
+        "name": "あおいろ",
+        "pinned_tweet_id": "1958444026002333951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079225245362520064/686N3ELI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 288,
+          "like_count": 9339,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 8989
+        },
+        "url": "",
+        "username": "aoiro_ver1",
+        "verified": false
+      }
+    ]
+  }
+}

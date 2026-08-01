@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1840641016900255844",
+    "created_at": "2024-09-30T06:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T07:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840647165448016221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757032601276342272",
+          "start": 0,
+          "username": "Half__Milk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840647165448016221",
+    "in_reply_to_user_id": "1757032601276342272",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840643241378476251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Half__Milk 好，我慢慢想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1840641016900255844",
+        "created_at": "2024-09-30T06:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840647165448016221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757032601276342272",
+              "start": 0,
+              "username": "Half__Milk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840647165448016221",
+        "in_reply_to_user_id": "1757032601276342272",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840643241378476251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Half__Milk 好，我慢慢想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757032601276342272",
+        "conversation_id": "1840641016900255844",
+        "created_at": "2024-09-30T06:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840643241378476251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840643241378476251",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840641016900255844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 那就想想這一周內有沒有\n情緒高漲或者容易生氣的時候。\n什麽都想做又無法堅持無法集中註意力的時候。\n過分開心變成話嘮語速加快的時候。\n買了很多沒有用的東西的時候。\n和人說話很容易興奮和沖動的時候。\n如果有，講給醫生聽，讓醫生來判斷，\n慢慢說，深呼吸，說出來就會好很多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7625,
+          "following_count": 235,
+          "like_count": 6705,
+          "listed_count": 15,
+          "tweet_count": 9863
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:23:22.000Z",
+        "description": "低氣壓牛奶",
+        "id": "1757032601276342272",
+        "location": "Kowloon City District",
+        "name": "Milk",
+        "pinned_tweet_id": "1838008623433437452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832241978505097216/84YbfA75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 174,
+          "like_count": 1389,
+          "listed_count": 0,
+          "tweet_count": 541
+        },
+        "username": "Half__Milk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1863477431912534512",
+    "created_at": "2024-12-02T15:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863605969688887785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "857372011231756289",
+          "start": 0,
+          "username": "DwoD6KiaL0q03b8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863605969688887785",
+    "in_reply_to_user_id": "857372011231756289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863557722911936653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DwoD6KiaL0q03b8 我是心情不好就想吃東西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1863477431912534512",
+        "created_at": "2024-12-02T15:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863605969688887785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "857372011231756289",
+              "start": 0,
+              "username": "DwoD6KiaL0q03b8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863605969688887785",
+        "in_reply_to_user_id": "857372011231756289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863557722911936653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DwoD6KiaL0q03b8 我是心情不好就想吃東西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "857372011231756289",
+        "conversation_id": "1863477431912534512",
+        "created_at": "2024-12-02T12:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T13:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863557722911936653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863557722911936653",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863477431912534512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 當意識到飢餓也是一種自殘真的餓死也不虧自然就能享受飢餓了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了，隨便說句rip就行\n暴力魔法少女自毀中\n不聊色、一聊色封鎖\n私訊很多時候看不到\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7827,
+          "following_count": 236,
+          "like_count": 6701,
+          "listed_count": 15,
+          "media_count": 755,
+          "tweet_count": 10111
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T23:13:11.000Z",
+        "description": "一個偶爾發廢文的地方",
+        "id": "857372011231756289",
+        "location": "台灣",
+        "name": "守の小角落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454075316310507521/6rTP3XOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 289,
+          "like_count": 33518,
+          "listed_count": 40,
+          "media_count": 167,
+          "tweet_count": 1139
+        },
+        "username": "DwoD6KiaL0q03b8",
+        "verified": false
+      }
+    ]
+  }
+}

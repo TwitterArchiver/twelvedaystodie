@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1800189332009156698",
+    "created_at": "2024-06-10T16:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T17:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800205292342579631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "Uni_btt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800205292342579631",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800189332009156698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uni_btt 私私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1800189332009156698",
+        "created_at": "2024-06-10T16:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800205292342579631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "Uni_btt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800205292342579631",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800189332009156698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uni_btt 私私"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800189323754766336"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "1800189332009156698",
+        "created_at": "2024-06-10T15:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T16:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800189332009156698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DAQcjfbtSv",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Uni_btt/status/1800189332009156698/photo/1",
+              "media_key": "3_1800189323754766336",
+              "start": 37,
+              "url": "https://t.co/DAQcjfbtSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800189332009156698",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我真的挺贵的但是谁想约呢？车票太贵了我有点买不起了可以找我约稿吗？ https://t.co/DAQcjfbtSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7536,
+          "following_count": 227,
+          "like_count": 6409,
+          "listed_count": 15,
+          "tweet_count": 9075
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "20↓/地下偶像预备役/望月穗波cb向梦女",
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "1663856008614252544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723023274068910081/PCMT1QlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9153,
+          "following_count": 447,
+          "like_count": 11639,
+          "listed_count": 15,
+          "tweet_count": 10043
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

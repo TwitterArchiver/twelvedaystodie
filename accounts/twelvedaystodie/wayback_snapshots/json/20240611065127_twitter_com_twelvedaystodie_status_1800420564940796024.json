@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1800403582661112139",
+    "created_at": "2024-06-11T06:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T07:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800420564940796024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556635694717878274",
+          "start": 0,
+          "username": "etsukcals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800420564940796024",
+    "in_reply_to_user_id": "1556635694717878274",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800420013691826343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etsukcals 謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1800403582661112139",
+        "created_at": "2024-06-11T06:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T07:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800420564940796024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556635694717878274",
+              "start": 0,
+              "username": "etsukcals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800420564940796024",
+        "in_reply_to_user_id": "1556635694717878274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800420013691826343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etsukcals 謝謝你！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1556635694717878274",
+        "conversation_id": "1800403582661112139",
+        "created_at": "2024-06-11T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800420013691826343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800420013691826343",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800419818958659734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 茶咖新出嘅元氣桃桃！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7545,
+          "following_count": 227,
+          "like_count": 6418,
+          "listed_count": 15,
+          "tweet_count": 9086
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:37:51.000Z",
+        "description": "etsuko/ 悦子 162 | 41.7 | hong kong | edtwt shtwt drugtwt jiraitwt",
+        "id": "1556635694717878274",
+        "location": "bmi 15.9",
+        "name": "ETSUKO / 悅子 ｡˚🍬🍭.𖥔 ݁ ˖",
+        "pinned_tweet_id": "1793848166896599167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793822703486685184/Z3i55GDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 289,
+          "like_count": 3878,
+          "listed_count": 6,
+          "tweet_count": 7081
+        },
+        "username": "etsukcals",
+        "verified": false
+      }
+    ]
+  }
+}

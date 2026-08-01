@@ -1,0 +1,136 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1790306724219621712",
+    "created_at": "2024-05-14T09:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T10:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790306724219621712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "香港自殺率趨升，當自殺事件發生時，人們會關注在自殺事件中的死者，祈求逝者能夠安息。然而還有一群人，自殺者身旁親愛之人，還活著、承受著失去至親之痛的人，經歷了這樣一場哀痛之後，他們該怎麼活下去？其實自殺並不是個人的問題，根據研究，一個人自殺會影響到最少幾個身邊人，若不妥善處理這些感受和引來的負面思想，日後可能發展成...",
+          "display_url": "youtube.com/watch?v=NbPDDj…",
+          "end": 47,
+          "expanded_url": "https://www.youtube.com/watch?v=NbPDDjTWxco&ab_channel=RTHK%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1789632187329024000/3L7xLKk3?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1789632187329024000/3L7xLKk3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "鏗鏘集：自殺者家屬",
+          "unwound_url": "https://www.youtube.com/watch?v=NbPDDjTWxco&ab_channel=RTHK%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+          "url": "https://t.co/uiGJAcFP0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790306724219621712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我沒有什麼意思，想死就死，但無聊時可以看看喔\n\nhttps://t.co/uiGJAcFP0W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1790306724219621712",
+        "created_at": "2024-05-14T09:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T10:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790306724219621712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "香港自殺率趨升，當自殺事件發生時，人們會關注在自殺事件中的死者，祈求逝者能夠安息。然而還有一群人，自殺者身旁親愛之人，還活著、承受著失去至親之痛的人，經歷了這樣一場哀痛之後，他們該怎麼活下去？其實自殺並不是個人的問題，根據研究，一個人自殺會影響到最少幾個身邊人，若不妥善處理這些感受和引來的負面思想，日後可能發展成...",
+              "display_url": "youtube.com/watch?v=NbPDDj…",
+              "end": 47,
+              "expanded_url": "https://www.youtube.com/watch?v=NbPDDjTWxco&ab_channel=RTHK%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1789632187329024000/3L7xLKk3?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1789632187329024000/3L7xLKk3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "鏗鏘集：自殺者家屬",
+              "unwound_url": "https://www.youtube.com/watch?v=NbPDDjTWxco&ab_channel=RTHK%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+              "url": "https://t.co/uiGJAcFP0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790306724219621712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我沒有什麼意思，想死就死，但無聊時可以看看喔\n\nhttps://t.co/uiGJAcFP0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7487,
+          "following_count": 227,
+          "like_count": 6163,
+          "listed_count": 15,
+          "tweet_count": 8540
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

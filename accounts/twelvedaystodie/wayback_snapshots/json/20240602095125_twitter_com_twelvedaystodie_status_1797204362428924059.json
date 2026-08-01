@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1797204362428924059",
+    "created_at": "2024-06-02T09:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797204362428924059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797204362428924059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797198787699732685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVERDOSE_Wiki: 你小时候很乖的 会帮妈妈洗衣服做饭，怎么现在这样子了呢？为什么会家里蹲？宝贝？告诉妈妈，是不是因为在网络上看到不好的东西了？是不是因为日本动画片？是不是？是不是？是不是？为什么不回答我？？是不是？！妈妈辛辛苦苦把你养的这么大，你为什么要得抑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1797204362428924059",
+        "created_at": "2024-06-02T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797204362428924059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797204362428924059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797198787699732685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVERDOSE_Wiki: 你小时候很乖的 会帮妈妈洗衣服做饭，怎么现在这样子了呢？为什么会家里蹲？宝贝？告诉妈妈，是不是因为在网络上看到不好的东西了？是不是因为日本动画片？是不是？是不是？是不是？为什么不回答我？？是不是？！妈妈辛辛苦苦把你养的这么大，你为什么要得抑…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1797198787699732685",
+        "created_at": "2024-06-02T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797198787699732685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797198787699732685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你小时候很乖的 会帮妈妈洗衣服做饭，怎么现在这样子了呢？为什么会家里蹲？宝贝？告诉妈妈，是不是因为在网络上看到不好的东西了？是不是因为日本动画片？是不是？是不是？是不是？为什么不回答我？？是不是？！妈妈辛辛苦苦把你养的这么大，你为什么要得抑郁症？?!！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7532,
+          "following_count": 222,
+          "like_count": 6323,
+          "listed_count": 15,
+          "tweet_count": 8891
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "欢迎来到 overdose维基！\n这里是或许可以给予帮助的地方...\nhttps://t.co/Se3CfE5xNq 致力于成为一个免费且持续更新的入门参考od 知识整合站点\n\nwiki主比较nb会乱关注人，请见谅\n截止2024.03.03.03:50，该账号由多名人员运营",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 58,
+                "expanded_url": "http://overdose.wiki",
+                "start": 35,
+                "url": "https://t.co/Se3CfE5xNq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki",
+        "pinned_tweet_id": "1796780832750989603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4062,
+          "following_count": 2214,
+          "like_count": 1189,
+          "listed_count": 3,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

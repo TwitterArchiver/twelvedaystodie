@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792213286857170944"
+      ],
+      "media_source_tweet_id": [
+        "1792213391677043017"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "1799860292454846787",
+    "created_at": "2024-06-09T17:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T18:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799860292454846787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/V1bfqWKAxe",
+          "end": 38,
+          "expanded_url": "https://twitter.com/CJing3_/status/1792213391677043017/photo/1",
+          "media_key": "3_1792213286857170944",
+          "start": 15,
+          "url": "https://t.co/V1bfqWKAxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799860292454846787",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792213391677043017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CJing3_: 咪 https://t.co/V1bfqWKAxe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1799860292454846787].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1799860292454846787",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1799860292454846787"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1792213286857170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN84fSTbYAAgMkm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792213286857170944"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "1792213391677043017",
+        "created_at": "2024-05-19T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792213391677043017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/V1bfqWKAxe",
+              "end": 25,
+              "expanded_url": "https://twitter.com/CJing3_/status/1792213391677043017/photo/1",
+              "media_key": "3_1792213286857170944",
+              "start": 2,
+              "url": "https://t.co/V1bfqWKAxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792213391677043017",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7698,
+          "like_count": 455,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 48
+        },
+        "reply_settings": "following",
+        "text": "咪 https://t.co/V1bfqWKAxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7538,
+          "following_count": 226,
+          "like_count": 6401,
+          "listed_count": 15,
+          "tweet_count": 9054
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "楚鯨",
+        "id": "1658881840349061120",
+        "location": "你妈逼再偷我图把你们全家屠了",
+        "name": "主播韭菜重度依賴",
+        "pinned_tweet_id": "1799611309912363382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797193931526209536/xupz6m_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5061,
+          "following_count": 556,
+          "like_count": 3155,
+          "listed_count": 6,
+          "tweet_count": 341
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

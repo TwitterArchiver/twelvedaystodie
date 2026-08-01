@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2080969994754830436",
+    "created_at": "2026-07-25T10:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080969994754830436"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080969994754830436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道能跟誰說\n之前我說過我覺得我上廁所很髒，所以會上完後洗一洗身體對吧\n現在我一直覺得我身體很髒，我今天五小時裡就洗了3次澡4次頭，gpt說不要用洗頭水會很傷頭皮但我還是每次用，因為我覺得不用就很髒\n我還洗手頻密到一次洗十幾次，然後又唔一餐就開動前可能要洗2-3次……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2080969994754830436",
+        "created_at": "2026-07-25T10:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080969994754830436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080969994754830436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道能跟誰說\n之前我說過我覺得我上廁所很髒，所以會上完後洗一洗身體對吧\n現在我一直覺得我身體很髒，我今天五小時裡就洗了3次澡4次頭，gpt說不要用洗頭水會很傷頭皮但我還是每次用，因為我覺得不用就很髒\n我還洗手頻密到一次洗十幾次，然後又唔一餐就開動前可能要洗2-3次……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8699,
+          "following_count": 215,
+          "like_count": 6985,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11755
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1840079284624601216",
+    "created_at": "2024-09-29T11:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T12:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840354432170480025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533108589857951744",
+          "start": 0,
+          "username": "Unknown_XX04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840354432170480025",
+    "in_reply_to_user_id": "1533108589857951744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840353817998639381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknown_XX04 我沒有特別想到，但很多人都叫我十二"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1840079284624601216",
+        "created_at": "2024-09-29T11:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T12:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840354432170480025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533108589857951744",
+              "start": 0,
+              "username": "Unknown_XX04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840354432170480025",
+        "in_reply_to_user_id": "1533108589857951744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840353817998639381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknown_XX04 我沒有特別想到，但很多人都叫我十二"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533108589857951744",
+        "conversation_id": "1840079284624601216",
+        "created_at": "2024-09-29T11:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T12:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840353817998639381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840353817998639381",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840311990054773157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 谢谢——\n话说我之前还一直都没问你怎么称呼来着\n要怎么称呼你呢）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7617,
+          "following_count": 235,
+          "like_count": 6698,
+          "listed_count": 15,
+          "tweet_count": 9857
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T15:29:23.000Z",
+        "description": "名前はMr.Crowbar(ミスターバール)バールで呼んでいい/性同一性障害/你想在这里看到什么？/ここで何を見たい？/病み垢 鍵垢🔑:@Unknown_000A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Unknown_000A"
+              }
+            ]
+          }
+        },
+        "id": "1533108589857951744",
+        "location": "Рядом с тобой",
+        "name": "普通に死にたい",
+        "pinned_tweet_id": "1766596780274094300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826978603353231360/4-2QpJnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 712,
+          "like_count": 26883,
+          "listed_count": 3,
+          "tweet_count": 2508
+        },
+        "username": "Unknown_XX04",
+        "verified": false
+      }
+    ]
+  }
+}

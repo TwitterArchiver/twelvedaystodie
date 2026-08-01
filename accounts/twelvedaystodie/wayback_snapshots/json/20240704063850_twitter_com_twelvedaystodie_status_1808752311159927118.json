@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1808752311159927118",
+    "created_at": "2024-07-04T06:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T07:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808752311159927118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "843877426677473280",
+          "start": 3,
+          "username": "bio_man_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808752311159927118",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808210133182550235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bio_man_: 深夜我隨便點了部片\n看見一個女人抹著淚，對面前的男人說：你可以拍，但不可以發出去，我真的好愛你…\n那個男人點了點頭，含情脈脈的看著她說：不會的，妳把腿張開點。\n我把所有網站關了，看著窗外，發了會呆。我在想 到底什麼是愛呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1808752311159927118",
+        "created_at": "2024-07-04T06:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T07:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808752311159927118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "843877426677473280",
+              "start": 3,
+              "username": "bio_man_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808752311159927118",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808210133182550235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bio_man_: 深夜我隨便點了部片\n看見一個女人抹著淚，對面前的男人說：你可以拍，但不可以發出去，我真的好愛你…\n那個男人點了點頭，含情脈脈的看著她說：不會的，妳把腿張開點。\n我把所有網站關了，看著窗外，發了會呆。我在想 到底什麼是愛呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "843877426677473280",
+        "conversation_id": "1808210133182550235",
+        "created_at": "2024-07-02T18:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T19:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808210133182550235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808210133182550235",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 142883,
+          "like_count": 1281,
+          "quote_count": 25,
+          "reply_count": 44,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "深夜我隨便點了部片\n看見一個女人抹著淚，對面前的男人說：你可以拍，但不可以發出去，我真的好愛你…\n那個男人點了點頭，含情脈脈的看著她說：不會的，妳把腿張開點。\n我把所有網站關了，看著窗外，發了會呆。我在想 到底什麼是愛呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7554,
+          "following_count": 228,
+          "like_count": 6561,
+          "listed_count": 15,
+          "tweet_count": 9347
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-20T17:30:31.000Z",
+        "description": "食物| 攝影 |貝斯 |兔兔 うさぎ|\n大家都應該喜歡兔兔!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lu_food_cook?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lu_food_cook?igsh=OTRoZWJhem92NWhm",
+                "start": 0,
+                "url": "https://t.co/cxWZGhF6UL"
+              }
+            ]
+          }
+        },
+        "id": "843877426677473280",
+        "name": "lulu",
+        "pinned_tweet_id": "1790577384535761364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777634762271948800/02Vs_vjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1155,
+          "like_count": 31736,
+          "listed_count": 25,
+          "tweet_count": 7804
+        },
+        "url": "https://t.co/cxWZGhF6UL",
+        "username": "bio_man_",
+        "verified": false
+      }
+    ]
+  }
+}

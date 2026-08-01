@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817193178417807360"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1817193181873881520",
+    "created_at": "2024-07-27T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817193181873881520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/W4Rt5XSWlX",
+          "end": 128,
+          "expanded_url": "https://twitter.com/twelvedaystodie/status/1817193181873881520/photo/1",
+          "media_key": "3_1817193178417807360",
+          "start": 105,
+          "url": "https://t.co/W4Rt5XSWlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817193181873881520",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "你們每次都是我說要自殺才來\n我吊完頸哭了很久是因為我覺得我活不下去\n然後又把我當沒事人\n每次都只有這些時候才看我一眼\n我哭到超大聲，我已經去到在打遊戲時還在通話裡直接大哭\n我想好受點不斷割手\n你們又知道多少了 https://t.co/W4Rt5XSWlX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817193181873881520].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817193181873881520",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817193181873881520"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1817193178417807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTf3kV_bQAAoaET.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 226,
+          "like_count": 6605,
+          "listed_count": 15,
+          "tweet_count": 9502
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

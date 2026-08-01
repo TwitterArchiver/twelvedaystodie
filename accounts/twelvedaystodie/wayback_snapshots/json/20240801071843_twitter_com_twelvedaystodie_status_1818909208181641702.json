@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1818679908337692927",
+    "created_at": "2024-08-01T07:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T08:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818909208181641702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1145702353158299650",
+          "start": 0,
+          "username": "Clannad23026737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818909208181641702",
+    "in_reply_to_user_id": "1145702353158299650",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818704487902855667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clannad23026737 我好明白。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1818679908337692927",
+        "created_at": "2024-08-01T07:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T08:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818909208181641702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1145702353158299650",
+              "start": 0,
+              "username": "Clannad23026737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818909208181641702",
+        "in_reply_to_user_id": "1145702353158299650",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818704487902855667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clannad23026737 我好明白。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145702353158299650",
+        "conversation_id": "1818679908337692927",
+        "created_at": "2024-07-31T17:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T18:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818704487902855667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818704487902855667",
+        "in_reply_to_user_id": "1145702353158299650",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818704409620357465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我每次吃完都后悔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7603,
+          "following_count": 226,
+          "like_count": 6609,
+          "listed_count": 15,
+          "tweet_count": 9536
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-01T14:35:01.000Z",
+        "description": "六月雨|美羽（头像画师@milumu014）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "milumu014"
+              }
+            ]
+          }
+        },
+        "id": "1145702353158299650",
+        "location": "天台",
+        "name": "六月の雨模様|美羽",
+        "pinned_tweet_id": "1588474906072997889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806238961385590784/xbcGHNmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 317,
+          "like_count": 4092,
+          "listed_count": 6,
+          "tweet_count": 2495
+        },
+        "username": "Clannad23026737",
+        "verified": false
+      }
+    ]
+  }
+}

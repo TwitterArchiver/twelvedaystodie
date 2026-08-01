@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1847622606381601137",
+    "created_at": "2024-10-19T13:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T14:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847630695323357592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568115812489400321",
+          "start": 0,
+          "username": "topclassgourmet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847630695323357592",
+    "in_reply_to_user_id": "1568115812489400321",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847628706485002318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@topclassgourmet 就是想跟它和解結果那個人加深了那個陰影，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1847622606381601137",
+        "created_at": "2024-10-19T13:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T14:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847630695323357592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568115812489400321",
+              "start": 0,
+              "username": "topclassgourmet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847630695323357592",
+        "in_reply_to_user_id": "1568115812489400321",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847628706485002318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@topclassgourmet 就是想跟它和解結果那個人加深了那個陰影，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568115812489400321",
+        "conversation_id": "1847622606381601137",
+        "created_at": "2024-10-19T13:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T14:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847628706485002318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847628706485002318",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847622606381601137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 童年陰影總是會伴隨一生無法治愈的，我們要學會的是如何和他和平相處"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7699,
+          "following_count": 236,
+          "like_count": 6640,
+          "listed_count": 15,
+          "tweet_count": 9948
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "艾琳醬在這裡@linyeshitoude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "我不是艾琳是彤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787990035222114304/XHi3uTid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 555,
+          "like_count": 13001,
+          "listed_count": 0,
+          "tweet_count": 3127
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

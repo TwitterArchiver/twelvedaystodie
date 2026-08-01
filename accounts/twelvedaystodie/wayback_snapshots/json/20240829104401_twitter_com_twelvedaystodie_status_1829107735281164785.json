@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828880334949339136"
+      ],
+      "media_source_tweet_id": [
+        "1828880337507889277"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1829107735281164785",
+    "created_at": "2024-08-29T10:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T11:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829107735281164785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1753348784573001728",
+          "start": 3,
+          "username": "rorochan_990126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkbq0cjsra",
+          "end": 51,
+          "expanded_url": "https://twitter.com/rorochan_990126/status/1828880337507889277/photo/1",
+          "media_key": "3_1828880334949339136",
+          "start": 28,
+          "url": "https://t.co/XkbQ0CJsra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829107735281164785",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828880337507889277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rorochan_990126: 养狗人落泪了 https://t.co/XkbQ0CJsra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1828880334949339136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWF8-Y1aUAANV4H.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828880334949339136"
+          ],
+          "media_source_tweet_id": [
+            "1828880337507889277"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1829107735281164785",
+        "created_at": "2024-08-29T10:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T11:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829107735281164785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1753348784573001728",
+              "start": 3,
+              "username": "rorochan_990126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkbq0cjsra",
+              "end": 51,
+              "expanded_url": "https://twitter.com/rorochan_990126/status/1828880337507889277/photo/1",
+              "media_key": "3_1828880334949339136",
+              "start": 28,
+              "url": "https://t.co/XkbQ0CJsra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829107735281164785",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828880337507889277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rorochan_990126: 养狗人落泪了 https://t.co/XkbQ0CJsra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828880334949339136"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828880337507889277",
+        "created_at": "2024-08-28T19:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T20:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828880337507889277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkbq0cjsra",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rorochan_990126/status/1828880337507889277/photo/1",
+              "media_key": "3_1828880334949339136",
+              "start": 7,
+              "url": "https://t.co/XkbQ0CJsra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828880337507889277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 345357,
+          "like_count": 2511,
+          "quote_count": 50,
+          "reply_count": 183,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "养狗人落泪了 https://t.co/XkbQ0CJsra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7597,
+          "following_count": 230,
+          "like_count": 6636,
+          "listed_count": 14,
+          "tweet_count": 9705
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "普通女高中牲 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 喜歡所有正常交流的人",
+        "id": "1753348784573001728",
+        "location": "夢裡",
+        "name": "Mobius' poison✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828861073673572352/JbJPhB7i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 1180,
+          "like_count": 59975,
+          "listed_count": 4,
+          "tweet_count": 8583
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

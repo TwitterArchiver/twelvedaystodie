@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1931366445130346570",
+    "created_at": "2025-06-08T09:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T10:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931640032236015921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1923359888937500672",
+          "start": 0,
+          "username": "akiraoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931640032236015921",
+    "in_reply_to_user_id": "1923359888937500672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931366445130346570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiraoxo 完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1931366445130346570",
+        "created_at": "2025-06-08T09:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931640032236015921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923359888937500672",
+              "start": 0,
+              "username": "akiraoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931640032236015921",
+        "in_reply_to_user_id": "1923359888937500672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931366445130346570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiraoxo 完美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923359888937500672",
+        "conversation_id": "1931366445130346570",
+        "created_at": "2025-06-07T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931366445130346570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akiraoxo/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/akiraoxo/status/1930677259708612815",
+              "start": 13,
+              "url": "https://t.co/FHkfKv39Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931366445130346570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930677259708612815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯啊有點小肚腩還是可愛吧 https://t.co/FHkfKv39Go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8211,
+          "following_count": 235,
+          "like_count": 7098,
+          "listed_count": 15,
+          "media_count": 820,
+          "tweet_count": 10720
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T12:48:35.000Z",
+        "description": "Taipei | 掉落瑟瑟圖片所以18 ↓ 禁止( ◜𖥦◝ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/2004mnnn?utm_s…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/2004mnnn?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/fkOyfLMtZy"
+              }
+            ]
+          }
+        },
+        "id": "1923359888937500672",
+        "location": "銀河系",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1930096780492046719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923406339050721282/uW6FpSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 51,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/fkOyfLMtZy",
+        "username": "akiraoxo",
+        "verified": false
+      }
+    ]
+  }
+}

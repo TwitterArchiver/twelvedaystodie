@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "1823972412414943639",
+    "created_at": "2024-08-15T18:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T19:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824144145587507561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249609709968998400",
+          "start": 0,
+          "username": "cheeywip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824144145587507561",
+    "in_reply_to_user_id": "1249609709968998400",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824066325175849116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheeywip 謝謝！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1823972412414943639",
+        "created_at": "2024-08-15T18:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T19:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824144145587507561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249609709968998400",
+              "start": 0,
+              "username": "cheeywip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824144145587507561",
+        "in_reply_to_user_id": "1249609709968998400",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824066325175849116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheeywip 謝謝！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249609709968998400",
+        "conversation_id": "1823972412414943639",
+        "created_at": "2024-08-15T12:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T13:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824066325175849116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824066325175849116",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823972412414943639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 生日快樂！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 227,
+          "like_count": 6627,
+          "listed_count": 15,
+          "tweet_count": 9645
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T08:05:53.000Z",
+        "description": "無處安放的碎碎念碎碎念",
+        "id": "1249609709968998400",
+        "name": "霧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777704906054643712/2amX8ccS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 691,
+          "like_count": 89096,
+          "listed_count": 0,
+          "tweet_count": 1433
+        },
+        "username": "cheeywip",
+        "verified": false
+      }
+    ]
+  }
+}

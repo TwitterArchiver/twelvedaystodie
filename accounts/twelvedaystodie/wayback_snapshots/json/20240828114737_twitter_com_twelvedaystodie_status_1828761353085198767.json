@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828761348832141312"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1828761353085198767",
+    "created_at": "2024-08-28T11:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T12:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828761353085198767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlpvzpdmlk",
+          "end": 64,
+          "expanded_url": "https://twitter.com/twelvedaystodie/status/1828761353085198767/photo/1",
+          "media_key": "3_1828761348832141312",
+          "start": 41,
+          "url": "https://t.co/nLPvzpdMLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828761353085198767",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們去死吧，就是有你們在更多人才選擇自殺\n你以為你講這些想自殺的人就會害怕嗎\n操 https://t.co/nLPvzpdMLk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1828761348832141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWEQwfAaoAAUqxP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828761348832141312"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828761353085198767",
+        "created_at": "2024-08-28T11:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T12:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828761353085198767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlpvzpdmlk",
+              "end": 64,
+              "expanded_url": "https://twitter.com/twelvedaystodie/status/1828761353085198767/photo/1",
+              "media_key": "3_1828761348832141312",
+              "start": 41,
+              "url": "https://t.co/nLPvzpdMLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828761353085198767",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們去死吧，就是有你們在更多人才選擇自殺\n你以為你講這些想自殺的人就會害怕嗎\n操 https://t.co/nLPvzpdMLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7588,
+          "following_count": 230,
+          "like_count": 6635,
+          "listed_count": 14,
+          "tweet_count": 9700
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}
