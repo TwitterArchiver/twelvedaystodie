@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2094084096079315145",
+    "created_at": "2026-08-30T15:25:29.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094084096079315145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070820071912636416",
+          "start": 3,
+          "username": "R1nn_3x33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094084096079315145",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1820
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093209263141449879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1nn_3x33: Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2094084096079315145",
+        "created_at": "2026-08-30T15:25:29.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094084096079315145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070820071912636416",
+              "start": 3,
+              "username": "R1nn_3x33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094084096079315145",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1820
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093209263141449879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1nn_3x33: Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070820071912636416",
+        "conversation_id": "2093209263141449879",
+        "created_at": "2026-08-28T05:29:12.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093209263141449879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093209263141449879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 70876,
+          "like_count": 11615,
+          "quote_count": 43,
+          "reply_count": 68,
+          "retweet_count": 1820
+        },
+        "reply_settings": "everyone",
+        "text": "Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094084096079315145",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 210,
+          "like_count": 6925,
+          "listed_count": 13,
+          "media_count": 929,
+          "tweet_count": 11824
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T10:46:31.000Z",
+        "description": "𝑏𝑙𝑜𝑐𝑘 𝑑𝑜𝑛'𝑡 𝑟𝑒𝑝𝑜𝑟𝑡 ! ^^\n\n      𝑖𝑓𝑏 𝑏𝑙𝑖𝑛𝑑𝑙𝑦",
+        "id": "2070820071912636416",
+        "is_identity_verified": false,
+        "location": "𝘩𝘦/𝘵𝘩𝘦𝘺",
+        "most_recent_tweet_id": "2094046383376621631",
+        "name": "𝘳𝘪𝘯𝘯 𝘰𝘧 𝘪𝘺𝘬𝘺𝘬𝘵𝘸𝘵 ʚ♡⃛ɞ",
+        "pinned_tweet_id": "2088096012053389429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070820071912636416/1787986517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089411636541161472/rzkk-soo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 838,
+          "like_count": 15810,
+          "listed_count": 19,
+          "media_count": 101,
+          "tweet_count": 872
+        },
+        "url": "",
+        "username": "R1nn_3x33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

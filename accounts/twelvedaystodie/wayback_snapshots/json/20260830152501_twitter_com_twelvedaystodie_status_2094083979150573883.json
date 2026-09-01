@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081428246466285569"
+      ],
+      "media_source_tweet_id": [
+        "2081428281199300800"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2094083979150573883",
+    "created_at": "2026-08-30T15:25:01.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094083979150573883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040796101393944577",
+          "start": 3,
+          "username": "Izannoluwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DUJOsObKeH",
+          "end": 101,
+          "expanded_url": "https://x.com/Mr_izann/status/2081428281199300800/video/1",
+          "media_key": "13_2081428246466285569",
+          "start": 78,
+          "url": "https://t.co/DUJOsObKeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094083979150573883",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2081428246466285569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093895173465948401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Izannoluwa: when your trauma and anxiety hits you everytime you are alone https://t.co/DUJOsObKeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14382,
+        "height": 583,
+        "media_key": "13_2081428246466285569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081428246466285569/img/GYZWKfV0ovKLGKTj.jpg",
+        "public_metrics": {
+          "view_count": 219753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081428246466285569/vid/avc1/320x370/RsDt_gUZ3FnCi7z1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081428246466285569/vid/avc1/504x582/jmNoOCyoFA6iB4g0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081428246466285569/pl/8FpwVaoFrUUv4Cfb.m3u8?v=cfc"
+          }
+        ],
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081428246466285569"
+          ],
+          "media_source_tweet_id": [
+            "2081428281199300800"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2094083979150573883",
+        "created_at": "2026-08-30T15:25:01.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094083979150573883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040796101393944577",
+              "start": 3,
+              "username": "Izannoluwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUJOsObKeH",
+              "end": 101,
+              "expanded_url": "https://x.com/Mr_izann/status/2081428281199300800/video/1",
+              "media_key": "13_2081428246466285569",
+              "start": 78,
+              "url": "https://t.co/DUJOsObKeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094083979150573883",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2081428246466285569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093895173465948401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Izannoluwa: when your trauma and anxiety hits you everytime you are alone https://t.co/DUJOsObKeH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081428246466285569"
+          ],
+          "media_source_tweet_id": [
+            "2081428281199300800"
+          ]
+        },
+        "author_id": "2040796101393944577",
+        "conversation_id": "2093895173465948401",
+        "created_at": "2026-08-30T02:54:46.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093895173465948401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUJOsObKeH",
+              "end": 85,
+              "expanded_url": "https://x.com/Mr_izann/status/2081428281199300800/video/1",
+              "media_key": "13_2081428246466285569",
+              "start": 62,
+              "url": "https://t.co/DUJOsObKeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093895173465948401",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2081428246466285569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 11594,
+          "like_count": 730,
+          "quote_count": 23,
+          "reply_count": 2,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "when your trauma and anxiety hits you everytime you are alone https://t.co/DUJOsObKeH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081428246466285569"
+          ]
+        },
+        "author_id": "2040796101393944577",
+        "conversation_id": "2081428281199300800",
+        "created_at": "2026-07-26T17:15:47.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081428281199300800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgn1PbbH73",
+              "end": 59,
+              "expanded_url": "https://x.com/Mr_izann/status/2081428281199300800/video/1",
+              "media_key": "13_2081428246466285569",
+              "start": 36,
+              "url": "https://t.co/fgn1PbbH73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081428281199300800",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2081428246466285569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 354536,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "It's okay, it's not the first time. https://t.co/fgn1PbbH73"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094083979150573883",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 210,
+          "like_count": 6924,
+          "listed_count": 13,
+          "media_count": 929,
+          "tweet_count": 11823
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:18:19.000Z",
+        "description": "if you've lived it, it's probably here and if you are living it, it’s all here",
+        "id": "2040796101393944577",
+        "is_identity_verified": true,
+        "location": "Nigeria",
+        "most_recent_tweet_id": "2094078157460566067",
+        "name": "Izann",
+        "pinned_tweet_id": "2093798479319466278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040796101393944577/1786270644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067466356262309888/HOokXhme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 1399,
+          "like_count": 34743,
+          "listed_count": 3,
+          "media_count": 592,
+          "tweet_count": 23628
+        },
+        "url": "",
+        "username": "Izannoluwa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

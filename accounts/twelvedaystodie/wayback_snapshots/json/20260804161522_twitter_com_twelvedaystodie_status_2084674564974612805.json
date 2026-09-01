@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2084674564974612805",
+    "created_at": "2026-08-04T16:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084674564974612805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3437112521",
+          "start": 3,
+          "username": "elenadesaa1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084674564974612805",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 879
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084434382387855589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elenadesaa1999: Casi nadie habla de esto pero, es horrible darse cuenta de la cantidad de pérdida de memoria que ocasionan la depresión…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2084674564974612805",
+        "created_at": "2026-08-04T16:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084674564974612805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3437112521",
+              "start": 3,
+              "username": "elenadesaa1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084674564974612805",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 879
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084434382387855589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elenadesaa1999: Casi nadie habla de esto pero, es horrible darse cuenta de la cantidad de pérdida de memoria que ocasionan la depresión…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3437112521",
+        "conversation_id": "2084434382387855589",
+        "created_at": "2026-08-04T00:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084434382387855589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084434382387855589",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 61206,
+          "like_count": 3912,
+          "quote_count": 54,
+          "reply_count": 14,
+          "retweet_count": 879
+        },
+        "reply_settings": "everyone",
+        "text": "Casi nadie habla de esto pero, es horrible darse cuenta de la cantidad de pérdida de memoria que ocasionan la depresión y la ansiedad."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8702,
+          "following_count": 212,
+          "like_count": 6977,
+          "listed_count": 13,
+          "media_count": 928,
+          "tweet_count": 11785
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T19:36:58.000Z",
+        "description": "Autora de El disparo de la discordia. 📚 “Una habitación sin libros es un cuerpo sin alma” – Cicerón. Corazón afinado a Sanz y Veintiuno. 🎶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/elenadesaa?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/elenadesaa?igsh=d2FhbnBzbzNqNzM4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8TiRL2OX9w"
+              }
+            ]
+          }
+        },
+        "id": "3437112521",
+        "location": "Poesia",
+        "name": "Ele 🌻",
+        "pinned_tweet_id": "1198522849683812354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074609187124846592/tobeHRWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24916,
+          "following_count": 1281,
+          "like_count": 95968,
+          "listed_count": 37,
+          "media_count": 12740,
+          "tweet_count": 105072
+        },
+        "url": "https://t.co/8TiRL2OX9w",
+        "username": "elenadesaa1999",
+        "verified": false
+      }
+    ]
+  }
+}
