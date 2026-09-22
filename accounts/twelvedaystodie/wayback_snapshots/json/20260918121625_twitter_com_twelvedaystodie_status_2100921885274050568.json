@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100921842173419520"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2100921885274050568",
+    "created_at": "2026-09-18T12:16:25.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100921885274050568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGU2zcqprD",
+          "end": 23,
+          "expanded_url": "https://x.com/twelvedaystodie/status/2100921885274050568/video/1",
+          "media_key": "13_2100921842173419520",
+          "start": 0,
+          "url": "https://t.co/QGU2zcqprD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100921885274050568",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2100921842173419520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/QGU2zcqprD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12190,
+        "height": 972,
+        "media_key": "13_2100921842173419520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100921842173419520/img/gEvBrlCxn3EXx3NE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921842173419520/vid/avc1/606x270/4yGVoGNR03EhV5eu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921842173419520/vid/avc1/808x360/cozb274_1IcviGQp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921842173419520/vid/avc1/1616x720/BS89cdqu8ODaqsSk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100921842173419520/pl/-p9lbT-iPHtErxAz.m3u8?tag=14"
+          }
+        ],
+        "width": 2184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100921842173419520"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2100921885274050568",
+        "created_at": "2026-09-18T12:16:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100921885274050568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGU2zcqprD",
+              "end": 23,
+              "expanded_url": "https://x.com/twelvedaystodie/status/2100921885274050568/video/1",
+              "media_key": "13_2100921842173419520",
+              "start": 0,
+              "url": "https://t.co/QGU2zcqprD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100921885274050568",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100921842173419520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QGU2zcqprD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100921885274050568",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8646,
+          "following_count": 208,
+          "like_count": 6936,
+          "listed_count": 13,
+          "media_count": 925,
+          "tweet_count": 11853
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

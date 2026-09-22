@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2100767991726305351",
+    "created_at": "2026-09-18T12:19:17.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100922608195915851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169463957016330241",
+          "start": 0,
+          "username": "KyuukoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100922608195915851",
+    "in_reply_to_user_id": "1169463957016330241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100767991726305351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyuukoQ 互关在這裡寶寶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2100767991726305351",
+        "created_at": "2026-09-18T12:19:17.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100922608195915851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169463957016330241",
+              "start": 0,
+              "username": "KyuukoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100922608195915851",
+        "in_reply_to_user_id": "1169463957016330241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100767991726305351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyuukoQ 互关在這裡寶寶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169463957016330241",
+        "conversation_id": "2100767991726305351",
+        "created_at": "2026-09-18T02:04:54.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100767991726305351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100767991726305351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找不到前世的互关了....我想买电子烟啊....我没烟抽了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100922608195915851",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8646,
+          "following_count": 208,
+          "like_count": 6937,
+          "listed_count": 13,
+          "media_count": 925,
+          "tweet_count": 11855
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-05T04:15:20.000Z",
+        "description": "主账@KBDYD555 已被冻结 我是99 互关们求求你们回来吧 图片均为自己的旧照 99生活很困难可以的话请资助我一些谢谢你祝你生活顺利",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1169463957016330241",
+        "is_identity_verified": false,
+        "location": "🚪52",
+        "most_recent_tweet_id": "2100900168300449905",
+        "name": "老鼠国王重生",
+        "pinned_tweet_id": "2100115894748000432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169463957016330241/1785428054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096077006270271488/z5SsKM7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 456,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "KyuukoQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101397437512380416"
+      ],
+      "media_source_tweet_id": [
+        "2101397480910807378"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101663463571427565",
+    "created_at": "2026-09-20T13:23:11.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101663463571427565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1488532257308651527",
+          "start": 3,
+          "username": "volkovchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzmDaqWNd8",
+          "end": 69,
+          "expanded_url": "https://x.com/volkovchan/status/2101397480910807378/video/1",
+          "media_key": "13_2101397437512380416",
+          "start": 46,
+          "url": "https://t.co/dzmDaqWNd8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101663463571427565",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2101397437512380416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10664
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101397480910807378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @volkovchan: this trend makes me emotional https://t.co/dzmDaqWNd8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33356,
+        "height": 576,
+        "media_key": "13_2101397437512380416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101397437512380416/img/3tNsSRI86wMFD62L.jpg",
+        "public_metrics": {
+          "view_count": 310696
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101397437512380416/vid/avc1/360x270/ckWle1n0J4rfDP05.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101397437512380416/vid/avc1/480x360/McavFbK6vRwKtcus.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101397437512380416/vid/avc1/768x576/D67dK16HxQz7yb9o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101397437512380416/pl/BMQWc7KxdRR8KTfn.m3u8?v=418"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101397437512380416"
+          ],
+          "media_source_tweet_id": [
+            "2101397480910807378"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101663463571427565",
+        "created_at": "2026-09-20T13:23:11.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101663463571427565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1488532257308651527",
+              "start": 3,
+              "username": "volkovchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzmDaqWNd8",
+              "end": 69,
+              "expanded_url": "https://x.com/volkovchan/status/2101397480910807378/video/1",
+              "media_key": "13_2101397437512380416",
+              "start": 46,
+              "url": "https://t.co/dzmDaqWNd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101663463571427565",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101397437512380416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10664
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101397480910807378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @volkovchan: this trend makes me emotional https://t.co/dzmDaqWNd8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101397437512380416"
+          ]
+        },
+        "author_id": "1488532257308651527",
+        "conversation_id": "2101397480910807378",
+        "created_at": "2026-09-19T19:46:16.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101397480910807378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzmDaqWNd8",
+              "end": 53,
+              "expanded_url": "https://x.com/volkovchan/status/2101397480910807378/video/1",
+              "media_key": "13_2101397437512380416",
+              "start": 30,
+              "url": "https://t.co/dzmDaqWNd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101397480910807378",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101397437512380416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12228,
+          "impression_count": 546149,
+          "like_count": 53679,
+          "quote_count": 249,
+          "reply_count": 127,
+          "retweet_count": 10664
+        },
+        "reply_settings": "everyone",
+        "text": "this trend makes me emotional https://t.co/dzmDaqWNd8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101663463571427565",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8640,
+          "following_count": 208,
+          "like_count": 6915,
+          "listed_count": 13,
+          "media_count": 927,
+          "tweet_count": 11861
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-01T15:19:25.000Z",
+        "description": "兔 – artist ;; rsp｡ dx audhd + bpd + gad + paranoia ─ . soulbond + riako . ♡ ─ multifandom | repost/use art as pfp is ok with credits ‼️♡ @sunnysorrows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 137,
+                "username": "sunnysorrows"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "volkovchan.straw.page",
+                "end": 23,
+                "expanded_url": "http://volkovchan.straw.page",
+                "start": 0,
+                "url": "https://t.co/28l7U9QOwB"
+              }
+            ]
+          }
+        },
+        "id": "1488532257308651527",
+        "is_identity_verified": false,
+        "location": "hy/bun. minor! ",
+        "most_recent_tweet_id": "2101582764059279548",
+        "name": "ʚɞ yuri angel ｡ ֹ ₊ ꒱",
+        "pinned_tweet_id": "2084008799862444226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488532257308651527/1785635799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099236405419589632/P037zjHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4858,
+          "following_count": 3965,
+          "like_count": 36799,
+          "listed_count": 36,
+          "media_count": 8750,
+          "tweet_count": 31077
+        },
+        "url": "https://t.co/28l7U9QOwB",
+        "username": "volkovchan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
