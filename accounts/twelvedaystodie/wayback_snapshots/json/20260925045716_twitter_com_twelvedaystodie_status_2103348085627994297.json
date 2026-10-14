@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2103209910821605811",
+    "created_at": "2026-09-25T04:57:16.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103348085627994297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096619232096305153",
+          "start": 0,
+          "username": "iimiimi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103348085627994297",
+    "in_reply_to_user_id": "2096619232096305153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103209910821605811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iimiimi2 你可愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2103209910821605811",
+        "created_at": "2026-09-25T04:57:16.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103348085627994297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096619232096305153",
+              "start": 0,
+              "username": "iimiimi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103348085627994297",
+        "in_reply_to_user_id": "2096619232096305153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103209910821605811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iimiimi2 你可愛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096619232096305153",
+        "conversation_id": "2103209910821605811",
+        "created_at": "2026-09-24T19:48:13.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103209910821605811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103209910821605811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一點都不可愛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103348085627994297",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 209,
+          "like_count": 6931,
+          "listed_count": 13,
+          "media_count": 930,
+          "tweet_count": 11894
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T15:19:35.000Z",
+        "description": "ジライ(多分)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yumi__",
+                "end": 23,
+                "expanded_url": "https://lit.link/yumi__",
+                "start": 0,
+                "url": "https://t.co/kYdSC0PPiN"
+              }
+            ]
+          }
+        },
+        "id": "2096619232096305153",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103209910821605811",
+        "name": "ゆみ",
+        "pinned_tweet_id": "2102317276401967547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096619232096305153/1790006473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102065622112960512/iMbn5xTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 65,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/kYdSC0PPiN",
+        "username": "iimiimi2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

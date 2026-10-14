@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2108424014297448717",
+    "created_at": "2026-10-09T05:07:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108424014297448717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1756957524820144128",
+          "start": 3,
+          "username": "NakigaraNovel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108424014297448717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108204433134010679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NakigaraNovel: 高校生の時よく話していたメンヘラがいたんですけど。\nオーバードーズをして、家族への愚痴を連ねて、常に「死にたい」と言っていた彼女が普通に幸せそうに充実した生活を送っていて、家族仲も良好なようで。\n「よかったね」という気持ちと、多少の寂しさを…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2108424014297448717",
+        "created_at": "2026-10-09T05:07:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108424014297448717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1756957524820144128",
+              "start": 3,
+              "username": "NakigaraNovel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108424014297448717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108204433134010679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NakigaraNovel: 高校生の時よく話していたメンヘラがいたんですけど。\nオーバードーズをして、家族への愚痴を連ねて、常に「死にたい」と言っていた彼女が普通に幸せそうに充実した生活を送っていて、家族仲も良好なようで。\n「よかったね」という気持ちと、多少の寂しさを…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756957524820144128",
+        "conversation_id": "2108204433134010679",
+        "created_at": "2026-10-08T14:34:40.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108204433134010679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108204433134010679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 52993,
+          "like_count": 1588,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "高校生の時よく話していたメンヘラがいたんですけど。\nオーバードーズをして、家族への愚痴を連ねて、常に「死にたい」と言っていた彼女が普通に幸せそうに充実した生活を送っていて、家族仲も良好なようで。\n「よかったね」という気持ちと、多少の寂しさを覚える。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108424014297448717",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8654,
+          "following_count": 209,
+          "like_count": 6974,
+          "listed_count": 13,
+          "media_count": 934,
+          "tweet_count": 11959
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T08:25:06.000Z",
+        "description": "ゆらぎ。",
+        "id": "1756957524820144128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108233359600337028",
+        "name": "亡霊",
+        "pinned_tweet_id": "2097727094709256703",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077727343200948225/EhJlGF5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "NakigaraNovel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

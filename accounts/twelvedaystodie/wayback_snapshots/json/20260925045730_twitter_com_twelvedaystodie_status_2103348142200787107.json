@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2102999395965039009",
+    "created_at": "2026-09-25T04:57:30.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103348142200787107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804293294610092034",
+          "start": 0,
+          "username": "youko_sumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103348142200787107",
+    "in_reply_to_user_id": "1804293294610092034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103267391765696698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youko_sumi 對啊所以講一講而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2102999395965039009",
+        "created_at": "2026-09-25T04:57:30.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103348142200787107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804293294610092034",
+              "start": 0,
+              "username": "youko_sumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103348142200787107",
+        "in_reply_to_user_id": "1804293294610092034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103267391765696698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youko_sumi 對啊所以講一講而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804293294610092034",
+        "conversation_id": "2102999395965039009",
+        "created_at": "2026-09-24T23:36:37.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103267391765696698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103267391765696698",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102999395965039009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 这是我们自己的选择不是吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103348142200787107",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 209,
+          "like_count": 6932,
+          "listed_count": 13,
+          "media_count": 930,
+          "tweet_count": 11895
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T23:20:33.000Z",
+        "description": "CN & JP & EN & ES\n2010/2 | 男 | 中国人 | 温哥华\nCS2, 瓦, 游戏王, Persona, 主播女孩\n我是傻逼别跟我计较",
+        "id": "1804293294610092034",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103334041806393409",
+        "name": "葉子スミ",
+        "pinned_tweet_id": "2098219337991823633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804293294610092034/1773421622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102967078361976832/RdcTaIyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 212,
+          "like_count": 19972,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 3364
+        },
+        "url": "",
+        "username": "youko_sumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

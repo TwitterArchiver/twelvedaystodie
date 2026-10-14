@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106138455952556032"
+      ],
+      "media_source_tweet_id": [
+        "2106138476957581346"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2106623224037700072",
+    "created_at": "2026-10-04T05:51:30.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106623224037700072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1335261868223590401",
+          "start": 3,
+          "username": "yerayherr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xVomDO609T",
+          "end": 106,
+          "expanded_url": "https://x.com/yerayherr/status/2106138476957581346/video/1",
+          "media_key": "13_2106138455952556032",
+          "start": 83,
+          "url": "https://t.co/xVomDO609T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106623224037700072",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2106138455952556032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10938
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106138476957581346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yerayherr: dicen que si ignoran a un caballo blanco son 34 años de mala suerte https://t.co/xVomDO609T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12794,
+        "height": 720,
+        "media_key": "13_2106138455952556032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106138455952556032/img/TMPTZKq-b97ks-dq.jpg",
+        "public_metrics": {
+          "view_count": 1728575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106138455952556032/vid/avc1/404x270/vNNGIzjTvEilp-UE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106138455952556032/vid/avc1/540x360/HyGpgQMgeyVzGbc4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106138455952556032/vid/avc1/1080x720/gtkmgNYKcO-t5Cdl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106138455952556032/pl/q3TXosg3PI7Shdzo.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106138455952556032"
+          ],
+          "media_source_tweet_id": [
+            "2106138476957581346"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2106623224037700072",
+        "created_at": "2026-10-04T05:51:30.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106623224037700072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1335261868223590401",
+              "start": 3,
+              "username": "yerayherr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVomDO609T",
+              "end": 106,
+              "expanded_url": "https://x.com/yerayherr/status/2106138476957581346/video/1",
+              "media_key": "13_2106138455952556032",
+              "start": 83,
+              "url": "https://t.co/xVomDO609T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106623224037700072",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2106138455952556032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10938
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106138476957581346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yerayherr: dicen que si ignoran a un caballo blanco son 34 años de mala suerte https://t.co/xVomDO609T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106138455952556032"
+          ]
+        },
+        "author_id": "1335261868223590401",
+        "conversation_id": "2106138476957581346",
+        "created_at": "2026-10-02T21:45:17.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T22:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106138476957581346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVomDO609T",
+              "end": 91,
+              "expanded_url": "https://x.com/yerayherr/status/2106138476957581346/video/1",
+              "media_key": "13_2106138455952556032",
+              "start": 68,
+              "url": "https://t.co/xVomDO609T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106138476957581346",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2106138455952556032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5353,
+          "impression_count": 3686978,
+          "like_count": 228820,
+          "quote_count": 635,
+          "reply_count": 1014,
+          "retweet_count": 10938
+        },
+        "reply_settings": "everyone",
+        "text": "dicen que si ignoran a un caballo blanco son 34 años de mala suerte https://t.co/xVomDO609T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106623224037700072",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8652,
+          "following_count": 209,
+          "like_count": 6950,
+          "listed_count": 13,
+          "media_count": 928,
+          "tweet_count": 11928
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-05T16:37:01.000Z",
+        "description": "tuiteó todo | promo y colab dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yeray.vpe",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yeray.vpe",
+                "start": 0,
+                "url": "https://t.co/v0K5hxumnE"
+              }
+            ]
+          }
+        },
+        "id": "1335261868223590401",
+        "is_identity_verified": false,
+        "location": "🇮🇨",
+        "most_recent_tweet_id": "2106501389933228160",
+        "name": "ًyeray•♡",
+        "pinned_tweet_id": "1574028456584790020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335261868223590401/1707514076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756067110114009088/t6G_H_hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11196,
+          "following_count": 134,
+          "like_count": 114871,
+          "listed_count": 46,
+          "media_count": 1302,
+          "tweet_count": 38827
+        },
+        "url": "https://t.co/v0K5hxumnE",
+        "username": "yerayherr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2107860656712204786",
+    "created_at": "2026-10-07T15:48:37.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T16:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107860656712204786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/twelvedaystodi…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/twelvedaystodie/status/2107860412763091192",
+          "start": 46,
+          "url": "https://t.co/FmNA58HaFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107860656712204786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107860412763091192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我這裡的家暴是指被家暴但暫時不能逃離，只能在這裡被安慰的，不是家暴別人的人，兩樣事別搞錯了 https://t.co/FmNA58HaFC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2107860656712204786",
+        "created_at": "2026-10-07T15:48:37.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107860656712204786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twelvedaystodi…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/twelvedaystodie/status/2107860412763091192",
+              "start": 46,
+              "url": "https://t.co/FmNA58HaFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107860656712204786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107860412763091192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我這裡的家暴是指被家暴但暫時不能逃離，只能在這裡被安慰的，不是家暴別人的人，兩樣事別搞錯了 https://t.co/FmNA58HaFC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2107860412763091192",
+        "created_at": "2026-10-07T15:47:39.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107860412763091192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107860412763091192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得在這裡最幸福因為家暴吸毒郵票自殘edod都在這裡分享自己的生活，大家還互相支持，我覺得好溫暖啊~回不了正常社會的價值觀了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107860656712204786",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8653,
+          "following_count": 209,
+          "like_count": 6962,
+          "listed_count": 13,
+          "media_count": 932,
+          "tweet_count": 11948
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

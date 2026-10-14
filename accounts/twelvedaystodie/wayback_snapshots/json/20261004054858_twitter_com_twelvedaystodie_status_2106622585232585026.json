@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2106622585232585026",
+    "created_at": "2026-10-04T05:48:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106622585232585026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2482982852",
+          "start": 3,
+          "username": "marifazan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106622585232585026",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106445678151188875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marifazan: Deveria existir um site onde você publica seus desejos e pessoas ricas que não sabem o que fazer com seu dinheiro te dão o p…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2106622585232585026",
+        "created_at": "2026-10-04T05:48:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106622585232585026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2482982852",
+              "start": 3,
+              "username": "marifazan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106622585232585026",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106445678151188875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marifazan: Deveria existir um site onde você publica seus desejos e pessoas ricas que não sabem o que fazer com seu dinheiro te dão o p…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2482982852",
+        "conversation_id": "2106445678151188875",
+        "created_at": "2026-10-03T18:06:00.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106445678151188875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106445678151188875",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1564,
+          "impression_count": 897361,
+          "like_count": 38810,
+          "quote_count": 132,
+          "reply_count": 194,
+          "retweet_count": 3153
+        },
+        "reply_settings": "everyone",
+        "text": "Deveria existir um site onde você publica seus desejos e pessoas ricas que não sabem o que fazer com seu dinheiro te dão o presente de forma anônima."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106622585232585026",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8652,
+          "following_count": 209,
+          "like_count": 6949,
+          "listed_count": 13,
+          "media_count": 928,
+          "tweet_count": 11927
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-08T01:06:26.000Z",
+        "description": "lamentações, digo, observações diárias sobre a vida",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/marifazan",
+                "end": 23,
+                "expanded_url": "http://instagram.com/marifazan",
+                "start": 0,
+                "url": "https://t.co/2XAeXikjca"
+              }
+            ]
+          }
+        },
+        "id": "2482982852",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106445678151188875",
+        "name": "𝙛𝙖𝙯𝙖𝙣",
+        "pinned_tweet_id": "2015869382526726464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2482982852/1773146730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098508975872606208/mVyOzd6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125815,
+          "following_count": 106020,
+          "like_count": 363,
+          "listed_count": 103,
+          "media_count": 3906,
+          "tweet_count": 19880
+        },
+        "url": "https://t.co/2XAeXikjca",
+        "username": "marifazan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

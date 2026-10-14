@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2108424111005499704",
+    "created_at": "2026-10-09T05:07:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108424111005499704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2098548317886009347",
+          "start": 3,
+          "username": "TheKingsPofa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108424111005499704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108074654300602402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheKingsPofa: On March 6, 1981, Marianne Bachmeier shot and killed the man who raped and murdered her 7-year-old daughter. In the court…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62747,
+        "height": 368,
+        "media_key": "13_2108073826726645760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108073826726645760/img/ZTMcZkSWn8JuDO7m.jpg",
+        "public_metrics": {
+          "view_count": 885704
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108073826726645760/vid/avc1/422x270/ZdZOZsy62mN-uFth.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108073826726645760/vid/avc1/576x368/bggDPv5JcdmbkPEw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108073826726645760/pl/VyJMj4HuTXPoQbiV.m3u8?v=453"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2108424111005499704",
+        "created_at": "2026-10-09T05:07:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108424111005499704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2098548317886009347",
+              "start": 3,
+              "username": "TheKingsPofa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108424111005499704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108074654300602402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheKingsPofa: On March 6, 1981, Marianne Bachmeier shot and killed the man who raped and murdered her 7-year-old daughter. In the court…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108073826726645760"
+          ]
+        },
+        "author_id": "2098548317886009347",
+        "conversation_id": "2108074654300602402",
+        "created_at": "2026-10-08T05:58:58.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T06:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108074654300602402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVpLcCZMTO",
+              "end": 173,
+              "expanded_url": "https://x.com/TheKingsPofa/status/2108074654300602402/video/1",
+              "media_key": "13_2108073826726645760",
+              "start": 150,
+              "url": "https://t.co/PVpLcCZMTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108074654300602402",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2108073826726645760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2173,
+          "impression_count": 1771207,
+          "like_count": 28084,
+          "quote_count": 179,
+          "reply_count": 289,
+          "retweet_count": 2167
+        },
+        "reply_settings": "everyone",
+        "text": "On March 6, 1981, Marianne Bachmeier shot and killed the man who raped and murdered her 7-year-old daughter. In the courtroom, in front of the judge. https://t.co/PVpLcCZMTO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108424111005499704",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8654,
+          "following_count": 209,
+          "like_count": 6975,
+          "listed_count": 13,
+          "media_count": 934,
+          "tweet_count": 11960
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-11T23:05:50.000Z",
+        "description": "Love letters from a forgotten kingdom. Where every word was written for her.",
+        "id": "2098548317886009347",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108400606977118600",
+        "name": "Alexa Bless",
+        "pinned_tweet_id": "2108074654300602402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098548317886009347/1790447503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103915428879699968/WF7WkFfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 379,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "TheKingsPofa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

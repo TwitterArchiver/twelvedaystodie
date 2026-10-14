@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107871428359909376"
+      ],
+      "media_source_tweet_id": [
+        "2107871439521013819"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2108423897020530838",
+    "created_at": "2026-10-09T05:06:44.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108423897020530838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1165947963769851904",
+          "start": 3,
+          "username": "hakanbutsadd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mf36wlapSS",
+          "end": 86,
+          "expanded_url": "https://x.com/hakanbutsadd/status/2107871439521013819/video/1",
+          "media_key": "13_2107871428359909376",
+          "start": 63,
+          "url": "https://t.co/Mf36wlapSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108423897020530838",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2107871428359909376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107871439521013819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakanbutsadd: Kediyi görmezden gelenlere 77 yıl kötü şans. https://t.co/Mf36wlapSS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4597,
+        "height": 570,
+        "media_key": "13_2107871428359909376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107871428359909376/img/65YqH36Uo8NBlqqw.jpg",
+        "public_metrics": {
+          "view_count": 387395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107871428359909376/vid/avc1/320x336/P02UNtjvWwTAx2As.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107871428359909376/vid/avc1/480x504/ZJ_01A3t4zKh52aC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107871428359909376/vid/avc1/542x570/3HVU12zn3PN7QAn4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107871428359909376/pl/A92RP9EDaNbz-5W5.m3u8"
+          }
+        ],
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107871428359909376"
+          ],
+          "media_source_tweet_id": [
+            "2107871439521013819"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2108423897020530838",
+        "created_at": "2026-10-09T05:06:44.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108423897020530838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1165947963769851904",
+              "start": 3,
+              "username": "hakanbutsadd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mf36wlapSS",
+              "end": 86,
+              "expanded_url": "https://x.com/hakanbutsadd/status/2107871439521013819/video/1",
+              "media_key": "13_2107871428359909376",
+              "start": 63,
+              "url": "https://t.co/Mf36wlapSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108423897020530838",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2107871428359909376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107871439521013819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakanbutsadd: Kediyi görmezden gelenlere 77 yıl kötü şans. https://t.co/Mf36wlapSS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107871428359909376"
+          ]
+        },
+        "author_id": "1165947963769851904",
+        "conversation_id": "2107871439521013819",
+        "created_at": "2026-10-07T16:31:28.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107871439521013819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mf36wlapSS",
+              "end": 68,
+              "expanded_url": "https://x.com/hakanbutsadd/status/2107871439521013819/video/1",
+              "media_key": "13_2107871428359909376",
+              "start": 45,
+              "url": "https://t.co/Mf36wlapSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107871439521013819",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2107871428359909376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1657,
+          "impression_count": 994167,
+          "like_count": 115964,
+          "quote_count": 129,
+          "reply_count": 684,
+          "retweet_count": 5189
+        },
+        "reply_settings": "everyone",
+        "text": "Kediyi görmezden gelenlere 77 yıl kötü şans. https://t.co/Mf36wlapSS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108423897020530838",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8654,
+          "following_count": 209,
+          "like_count": 6972,
+          "listed_count": 13,
+          "media_count": 934,
+          "tweet_count": 11958
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-26T11:24:10.000Z",
+        "description": "İg sayfam👇🏼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/noisy.tumblr?i…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/noisy.tumblr?igshid=1i8s2hite1qi1",
+                "start": 0,
+                "url": "https://t.co/BE70o8iOY0"
+              }
+            ]
+          }
+        },
+        "id": "1165947963769851904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108262919733395636",
+        "name": "noisy.tumblr",
+        "pinned_tweet_id": "2031789714643030304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165947963769851904/1566852447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378799259676446727/CfzDx66Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63136,
+          "following_count": 27154,
+          "like_count": 11703,
+          "listed_count": 10,
+          "media_count": 3431,
+          "tweet_count": 14304
+        },
+        "url": "https://t.co/BE70o8iOY0",
+        "username": "hakanbutsadd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

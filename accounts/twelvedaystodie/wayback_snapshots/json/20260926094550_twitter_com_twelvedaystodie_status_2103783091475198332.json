@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2103272408580759552"
+      ],
+      "media_source_tweet_id": [
+        "2103272414629290245"
+      ]
+    },
+    "author_id": "1471510301233545216",
+    "conversation_id": "2103783091475198332",
+    "created_at": "2026-09-26T09:45:50.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103783091475198332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397399086488248325",
+          "start": 3,
+          "username": "aeriwishu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/08cOaZiDKw",
+          "end": 124,
+          "expanded_url": "https://x.com/aeriwishu/status/2103272414629290245/photo/1",
+          "media_key": "16_2103272408580759552",
+          "start": 101,
+          "url": "https://t.co/08cOaZiDKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103783091475198332",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "alt_text": "Horror Scary Meme GIF",
+        "media_key": "16_2103272408580759552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103272414629290245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aeriwishu: que ganas de enamorarme \n\nel estado en el q me encuentran siempre q me gusta alguien: https://t.co/08cOaZiDKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 264,
+        "media_key": "16_2103272408580759552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTBTHKtWIAAbf4G.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTBTHKtWIAAbf4G.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103272408580759552"
+          ],
+          "media_source_tweet_id": [
+            "2103272414629290245"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2103783091475198332",
+        "created_at": "2026-09-26T09:45:50.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103783091475198332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397399086488248325",
+              "start": 3,
+              "username": "aeriwishu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08cOaZiDKw",
+              "end": 124,
+              "expanded_url": "https://x.com/aeriwishu/status/2103272414629290245/photo/1",
+              "media_key": "16_2103272408580759552",
+              "start": 101,
+              "url": "https://t.co/08cOaZiDKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103783091475198332",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "alt_text": "Horror Scary Meme GIF",
+            "media_key": "16_2103272408580759552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103272414629290245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aeriwishu: que ganas de enamorarme \n\nel estado en el q me encuentran siempre q me gusta alguien: https://t.co/08cOaZiDKw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103272408580759552"
+          ]
+        },
+        "author_id": "1397399086488248325",
+        "conversation_id": "2103272414629290245",
+        "created_at": "2026-09-24T23:56:35.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103272414629290245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08cOaZiDKw",
+              "end": 109,
+              "expanded_url": "https://x.com/aeriwishu/status/2103272414629290245/photo/1",
+              "media_key": "16_2103272408580759552",
+              "start": 86,
+              "url": "https://t.co/08cOaZiDKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103272414629290245",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "alt_text": "Horror Scary Meme GIF",
+            "media_key": "16_2103272408580759552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1715,
+          "impression_count": 448582,
+          "like_count": 63691,
+          "quote_count": 422,
+          "reply_count": 49,
+          "retweet_count": 14268
+        },
+        "reply_settings": "everyone",
+        "text": "que ganas de enamorarme \n\nel estado en el q me encuentran siempre q me gusta alguien: https://t.co/08cOaZiDKw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103783091475198332",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 209,
+          "like_count": 6938,
+          "listed_count": 13,
+          "media_count": 931,
+          "tweet_count": 11902
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-26T03:48:07.000Z",
+        "description": "11:17",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/kva9zndf",
+                "end": 23,
+                "expanded_url": "https://rentry.co/kva9zndf",
+                "start": 0,
+                "url": "https://t.co/KlsBK7yHM8"
+              }
+            ]
+          }
+        },
+        "id": "1397399086488248325",
+        "is_identity_verified": false,
+        "location": "1 mochiz",
+        "most_recent_tweet_id": "2103635398044135873",
+        "name": "dani",
+        "pinned_tweet_id": "2097077698929598640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397399086488248325/1789523016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100037845838651392/YBWfBpdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2938,
+          "following_count": 1445,
+          "like_count": 265608,
+          "listed_count": 11,
+          "media_count": 28255,
+          "tweet_count": 125289
+        },
+        "url": "https://t.co/KlsBK7yHM8",
+        "username": "aeriwishu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

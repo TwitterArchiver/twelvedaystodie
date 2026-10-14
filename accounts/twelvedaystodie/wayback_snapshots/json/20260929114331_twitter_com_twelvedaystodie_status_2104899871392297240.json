@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1471510301233545216",
+    "conversation_id": "2104637178433446376",
+    "created_at": "2026-09-29T11:43:31.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104899871392297240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488047732975570944",
+          "start": 0,
+          "username": "Dusk73256265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104899871392297240",
+    "in_reply_to_user_id": "1488047732975570944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104637178433446376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dusk73256265 好耐無見到你……TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2104637171437387777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUsW0ibwAEYUCf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2104637178433446376",
+        "created_at": "2026-09-29T11:43:31.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104899871392297240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488047732975570944",
+              "start": 0,
+              "username": "Dusk73256265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104899871392297240",
+        "in_reply_to_user_id": "1488047732975570944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104637178433446376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dusk73256265 好耐無見到你……TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104637171437387777"
+          ]
+        },
+        "author_id": "1488047732975570944",
+        "conversation_id": "2104637178433446376",
+        "created_at": "2026-09-28T18:19:40.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104637178433446376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3DTPBSr1s",
+              "end": 26,
+              "expanded_url": "https://x.com/Dusk73256265/status/2104637178433446376/photo/1",
+              "media_key": "3_2104637171437387777",
+              "start": 3,
+              "url": "https://t.co/x3DTPBSr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104637178433446376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104637171437387777"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隨筆 https://t.co/x3DTPBSr1s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104899871392297240",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8661,
+          "following_count": 209,
+          "like_count": 6948,
+          "listed_count": 13,
+          "media_count": 928,
+          "tweet_count": 11917
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-31T07:13:46.000Z",
+        "description": "無人在意的一生",
+        "id": "1488047732975570944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104637178433446376",
+        "name": "♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488047732975570944/1664159065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573507678051397633/27_Py0ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 368,
+          "like_count": 10064,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 5069
+        },
+        "url": "",
+        "username": "Dusk73256265",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
